@@ -173,6 +173,11 @@ cp zh_HK.mo %{buildroot}%{_datadir}/locale/zh_HK/LC_MESSAGES/sys_string.mo
 cp zh_SG.mo %{buildroot}%{_datadir}/locale/zh_SG/LC_MESSAGES/sys_string.mo
 cp zh_TW.mo %{buildroot}%{_datadir}/locale/zh_TW/LC_MESSAGES/sys_string.mo
 
+mkdir -p %{buildroot}/usr/share/license
+install LICENSE %{buildroot}/usr/share/license/%{name}
+
 %files
 %defattr(-,root,root,-)
 %{_datadir}/locale/*/LC_MESSAGES/*
+/usr/share/license/%{name}
+
