@@ -1,56 +1,56 @@
 msgid "IDS_COM_BODY_FRIDAY"
-msgstr "金曜日"
+msgstr "Ուրբաթ"
 
 msgid "IDS_COM_BODY_MONDAY"
-msgstr "月曜日"
+msgstr "Երկուշաբթի"
 
 msgid "IDS_COM_BODY_SATURDAY"
-msgstr "土曜日"
+msgstr "Շաբաթ"
 
 msgid "IDS_COM_BODY_SUNDAY"
-msgstr "日曜日"
+msgstr "Կիրակի"
 
 msgid "IDS_COM_BODY_THURSDAY"
-msgstr "木曜日"
+msgstr "Հինգշաբթի"
 
 msgid "IDS_COM_BODY_TUESDAY"
-msgstr "火曜日"
+msgstr "Երեքշաբթի"
 
 msgid "IDS_COM_BODY_WEDNESDAY"
-msgstr "水曜日"
+msgstr "Չորեքշաբթի"
 
 msgid "IDS_COM_BODY_RINGTONES"
-msgstr "着信音"
+msgstr "Մեղեդիներ"
 
 msgid "IDS_COM_BODY_USER_NAME"
-msgstr "ユーザー名"
+msgstr "Օգտվողի անուն"
 
 msgid "IDS_COM_SK3_MORE"
-msgstr "その他"
+msgstr "Ավելի"
 
 msgid "IDS_COM_SK4_VIEW_BY"
-msgstr "表示"
+msgstr "Դիտել ըստ ..."
 
 msgid "IDS_COM_SK_HIDE"
-msgstr "非表示"
+msgstr "Թքցնել"
 
 msgid "IDS_COM_SK_MORE"
-msgstr "その他"
+msgstr "Ավելին"
 
 msgid "IDS_COM_SK_REFRESH"
-msgstr "更新"
+msgstr "Թարմացնել"
 
 msgid "IDS_COM_SK_UPDATE"
-msgstr "更新"
+msgstr "Թարմացնել"
 
 msgid "IDS_COM_SK_CANCEL"
-msgstr "キャンセル"
+msgstr "Չեղարկել"
 
 msgid "IDS_COM_BODY_AUTOMATIC"
-msgstr "自動"
+msgstr "Ավտոմատ"
 
 msgid "IDS_COM_BODY_EDIT"
-msgstr "編集"
+msgstr "Խմբագրել"
 
 msgid "IDS_COM_BODY_PICASA"
 msgstr "Picasa"
@@ -59,709 +59,709 @@ msgid "IDS_COM_BODY_YOU_TUBE"
 msgstr "YouTube"
 
 msgid "IDS_COM_HEADER_EDIT"
-msgstr "編集"
+msgstr "Խմբագրել"
 
 msgid "IDS_COM_POP_DELETE_ACCOUNT"
-msgstr "アカウントを削除"
+msgstr "Ջնջել հաշիվը"
 
 msgid "IDS_COM_SK4_SHARE"
-msgstr "共有"
+msgstr "Համօգտգրծել"
 
 msgid "IDS_COM_BODY_ALBUMS"
-msgstr "アルバム"
+msgstr "Ալբոմներ"
 
 msgid "IDS_COM_BODY_EMAIL_ADDRESS"
-msgstr "Eメールアドレス"
+msgstr "Էլ. փոստի հասցե"
 
 msgid "IDS_COM_BODY_LOCATION"
-msgstr "場所"
+msgstr "Գտնվելու վայր"
 
 msgid "IDS_COM_BODY_MANUAL"
-msgstr "手動"
+msgstr "Ձեռքով"
 
 msgid "IDS_COM_BODY_VIDEO"
-msgstr "動画"
+msgstr "Վիդեո"
 
 msgid "IDS_COM_POP_DELETE_Q"
-msgstr "削除しますか？"
+msgstr "Ջնջե՞լ"
 
 msgid "IDS_COM_POP_PASSWORD"
-msgstr "パスワード"
+msgstr "Գաղտնաբառ"
 
 msgid "IDS_COM_SK3_BLOCK"
-msgstr "ブロック"
+msgstr "Արգլփկել"
 
 msgid "IDS_COM_POP_SOUND_OFF"
-msgstr "サウンドOFF"
+msgstr "Ձայնն անջատել"
 
 msgid "IDS_COM_BODY_ACCOUNTS"
-msgstr "アカウント"
+msgstr "Հաշիվներ"
 
 msgid "IDS_COM_POP_SOUND_ON"
-msgstr "サウンドON"
+msgstr "Ձայնը միացնել"
 
 msgid "IDS_COM_BODY_IMAGES"
-msgstr "画像"
+msgstr "Պատկերներ"
 
 msgid "IDS_COM_BODY_OTHERS"
-msgstr "その他"
+msgstr "Այլ"
 
 msgid "IDS_COM_BODY_SEARCH"
-msgstr "検索"
+msgstr "Որոնել"
 
 msgid "IDS_COM_BODY_SUBJECT"
-msgstr "件名"
+msgstr "Թեմա"
 
 msgid "IDS_COM_BODY_VIDEOS"
-msgstr "動画"
+msgstr "Տեսահոլովակներ"
 
 msgid "IDS_COM_BODY_WALLPAPER"
-msgstr "壁紙"
+msgstr "Պաստառ"
 
 msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
-msgstr "連絡先に追加"
+msgstr "Ավելացնել Կոնտակտներում"
 
 msgid "IDS_COM_OPT_BRIGHTNESS"
-msgstr "明るさ"
+msgstr "Պայծառություն"
 
 msgid "IDS_COM_OPT_CREATE_CONTACT"
-msgstr "連絡先を登録"
+msgstr "Ստեղծել կոնտակտ"
 
 msgid "IDS_COM_OPT_DELETE"
-msgstr "削除"
+msgstr "Ջնջել"
 
 msgid "IDS_COM_OPT_SAVE"
-msgstr "保存"
+msgstr "Պահպանել"
 
 msgid "IDS_COM_POP_CONNECTING"
-msgstr "接続中..."
+msgstr "Միացում..."
 
 msgid "IDS_COM_POP_DELETED"
-msgstr "削除しました。"
+msgstr "Ջնջված է"
 
 msgid "IDS_COM_POP_DONE"
-msgstr "完了"
+msgstr "Կատարված է"
 
 msgid "IDS_COM_BODY_CALL"
-msgstr "発信"
+msgstr "Զանգ"
 
 msgid "IDS_COM_BODY_GALLERY"
-msgstr "ギャラリー"
+msgstr "Պատկերասրահ"
 
 msgid "IDS_COM_BODY_NONE"
-msgstr "なし"
+msgstr "Չկա"
 
 msgid "IDS_COM_BODY_SELECT_ALL"
-msgstr "全て選択"
+msgstr "Ընտրել բոլորը"
 
 msgid "IDS_COM_POP_CANCEL"
-msgstr "キャンセル"
+msgstr "Չեղարկել"
 
 msgid "IDS_COM_SK_ADD"
-msgstr "追加"
+msgstr "Ավելացնել"
 
 msgid "IDS_COM_SK_BACK"
-msgstr "戻る"
+msgstr "Հետ"
 
 msgid "IDS_COM_SK_CALL"
-msgstr "通話"
+msgstr "Զանգ"
 
 msgid "IDS_COM_SK_SAVE"
-msgstr "保存"
+msgstr "Պահել"
 
 msgid "IDS_COM_BODY_ALARM"
-msgstr "アラーム"
+msgstr "Ազդանշան"
 
 msgid "IDS_COM_BODY_ALL"
-msgstr "全て"
+msgstr "Բոլոր"
 
 msgid "IDS_COM_BODY_AUTH_PASSWORD"
-msgstr "パスワード"
+msgstr "Գաղտնաբառ"
 
 msgid "IDS_COM_BODY_BLUETOOTH"
 msgstr "Bluetooth"
 
 msgid "IDS_COM_BODY_CALENDAR"
-msgstr "カレンダー"
+msgstr "Օրացույց"
 
 msgid "IDS_COM_BODY_CAMERA"
-msgstr "カメラ"
+msgstr "Խցիկ"
 
 msgid "IDS_COM_BODY_CONTACTS"
-msgstr "電話帳"
+msgstr "Կոնտակտներ"
 
 msgid "IDS_COM_BODY_COPY"
-msgstr "コピー"
+msgstr "Պատճենել"
 
 msgid "IDS_COM_BODY_EMAIL"
-msgstr "Eメール"
+msgstr "Էլ.փոստ"
 
 msgid "IDS_COM_BODY_FACEBOOK"
 msgstr "Facebook"
 
 msgid "IDS_COM_BODY_FM_RADIO"
-msgstr "FMラジオ"
+msgstr "FM Ռադիո"
 
 msgid "IDS_COM_BODY_FORWARD"
-msgstr "転送"
+msgstr "Փոխանցել"
 
 msgid "IDS_COM_BODY_HELP"
-msgstr "ヘルプ"
+msgstr "Օգնություն"
 
 msgid "IDS_COM_BODY_IMAGE_EDITOR"
-msgstr "イメージエディター"
+msgstr "Պատկերի խմբագրիչ"
 
 msgid "IDS_COM_BODY_INTERNET"
-msgstr "ブラウザ"
+msgstr "Ինտերնետ"
 
 msgid "IDS_COM_BODY_LOGS"
-msgstr "履歴"
+msgstr "Մատյաններ"
 
 msgid "IDS_COM_BODY_MEMO"
-msgstr "メモ"
+msgstr "Հիշեցում"
 
 msgid "IDS_COM_BODY_MESSAGE"
-msgstr "メッセージ"
+msgstr "Հաղորդագրություն"
 
 msgid "IDS_COM_BODY_MESSAGES"
-msgstr "メッセージ"
+msgstr "Հղրդգրթ"
 
 msgid "IDS_COM_BODY_MUSIC"
-msgstr "音楽"
+msgstr "Երաժշտությն"
 
 msgid "IDS_COM_BODY_MY_FILES"
-msgstr "マイファイル"
+msgstr "Իմ Ֆայլերը"
 
 msgid "IDS_COM_BODY_OFF"
-msgstr "OFF"
+msgstr "Անջատված է"
 
 msgid "IDS_COM_BODY_ON"
-msgstr "ON"
+msgstr "Միացված է"
 
 msgid "IDS_COM_BODY_PHONE"
-msgstr "本体"
+msgstr "Հեռախոս"
 
 msgid "IDS_COM_BODY_SETTINGS"
-msgstr "設定"
+msgstr "Պարամետրեր"
 
 msgid "IDS_COM_BODY_VIDEO_CALL"
-msgstr "テレビ電話"
+msgstr "Վիդեո կանչ"
 
 msgid "IDS_COM_BODY_VOICE_CALL"
-msgstr "音声通話"
+msgstr "Ձայնային զանգ"
 
 msgid "IDS_COM_BODY_VOICE_RECORDER"
-msgstr "ボイスレコーダー"
+msgstr "Ձայնագրիչ"
 
 msgid "IDS_COM_BODY_WI_FI"
 msgstr "Wi-Fi"
 
 msgid "IDS_COM_POP_NEW_EMAILS"
-msgstr "新規Eメール"
+msgstr "Նոր էլ-նամակներ"
 
 msgid "IDS_COM_SK_DELETE"
-msgstr "削除"
+msgstr "Ջնջել"
 
 msgid "IDS_COM_SK_EDIT"
-msgstr "編集"
+msgstr "Խմբագրել"
 
 msgid "IDS_COM_SK_NO"
-msgstr "いいえ"
+msgstr "Ոչ"
 
 msgid "IDS_COM_SK_OK"
-msgstr "OK"
+msgstr "Ընդունել"
 
 msgid "IDS_COM_SK_RENAME"
-msgstr "名前変更"
+msgstr "Վրանվանել"
 
 msgid "IDS_COM_SK_SET"
-msgstr "設定"
+msgstr "Գործադրել"
 
 msgid "IDS_COM_SK_STOP"
-msgstr "停止"
+msgstr "Կանգնել"
 
 msgid "IDS_COM_SK_YES"
-msgstr "はい"
+msgstr "Այո"
 
 msgid "IDS_COM_BODY_DONE"
-msgstr "完了"
+msgstr "Կատարված է"
 
 msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
-msgstr "緊急通報"
+msgstr "Հրատապ զանգ"
 
 msgid "IDS_COM_BODY_FORWARDING"
-msgstr "転送"
+msgstr "Փոխանցում"
 
 msgid "IDS_COM_SK_DECLINE"
-msgstr "同意しない"
+msgstr "Մերժել"
 
 msgid "IDS_COM_BODY_GOOGLE"
 msgstr "Google"
 
 msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
-msgstr "Wi-Fi Kies接続"
+msgstr "Kies Wi-Fi-ի միջոցով"
 
 msgid "IDS_COM_BODY_NFC"
 msgstr "NFC"
 
 msgid "IDS_COM_BODY_CONTINUE"
-msgstr "次へ"
+msgstr "Շարունակել"
 
 msgid "IDS_COM_BUTTON_LOGIN"
-msgstr "ﾛｸﾞｲﾝ"
+msgstr "Մտ գծ"
 
 msgid "IDS_COM_BODY_NA"
-msgstr "なし"
+msgstr "Կիրառելի չէ"
 
 msgid "IDS_COM_BUTTON_SCAN"
-msgstr "スキャン"
+msgstr "Զննել"
 
 msgid "IDS_COM_BODY_BASIC"
-msgstr "標準"
+msgstr "Հիմնական"
 
 msgid "IDS_COM_BODY_CHANGE_NAME"
-msgstr "名前を変更"
+msgstr "Փոխել անունը"
 
 msgid "IDS_COM_BODY_DETAILS_TYPE"
-msgstr "タイプ"
+msgstr "Տեսակ"
 
 msgid "IDS_COM_BODY_DISPLAY"
-msgstr "ディスプレイ"
+msgstr "Էկրան"
 
 msgid "IDS_COM_BODY_EMAIL_SYNC"
-msgstr "Eメール同期"
+msgstr "Էլփոստի համաժամացում"
 
 msgid "IDS_COM_BODY_FOLDERS"
-msgstr "フォルダ"
+msgstr "Թղթապանակներ"
 
 msgid "IDS_COM_BODY_FWD_C"
-msgstr "FW:"
+msgstr "Փխնց."
 
 msgid "IDS_COM_BODY_INFORMATION"
-msgstr "情報"
+msgstr "Տեղեկություն"
 
 msgid "IDS_COM_BODY_MEMO_LIST"
-msgstr "メモリスト"
+msgstr "Հիշեցումների ցուցակ"
 
 msgid "IDS_COM_BODY_MINUTES_LC"
-msgstr "分"
+msgstr "րոպեներ"
 
 msgid "IDS_COM_BODY_MORE"
-msgstr "その他"
+msgstr "Ավելին"
 
 msgid "IDS_COM_BODY_NO_VIDEOS"
-msgstr "動画がありません。"
+msgstr "Տեսանյութ չկա"
 
 msgid "IDS_COM_BODY_PRIVATE"
-msgstr "非公開"
+msgstr "Գաղտնի"
 
 msgid "IDS_COM_BODY_RESUME"
-msgstr "再開"
+msgstr "Վերսկսել"
 
 msgid "IDS_COM_BODY_SECONDS_LC"
-msgstr "秒"
+msgstr "վայրկյաններ"
 
 msgid "IDS_COM_BODY_SELECTED"
-msgstr "選択済み"
+msgstr "Ընտրված"
 
 msgid "IDS_COM_BODY_SET_AS"
-msgstr "登録"
+msgstr "Նշանակել որպես"
 
 msgid "IDS_COM_BODY_SYSTEM"
-msgstr "システム"
+msgstr "Համակարգ"
 
 msgid "IDS_COM_BODY_UNABLE_TO_ADD"
-msgstr "追加できません"
+msgstr "Անհնար է ավելացնել"
 
 msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
-msgstr "壁紙を変更"
+msgstr "Փոխել պաստառը"
 
 msgid "IDS_COM_OPT_ADDED"
-msgstr "追加しました。"
+msgstr "Ավելացված է"
 
 msgid "IDS_COM_OPT_ADD_CONTACT"
-msgstr "連絡先を追加"
+msgstr "Ավելացնել կոնտակտ"
 
 msgid "IDS_COM_OPT_ADD_TAG"
-msgstr "タグを追加"
+msgstr "Հվլլ պիտակ"
 
 msgid "IDS_COM_OPT_FOLDERS"
-msgstr "フォルダ"
+msgstr "Թղթապանակներ"
 
 msgid "IDS_COM_OPT_NEW_TAG"
-msgstr "新しい​タグ"
+msgstr "Նոր տեգ"
 
 msgid "IDS_COM_OPT_SELECTED"
-msgstr "選択済み"
+msgstr "Ընտրված"
 
 msgid "IDS_COM_OPT_UPDATE"
-msgstr "更新"
+msgstr "Թարմացնել"
 
 msgid "IDS_COM_OPT_VIDEO"
-msgstr "動画"
+msgstr "Վիդեո"
 
 msgid "IDS_COM_POP_ADDED"
-msgstr "追加しました。"
+msgstr "Ավելացված է"
 
 msgid "IDS_COM_POP_ATTACH"
-msgstr "添付"
+msgstr "Կցել"
 
 msgid "IDS_COM_POP_CONNECTED"
-msgstr "接続しました。"
+msgstr "Միացված է"
 
 msgid "IDS_COM_POP_FILE_NOT_EXIST"
-msgstr "このファイルは存在しません。"
+msgstr "Այս ֆայլը գոյություն չունի"
 
 msgid "IDS_COM_POP_INVALID_CHARACTERS"
-msgstr "無効な文字です。"
+msgstr "Անվավեր նիշեր"
 
 msgid "IDS_COM_POP_MOVED"
-msgstr "移動しました。"
+msgstr "Տեղափոխված է"
 
 msgid "IDS_COM_POP_MOVING"
-msgstr "移動中..."
+msgstr "Տեղափոխում..."
 
 msgid "IDS_COM_POP_MOVING_FAILED"
-msgstr "移動に失敗しました。"
+msgstr "Տեղափոխումը ձախողվեց"
 
 msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
-msgstr "内部エラーが発生しました。"
+msgstr "Ներքին սխալ"
 
 msgid "IDS_COM_POP_NO_FILES_SELECTED"
-msgstr "ファイルが選択されていません"
+msgstr "Չի ընտրված որևէ ֆայլ"
 
 msgid "IDS_COM_POP_NO_TAGS_SELECTED"
-msgstr "タグ​が​選択​されて​いません"
+msgstr "Հատկորոշիչներ չեն ընտրվել"
 
 msgid "IDS_COM_POP_PROCESSING"
-msgstr "処理中..."
+msgstr "Ընթացքում է"
 
 msgid "IDS_COM_POP_RECORDING_FAILED"
-msgstr "録音に失敗しました。"
+msgstr "Ձայնագրումը ձախողվեց"
 
 msgid "IDS_COM_POP_RETRIEVED"
-msgstr "受信しました"
+msgstr "Ստացված է"
 
 msgid "IDS_COM_POP_RETRIEVING_FAILED"
-msgstr "受信できませんでした"
+msgstr "Ստացումը ձախողվեց"
 
 msgid "IDS_COM_POP_SAVING_FAILED"
-msgstr "保存に失敗しました。"
+msgstr "Պահպանումը ձախողվեց"
 
 msgid "IDS_COM_POP_SAVING_ING"
-msgstr "保存中..."
+msgstr "Պահպանում է..."
 
 msgid "IDS_COM_POP_SELECTED"
-msgstr "選択しました。"
+msgstr "Ընտրված"
 
 msgid "IDS_COM_OPT_COLOUR"
-msgstr "色"
+msgstr "Գույն"
 
 msgid "IDS_COM_POP_TRY_AGAIN"
-msgstr "再度実行してください。"
+msgstr "Կրկին փորձեք"
 
 msgid "IDS_COM_POP_UNLIMITED"
-msgstr "無制限"
+msgstr "Անսահմանափակ"
 
 msgid "IDS_COM_POP_VIBRATION"
-msgstr "バイブ"
+msgstr "Թրթռիչ"
 
 msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
-msgstr "今すぐロック解除しますか？"
+msgstr "Ցանկանո՞ւմ եք այժմ հանել արգելափակումը:"
 
 msgid "IDS_COM_SK_LANGUAGE"
-msgstr "言語"
+msgstr "Լեզու"
 
 msgid "IDS_COM_SK_MORE_LITE"
-msgstr "その他"
+msgstr "Ավելն"
 
 msgid "IDS_COM_SK_RECORD"
-msgstr "録音"
+msgstr "Ձայնագրել"
 
 msgid "IDS_COM_SK_RESULT"
-msgstr "結果"
+msgstr "Արդյունք"
 
 msgid "IDS_COM_SK_SET_AS"
-msgstr "設定"
+msgstr "Նշանակել որպես"
 
 msgid "IDS_COM_BODY_FAVOURITE"
-msgstr "お気に入り"
+msgstr "Սիրված"
 
 msgid "IDS_COM_BODY_TAG"
-msgstr "タグ"
+msgstr "Հայտանիշ"
 
 msgid "IDS_COM_OPT_SORT_BY"
-msgstr "ソート"
+msgstr "Տեսակավորել ըստ"
 
 msgid "IDS_COM_BODY_12_HOURS"
-msgstr "12時間"
+msgstr "12 ժամ"
 
 msgid "IDS_COM_BODY_1_SECOND"
-msgstr "1秒"
+msgstr "1 վայրկյան"
 
 msgid "IDS_COM_BODY_2_WEEKS"
-msgstr "2週間"
+msgstr "2 շաբաթ"
 
 msgid "IDS_COM_BODY_ALWAYS"
-msgstr "毎回"
+msgstr "Միշտ"
 
 msgid "IDS_COM_BODY_ALWAYS_ASK"
-msgstr "毎回確認"
+msgstr "Միշտ հարցնել"
 
 msgid "IDS_COM_BODY_AUTHOR"
-msgstr "著者"
+msgstr "Հեղինակ"
 
 msgid "IDS_COM_BODY_FLICKR"
 msgstr "Flickr"
 
 msgid "IDS_COM_BODY_NEVER"
-msgstr "なし"
+msgstr "Երբեք"
 
 msgid "IDS_COM_BODY_NOTE"
-msgstr "ノート"
+msgstr "Նշում"
 
 msgid "IDS_COM_BODY_PREVIOUS_DAYS"
-msgstr "前のメール"
+msgstr "Նախորդ օրեր"
 
 msgid "IDS_COM_BODY_SEARCHING"
-msgstr "検索しています。"
+msgstr "Որոնում"
 
 msgid "IDS_COM_BODY_SOUNDS"
-msgstr "サウンド"
+msgstr "Ձայներ"
 
 msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
-msgstr "本文を入力"
+msgstr "Թակել՝ տեքստ ավելացնելու համար"
 
 msgid "IDS_COM_BODY_VIA_EMAIL"
-msgstr "Eメール"
+msgstr "Էլ.փոստով"
 
 msgid "IDS_COM_BUTTON_SHARE"
-msgstr "共有"
+msgstr "Համօգտ."
 
 msgid "IDS_COM_OPT_FILES"
-msgstr "ファイル"
+msgstr "Ֆայլեր"
 
 msgid "IDS_COM_OPT_IMPORT"
-msgstr "インポート"
+msgstr "Ներարկում"
 
 msgid "IDS_COM_OPT_VIA_EMAIL"
-msgstr "Eメール"
+msgstr "Էլ.փոստով"
 
 msgid "IDS_COM_POP_FILE"
-msgstr "ファイル"
+msgstr "Ֆայլ"
 
 msgid "IDS_COM_POP_INITIALIZING"
-msgstr "初期化中..."
+msgstr "Գործարկում..."
 
 msgid "IDS_COM_POP_INSTALLING_ING"
-msgstr "インストール中..."
+msgstr "Տեղադրում..."
 
 msgid "IDS_COM_POP_INVALID_URL"
-msgstr "無効なURLです。"
+msgstr "Անվավեր URL"
 
 msgid "IDS_COM_POP_PRIORITY"
-msgstr "優先度"
+msgstr "Առաջնություն"
 
 msgid "IDS_COM_POP_SENT"
-msgstr "送信完了"
+msgstr "Ուղարկված է"
 
 msgid "IDS_COM_POP_UNABLE_TO_SAVE"
-msgstr "保存できません。"
+msgstr "Անհնար է պահել"
 
 msgid "IDS_COM_SK_CONFIRM_LITE"
-msgstr "確認"
+msgstr "Հստել"
 
 msgid "IDS_COM_BUTTON_RECENT"
-msgstr "最近の履歴"
+msgstr "Վերջերս"
 
 msgid "IDS_COM_BODY_BOOKMARK"
-msgstr "ブックマーク"
+msgstr "Էջանիշ"
 
 msgid "IDS_COM_BODY_BOOKMARKS"
-msgstr "ブックマーク"
+msgstr "Էջանիշեր"
 
 msgid "IDS_COM_BODY_LIST_BY"
-msgstr "ソート"
+msgstr "Թվարկել ըստ"
 
 msgid "IDS_COM_BODY_LOADING"
-msgstr "読み込み中..."
+msgstr "Բեռնում է..."
 
 msgid "IDS_COM_BODY_PREVIOUS"
-msgstr "戻る"
+msgstr "Նախորդ"
 
 msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
-msgstr "宛先を追加"
+msgstr "Սեղմեք թեթևակի՝ հասցեատեր ավելացնելու համար"
 
 msgid "IDS_COM_OPT_CALLER_ID"
-msgstr "発信者ID"
+msgstr "Զանգահարողի ID"
 
 msgid "IDS_COM_POP_CALLER_ID"
-msgstr "発信者ID"
+msgstr "Զանգահարողի ID"
 
 msgid "IDS_COM_POP_DOWNLOAD_FAILED"
-msgstr "ダウンロードに失敗しました。"
+msgstr "Բեռնումն անհասանելի է"
 
 msgid "IDS_COM_POP_FILE_NOT_FOUND"
-msgstr "ファイルが見つかりません。"
+msgstr "Ֆայլը հայտնաբերված չէ"
 
 msgid "IDS_COM_POP_NETWORK_ERROR"
-msgstr "ネットワークエラーが発生しました。"
+msgstr "Ցանցի սխալ"
 
 msgid "IDS_COM_POP_NO_ACCOUNTS"
-msgstr "アカウントがありません。"
+msgstr "Հաշիվներ չկան"
 
 msgid "IDS_COM_SK_RESTART"
-msgstr "再起動"
+msgstr "Վերսկսել"
 
 msgid "IDS_COM_OPT_COPY"
-msgstr "コピー"
+msgstr "Պատճենել"
 
 msgid "IDS_COM_BODY_ALBUM"
-msgstr "アルバム"
+msgstr "Ալբոմ"
 
 msgid "IDS_COM_BODY_AUTO_REFRESH"
-msgstr "自動更新"
+msgstr "Ինքնանորացում"
 
 msgid "IDS_COM_BODY_DESCRIPTION"
-msgstr "詳細"
+msgstr "Նկարագրություն"
 
 msgid "IDS_COM_BODY_DOWNLOADED"
-msgstr "ダウンロードしました。"
+msgstr "Բեռնված է"
 
 msgid "IDS_COM_BODY_DOWNLOADS"
-msgstr "ダウンロード"
+msgstr "Բեռնումներ"
 
 msgid "IDS_COM_BODY_EMAIL_SIZE"
-msgstr "Eメールサイズ"
+msgstr "Էլ. փոստի հաղորդագրության չափսը"
 
 msgid "IDS_COM_BODY_ENTER_PASSWORD"
-msgstr "パスワードを入力"
+msgstr "Մուտքագրեք գաղտնաբառը"
 
 msgid "IDS_COM_BODY_FORMAT"
-msgstr "ファイルタイプ"
+msgstr "Ձևաչափել"
 
 msgid "IDS_COM_BODY_GOOGLE_MAPS"
-msgstr "マップ"
+msgstr "Google Քարտեզներ"
 
 msgid "IDS_COM_BODY_ID"
 msgstr "ID"
 
 msgid "IDS_COM_BODY_NO_CONTENTS"
-msgstr "コンテンツがありません。"
+msgstr "Պարունակության բացակայություն"
 
 msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
-msgstr "検索結果がありません。"
+msgstr "Որոնման արդյունքներ չկան"
 
 msgid "IDS_COM_BODY_PASSWORD"
-msgstr "パスワード"
+msgstr "Գաղտնաբառ"
 
 msgid "IDS_COM_BODY_REMOVE"
-msgstr "削除"
+msgstr "Հեռացնել"
 
 msgid "IDS_COM_BODY_SEND_MESSAGE"
-msgstr "メッセージ送信"
+msgstr "Ուղարկել հաղորդագրություն"
 
 msgid "IDS_COM_BODY_SIZE"
-msgstr "サイズ"
+msgstr "Չափս"
 
 msgid "IDS_COM_BODY_START"
-msgstr "スタート"
+msgstr "Սկիզբ"
 
 msgid "IDS_COM_BODY_SUN"
-msgstr "日"
+msgstr "Կիր"
 
 msgid "IDS_COM_BODY_TAKE_PHOTO"
-msgstr "カメラを起動"
+msgstr "Նկարահանում"
 
 msgid "IDS_COM_BODY_TAP_TO_ADD"
-msgstr "追加"
+msgstr "Թեթև սեղմեք ավելացնելու համար"
 
 msgid "IDS_COM_BODY_TO"
-msgstr "宛先"
+msgstr "Ում"
 
 msgid "IDS_COM_BODY_VOICE"
-msgstr "音声"
+msgstr "Ձայն"
 
 msgid "IDS_COM_BODY_WARNING"
-msgstr "警告"
+msgstr "Զգուշացում"
 
 msgid "IDS_COM_BUTTON_REPLY"
-msgstr "返信"
+msgstr "Պտսխնել"
 
 msgid "IDS_COM_BUTTON_SIGN_OUT"
-msgstr "サインアウト"
+msgstr "Դուրս գալ"
 
 msgid "IDS_COM_BUTTON_SIGN_UP"
-msgstr "サインアップ"
+msgstr "Գրանցվել"
 
 msgid "IDS_COM_HEADER_SIGN_IN"
-msgstr "サインイン"
+msgstr "Մուտք գործել"
 
 msgid "IDS_COM_OPT_HIGH_M_QUALITY"
-msgstr "高"
+msgstr "Բարձր"
 
 msgid "IDS_COM_OPT_UNREAD"
-msgstr "未読"
+msgstr "Չկարդացած"
 
 msgid "IDS_COM_OPT_VIA_BLUETOOTH"
-msgstr "Bluetooth経由"
+msgstr "Bluetooth-ի միջոցով"
 
 msgid "IDS_COM_POP_ALREDY_EXISTS"
-msgstr "既に登録されています。"
+msgstr "Արդեն գոյություն ունի"
 
 msgid "IDS_COM_POP_CANCELLED"
-msgstr "キャンセルしました。"
+msgstr "Չեղարկված է"
 
 msgid "IDS_COM_POP_DELETING"
-msgstr "削除中..."
+msgstr "Ջնջվում է..."
 
 msgid "IDS_COM_POP_DOWNLOADING"
-msgstr "ダウンロード中..."
+msgstr "Բեռնում..."
 
 msgid "IDS_COM_POP_FORMAT"
-msgstr "ファイル形式"
+msgstr "Ձևաչափ"
 
 msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
-msgstr "メモリカードが挿入されました"
+msgstr "Հիշողության քարտը տեղադրված է"
 
 msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
-msgstr "外部SDカードが取り外されました。"
+msgstr "Հիշողության քարտը հեռացված է"
 
 msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
-msgstr "メモリが不足しています。"
+msgstr "Չկա բավական հիշողություն"
 
 msgid "IDS_COM_POP_REMOVED"
-msgstr "削除しました。"
+msgstr "Հեռացված է"
 
 msgid "IDS_COM_POP_SEARCHING"
-msgstr "検索中..."
+msgstr "Որոնում է..."
 
 msgid "IDS_COM_POP_SENDING_FAILED"
-msgstr "送信に失敗しました。"
+msgstr "Ուղարկումը ձախողվեց"
 
 msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
-msgstr "サービスを利用できません。"
+msgstr "Ծառայությունը անհասանելի է"
 
 msgid "IDS_COM_POP_TYPE"
-msgstr "タイプ"
+msgstr "Տեսակ"
 
 msgid "IDS_COM_POP_UNABLE_TO_DELETE"
-msgstr "削除できません。"
+msgstr "Անհար է ջնջել"
 
 msgid "IDS_COM_SK3_COMPOSE"
-msgstr "新規作成"
+msgstr "Կազմել"
 
 msgid "IDS_COM_SK_DOWNLOAD"
-msgstr "ダウンロード"
+msgstr "Ներբեռնել"
 
 msgid "IDS_COM_SK_NEW"
-msgstr "新規"
+msgstr "Նոր"
 
 msgid "IDS_COM_SK_REPLY"
-msgstr "返信"
+msgstr "Պտսխանել"
 
 msgid "IDS_COM_SK_START"
-msgstr "スタート"
+msgstr "Սկսել"
 
 msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
 msgstr "°C"
@@ -770,196 +770,196 @@ msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
 msgstr "°F"
 
 msgid "IDS_COM_SK3_PREVIEW"
-msgstr "プレビュー"
+msgstr "Դիտում"
 
 msgid "IDS_COM_POP_SOS"
 msgstr "SOS"
 
 msgid "IDS_COM_POP_DELETE_FAILED"
-msgstr "削除できませんでした。"
+msgstr "Ջնջումը ձախողվեց"
 
 msgid "IDS_COM_SK_RETRY"
-msgstr "再接続"
+msgstr "Կրկին փորձել"
 
 msgid "IDS_COM_BODY_1_DAY"
-msgstr "1日"
+msgstr "1 օր"
 
 msgid "IDS_COM_BODY_1_HOUR"
-msgstr "1時間"
+msgstr "1 ժամ"
 
 msgid "IDS_COM_BODY_1_MINUTE"
-msgstr "1分"
+msgstr "1 րոպե"
 
 msgid "IDS_COM_BODY_1_WEEK"
-msgstr "1週間"
+msgstr "1 շաբաթ"
 
 msgid "IDS_COM_BODY_BIRTHDAY"
-msgstr "誕生日"
+msgstr "Ծննդյան օր"
 
 msgid "IDS_COM_BODY_CLOSE"
-msgstr "閉じる"
+msgstr "Փակել"
 
 msgid "IDS_COM_BODY_CREATE_FOLDER"
-msgstr "フォルダ作成"
+msgstr "Ստեղծել թղթապանակ"
 
 msgid "IDS_COM_BODY_DETAILS"
-msgstr "詳細"
+msgstr "Մանրամասներ"
 
 msgid "IDS_COM_BODY_ENTER_NAME"
-msgstr "名前を入力してください。"
+msgstr "Մուտքագրեք անունը"
 
 msgid "IDS_COM_BODY_FONT"
-msgstr "フォント"
+msgstr "Տառատեսակ"
 
 msgid "IDS_COM_BODY_GROUP"
-msgstr "グループ"
+msgstr "Խումբ"
 
 msgid "IDS_COM_BODY_INFO"
-msgstr "詳細"
+msgstr "Տեղեկատվություն"
 
 msgid "IDS_COM_BODY_MELODY"
-msgstr "メロディ"
+msgstr "Մեղեդի"
 
 msgid "IDS_COM_BODY_PD_MINUTES"
-msgstr "%d分"
+msgstr "%d րոպե"
 
 msgid "IDS_COM_BODY_RENAME"
-msgstr "名前を変更"
+msgstr "Վերանվանել"
 
 msgid "IDS_COM_BODY_RINGTONE"
-msgstr "着信音"
+msgstr "Մեղեդի"
 
 msgid "IDS_COM_BODY_SEND"
-msgstr "送信"
+msgstr "Ուղարկում"
 
 msgid "IDS_COM_BODY_SMS"
 msgstr "SMS"
 
 msgid "IDS_COM_BODY_TODAY"
-msgstr "今日"
+msgstr "Այսօր"
 
 msgid "IDS_COM_BODY_YESTERDAY"
-msgstr "昨日"
+msgstr "Երեկ"
 
 msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
-msgstr "ブックマークに追加"
+msgstr "Ավելացնել Էջանիշերում"
 
 msgid "IDS_COM_OPT_EFFECTS"
-msgstr "効果"
+msgstr "Էֆեկտներ"
 
 msgid "IDS_COM_OPT_IMAGE"
-msgstr "画像"
+msgstr "Պատկեր"
 
 msgid "IDS_COM_OPT_KEYPAD"
-msgstr "キーパッド"
+msgstr "Ստեղնաշար"
 
 msgid "IDS_COM_OPT_LOGOUT"
-msgstr "ログアウト"
+msgstr "Անջատում"
 
 msgid "IDS_COM_POP_ACCEPT"
-msgstr "応答"
+msgstr "Ընդունել"
 
 msgid "IDS_COM_POP_AM_M_ABB"
 msgstr "AM"
 
 msgid "IDS_COM_POP_CHANGE_PASSWORD"
-msgstr "パスワードを変更"
+msgstr "Փոխել գաղտնաբառը"
 
 msgid "IDS_COM_POP_CLEAR"
-msgstr "消去"
+msgstr "Մաքրել"
 
 msgid "IDS_COM_POP_CLOSE"
-msgstr "閉じる"
+msgstr "Փակել"
 
 msgid "IDS_COM_POP_CONNECTION_ERROR"
-msgstr "接続エラーが発生しました。"
+msgstr "Միացման սխալ"
 
 msgid "IDS_COM_POP_CONNECTION_FAILED"
-msgstr "接続に失敗しました。"
+msgstr "Միացումը ձախողվեց"
 
 msgid "IDS_COM_POP_ENTER_NAME"
-msgstr "名前を入力してください。"
+msgstr "Մուտքագրեք անունը"
 
 msgid "IDS_COM_POP_ERROR"
-msgstr "エラー"
+msgstr "Սխալ"
 
 msgid "IDS_COM_POP_INCORRECT_PASSWORD"
-msgstr "不正なパスワードです。"
+msgstr "Սխալ գաղտնաբառ"
 
 msgid "IDS_COM_POP_INVALID_PASSWORD"
-msgstr "無効なパスワードです。"
+msgstr "Սխալ գաղտնաբառ"
 
 msgid "IDS_COM_POP_PD_HOURS"
-msgstr "%d時間"
+msgstr "%d ժամ"
 
 msgid "IDS_COM_POP_REJECT"
-msgstr "拒否"
+msgstr "Մերժել"
 
 msgid "IDS_COM_POP_REJECTED"
-msgstr "拒否されました。"
+msgstr "Մերժված է"
 
 msgid "IDS_COM_POP_SAVED"
-msgstr "保存しました。"
+msgstr "Պահպանվեց"
 
 msgid "IDS_COM_POP_SENDING"
-msgstr "送信中..."
+msgstr "Ուղարկում..."
 
 msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
-msgstr "未対応の\nファイル形式です。"
+msgstr "Անհամատեղելի\nֆայլի տեսակ"
 
 msgid "IDS_COM_POP_UPDATE"
-msgstr "更新"
+msgstr "Թարմացնել"
 
 msgid "IDS_COM_POP_UPDATED"
-msgstr "更新しました。"
+msgstr "Թարմացված է"
 
 msgid "IDS_COM_SK_ADD_ACCOUNT"
-msgstr "アカウント追加"
+msgstr "Հաշվի ավելացում"
 
 msgid "IDS_IDLE_BODY_NORMAL"
-msgstr "標準"
+msgstr "Նորմալ"
 
 msgid "IDS_IDLE_BUTTON_CANCEL"
-msgstr "キャンセル"
+msgstr "Չեղարկել"
 
 msgid "IDS_COM_BODY_CONTACT"
-msgstr "連絡先"
+msgstr "Կոնտակտ"
 
 msgid "IDS_COM_BODY_MAPS"
-msgstr "マップ"
+msgstr "Քարտեզներ"
 
 msgid "IDS_COM_BODY_MUSIC_STORE"
-msgstr "ミュージックストア"
+msgstr "Երաժշտական խանութ"
 
 msgid "IDS_COM_BODY_NO_NAME"
-msgstr "名前なし"
+msgstr "Անուն չկա"
 
 msgid "IDS_COM_BODY_NO_SIM"
-msgstr "SIM未挿入"
+msgstr "SIM չկա"
 
 msgid "IDS_COM_POP_ADDRESS"
-msgstr "住所"
+msgstr "Հասցե"
 
 msgid "IDS_COM_POP_FAILED"
-msgstr "失敗しました。"
+msgstr "Ձախողվեց"
 
 msgid "IDS_COM_POP_NONE"
-msgstr "なし"
+msgstr "Չկա"
 
 msgid "IDS_COM_POP_SUCCESS"
-msgstr "正常に完了しました。"
+msgstr "Հաջողված է"
 
 msgid "IDS_COM_SK_ACCEPT"
-msgstr "同意する"
+msgstr "Ընդունել"
 
 msgid "IDS_COM_SK_NEXT"
-msgstr "次へ"
+msgstr "Հաջորդ"
 
 msgid "IDS_COM_SK_QUIT"
-msgstr "解除"
+msgstr "Դուրս գալ"
 
 msgid "IDS_COM_BODY_ACTIVATED"
-msgstr "有効になりました。"
+msgstr "Ակտիվացված է"
 
 msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
 msgstr "SIM"
@@ -968,2143 +968,2143 @@ msgid "IDS_COM_BODY_ALLSHARE"
 msgstr "AllShare"
 
 msgid "IDS_COM_BODY_AM"
-msgstr "AM"
+msgstr "ԿԱ"
 
 msgid "IDS_COM_BODY_APR"
-msgstr "4月"
+msgstr "Ապր."
 
 msgid "IDS_COM_BODY_AUG"
-msgstr "8月"
+msgstr "Օգս"
 
 msgid "IDS_COM_BODY_AVAILABLE"
-msgstr "使用可能"
+msgstr "Հասանելի է"
 
 msgid "IDS_COM_BODY_BACK"
-msgstr "戻る"
+msgstr "Հետ"
 
 msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
-msgstr "充電完了。\n充電器を外してください。"
+msgstr "Մարտկոցն ամբողջապես լիցքավորված է:\nԱնջատեք լիցքավորիչը"
 
 msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
-msgstr "充電完了。充電器を外してください。"
+msgstr "Մարտկոցը լիցքավորված է: Անջատեք"
 
 msgid "IDS_COM_BODY_BROWSER"
-msgstr "ブラウザ"
+msgstr "Դիտարկիչ"
 
 msgid "IDS_COM_BODY_CALCULATOR"
-msgstr "電卓"
+msgstr "Հաշվիչ"
 
 msgid "IDS_COM_BODY_CONVERTOR"
-msgstr "通貨・単位換算"
+msgstr "Փոխարկող"
 
 msgid "IDS_COM_BODY_CREATE"
-msgstr "作成"
+msgstr "Ստեղծել"
 
 msgid "IDS_COM_BODY_DEC"
-msgstr "12月"
+msgstr "Դեկտ"
 
 msgid "IDS_COM_BODY_DELETE"
-msgstr "削除"
+msgstr "Ջնջել"
 
 msgid "IDS_COM_BODY_DELETE_ALL"
-msgstr "全て削除"
+msgstr "Ջնջել բոլորը"
 
 msgid "IDS_COM_BODY_DETAILS_NAME"
-msgstr "名前"
+msgstr "Անուն"
 
 msgid "IDS_COM_BODY_DETAILS_TITLE"
-msgstr "タイトル"
+msgstr "Վերնագիր"
 
 msgid "IDS_COM_BODY_FEB"
-msgstr "2月"
+msgstr "Փտրվ"
 
 msgid "IDS_COM_BODY_FORWARD_A"
-msgstr "進む"
+msgstr "Փոխանցել"
 
 msgid "IDS_COM_BODY_FRI"
-msgstr "金"
+msgstr "Ուրբ"
 
 msgid "IDS_COM_BODY_IM"
-msgstr "ﾒｯｾﾝｼﾞｬｰ"
+msgstr "IM"
 
 msgid "IDS_COM_BODY_JAN"
-msgstr "1月"
+msgstr "Հնվ"
 
 msgid "IDS_COM_BODY_JUL"
-msgstr "7月"
+msgstr "Հուլ"
 
 msgid "IDS_COM_BODY_JUN"
-msgstr "6月"
+msgstr "Հուն"
 
 msgid "IDS_COM_BODY_LOCK"
-msgstr "ロック"
+msgstr "Արգելափակել"
 
 msgid "IDS_COM_BODY_LOCK_A"
-msgstr "ロック"
+msgstr "Արգլփկլ"
 
 msgid "IDS_COM_BODY_LOW"
-msgstr "低"
+msgstr "Ցածր"
 
 msgid "IDS_COM_BODY_LOW_BATTERY"
-msgstr "バッテリー残量不足"
+msgstr "Մարտկոցի լիցքը թույլ է"
 
 msgid "IDS_COM_BODY_MAR"
-msgstr "3月"
+msgstr "Մրտ"
 
 msgid "IDS_COM_BODY_MAY"
-msgstr "5月"
+msgstr "Մայ"
 
 msgid "IDS_COM_BODY_MEMORY_CARD"
-msgstr "外部SDカード"
+msgstr "Հիշողության քարտ"
 
 msgid "IDS_COM_BODY_MESSAGING"
-msgstr "SMS"
+msgstr "Հաղորդագրությունների ուղարկում"
 
 msgid "IDS_COM_BODY_MINUTE"
-msgstr "分"
+msgstr "Րոպե"
 
 msgid "IDS_COM_BODY_MINUTE_LC"
-msgstr "分"
+msgstr "րոպե"
 
 msgid "IDS_COM_BODY_MIN_SMALL_ABB"
-msgstr "分"
+msgstr "րոպ"
 
 msgid "IDS_COM_BODY_MON"
-msgstr "月"
+msgstr "Երկ"
 
 msgid "IDS_COM_BODY_MOVE"
-msgstr "移動"
+msgstr "Տեղափոխել"
 
 msgid "IDS_COM_BODY_MUSIC_PLAYER"
-msgstr "音楽"
+msgstr "Նվագարկիչ"
 
 msgid "IDS_COM_BODY_MY_ACCOUNT"
-msgstr "マイアカウント"
+msgstr "Իմ հաշիվը"
 
 msgid "IDS_COM_BODY_NAVIGATION"
-msgstr "ナビゲーション"
+msgstr "Նավարկում"
 
 msgid "IDS_COM_BODY_NOV"
-msgstr "11月"
+msgstr "Նոյ"
 
 msgid "IDS_COM_BODY_OCT"
-msgstr "10月"
+msgstr "Հոկտ"
 
 msgid "IDS_COM_BODY_PIN_LOCK"
-msgstr "PINロック"
+msgstr "PINԱՓ"
 
 msgid "IDS_COM_BODY_RESET"
-msgstr "リセット"
+msgstr "Զրոյացնել"
 
 msgid "IDS_COM_BODY_RESET_A"
-msgstr "リセット"
+msgstr "Զրոյացնել"
 
 msgid "IDS_COM_BODY_SAT"
-msgstr "土"
+msgstr "Շբթ"
 
 msgid "IDS_COM_BODY_SEP"
-msgstr "9月"
+msgstr "Սպտ"
 
 msgid "IDS_COM_BODY_SILENT"
-msgstr "サイレント"
+msgstr "Անձայն"
 
 msgid "IDS_COM_BODY_SMART_SEARCH"
-msgstr "スマート検索"
+msgstr "‘Խելացի’ որոնում"
 
 msgid "IDS_COM_BODY_SPEAKER_ON"
-msgstr "スピーカーON"
+msgstr "Միացնել բարձրախոսը"
 
 msgid "IDS_COM_BODY_STOPWATCH"
-msgstr "ストップウォッチ"
+msgstr "Վայրկյանաչափ"
 
 msgid "IDS_COM_BODY_SYNCHRONIZE"
-msgstr "同期"
+msgstr "Սինխրոնացնլ"
 
 msgid "IDS_COM_BODY_THU"
-msgstr "木"
+msgstr "Հնգ"
 
 msgid "IDS_COM_BODY_TIMER"
-msgstr "タイマー"
+msgstr "Ժամանակաչափ"
 
 msgid "IDS_COM_BODY_TUE"
-msgstr "火"
+msgstr "Երք"
 
 msgid "IDS_COM_BODY_TWITTER"
 msgstr "Twitter"
 
 msgid "IDS_COM_BODY_UNITS"
-msgstr "ユニット"
+msgstr "Միավորներ"
 
 msgid "IDS_COM_BODY_UNIT_MIN_ABB"
-msgstr "分"
+msgstr "րոպ"
 
 msgid "IDS_COM_BODY_UNIT_SEC_LC"
-msgstr "秒"
+msgstr "վրկ"
 
 msgid "IDS_COM_BODY_UNKNOWN"
-msgstr "不明"
+msgstr "Անհայտ"
 
 msgid "IDS_COM_BODY_USB"
 msgstr "USB"
 
 msgid "IDS_COM_BODY_WED"
-msgstr "水"
+msgstr "Չրք"
 
 msgid "IDS_COM_BODY_WORLD_CLOCK"
-msgstr "世界時計"
+msgstr "Համաշխարհային ժամացույց"
 
 msgid "IDS_COM_BODY_YYYYMMDD"
-msgstr "年.月.日"
+msgstr "ՏՏՏՏ.ԱԱ.ՕՕ"
 
 msgid "IDS_COM_BODY_YYYY_MM_DD"
-msgstr "年/月/日"
+msgstr "ՏՏՏՏ/ԱԱ/ՕՕ"
 
 msgid "IDS_COM_HEADER_DAILY_BRIEFING"
-msgstr "Daiｌy Briefing"
+msgstr "Ամենօրյա համառոտ ամփոփում"
 
 msgid "IDS_COM_HEADER_NOTIFICATION"
-msgstr "通知"
+msgstr "Ծանուցում"
 
 msgid "IDS_COM_OPT_INFORMATION"
-msgstr "情報"
+msgstr "Տեղեկություն"
 
 msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
-msgstr "ABC"
+msgstr "ԱԲԳ"
 
 msgid "IDS_COM_POP_ACTIVATING"
-msgstr "起動中..."
+msgstr "Ակտիվացվում է..."
 
 msgid "IDS_COM_POP_DEACTIVATED"
-msgstr "無効になりました。"
+msgstr "Ապաակտիվացված է"
 
 msgid "IDS_COM_POP_EMPTY"
-msgstr "空き"
+msgstr "Դատարկ է"
 
 msgid "IDS_COM_POP_HOUR"
-msgstr "時間"
+msgstr "Ժամ"
 
 msgid "IDS_COM_POP_HOUR_LC"
-msgstr "時間"
+msgstr "ժամ"
 
 msgid "IDS_COM_POP_MISSED_CALL"
-msgstr "不在着信"
+msgstr "Բացթողած զանգ"
 
 msgid "IDS_COM_POP_MISSED_CALLS"
-msgstr "不在着信"
+msgstr "Բացթողնված կանչեր"
 
 msgid "IDS_COM_POP_MISSED_EVENT"
-msgstr "未確認イベント"
+msgstr "Բաց թողնված իրադարձություն"
 
 msgid "IDS_COM_POP_MISSED_EVENTS"
-msgstr "未確認イベント"
+msgstr "Բաց թողնված իրադարձություններ"
 
 msgid "IDS_COM_POP_NEW_EMAIL"
-msgstr "新規Eメール"
+msgstr "Նոր էլ. փոստ"
 
 msgid "IDS_COM_POP_NEW_MESSAGE"
-msgstr "新しいメッセージ"
+msgstr "նոր հաղորդագրություն"
 
 msgid "IDS_COM_POP_NEW_MESSAGES"
-msgstr "新着メッセージ"
+msgstr "նոր հաղորդագրություններ"
 
 msgid "IDS_COM_POP_PM"
 msgstr "PM"
 
 msgid "IDS_COM_POP_UNLOCK"
-msgstr "ロック解除"
+msgstr "Հանել արգելափակումը"
 
 msgid "IDS_COM_POP_WARNING"
-msgstr "警告"
+msgstr "Զգուշացում"
 
 msgid "IDS_COM_SK_DIALLER"
-msgstr "ダイヤル"
+msgstr "Հմրհվքիչ"
 
 msgid "IDS_COM_SK_DONE"
-msgstr "完了"
+msgstr "Պատրաստ"
 
 msgid "IDS_COM_SK_MENU"
-msgstr "メニュー"
+msgstr "Ցանկ"
 
 msgid "IDS_COM_SK_OFF"
-msgstr "OFF"
+msgstr "Անջտել"
 
 msgid "IDS_COM_SK_OPEN"
-msgstr "開く"
+msgstr "Բացել"
 
 msgid "IDS_COM_SK_OPTIONS"
-msgstr "オプション"
+msgstr "Ընտրանքնր"
 
 msgid "IDS_COM_SK_PAUSE"
-msgstr "一時停止"
+msgstr "Դադար"
 
 msgid "IDS_COM_SK_PLAY"
-msgstr "再生"
+msgstr "Վրարտադր."
 
 msgid "IDS_COM_SK_PLAY_ABB"
-msgstr "再生"
+msgstr "Նվգրկ"
 
 msgid "IDS_COM_SK_REMOVE"
-msgstr "削除"
+msgstr "Հեռացնել"
 
 msgid "IDS_COM_SK_SEARCH"
-msgstr "検索"
+msgstr "Որոնում"
 
 msgid "IDS_COM_SK_SELECT"
-msgstr "選択"
+msgstr "Ընտրել"
 
 msgid "IDS_COM_SK_SELECT_ABB"
-msgstr "選択"
+msgstr "Ընտրլ"
 
 msgid "IDS_COM_SK_SEND"
-msgstr "送信"
+msgstr "Ուղարկել"
 
 msgid "IDS_COM_SK_SEND_ABB"
-msgstr "送信"
+msgstr "Ուղկլ"
 
 msgid "IDS_COM_SK_VIDEO_CALL"
-msgstr "テレビ電話"
+msgstr "Վիդեոկանչ"
 
 msgid "IDS_IDLE_BODY_ACTIVESYNC"
 msgstr "ActiveSync"
 
 msgid "IDS_IDLE_BODY_RESOLUTION"
-msgstr "解像度"
+msgstr "Լուծաչափ"
 
 msgid "IDS_IDLE_BODY_RSS"
 msgstr "RSS"
 
 msgid "IDS_COM_BODY_END"
-msgstr "終了"
+msgstr "Ավարտ"
 
 msgid "IDS_COM_BODY_FAVOURITES"
-msgstr "お気に入り"
+msgstr "Սիրվածները"
 
 msgid "IDS_COM_BODY_FILE_NAME"
-msgstr "ファイル名"
+msgstr "Ֆայլի անուն"
 
 msgid "IDS_COM_BODY_MUTE"
-msgstr "サイレント"
+msgstr "Անձայն"
 
 msgid "IDS_COM_BODY_NO_FILES"
-msgstr "ファイルがありません。"
+msgstr "Ֆայլեր չկան"
 
 msgid "IDS_COM_BODY_NO_IMAGES"
-msgstr "画像がありません。"
+msgstr "Պատկերներ չկան"
 
 msgid "IDS_COM_BODY_NO_ITEMS"
-msgstr "アイテムがありません。"
+msgstr "Տարրեր չկան"
 
 msgid "IDS_COM_BODY_PAUSE"
-msgstr "一時停止"
+msgstr "Դադար"
 
 msgid "IDS_COM_BODY_REPLACE_ABB"
-msgstr "置き換え"
+msgstr "Փոխարինել"
 
 msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
-msgstr "Bluetoothで送信"
+msgstr "Ուղարկել Bluetooth-ի միջոցով"
 
 msgid "IDS_COM_OPT_SEND_VIA"
-msgstr "送信"
+msgstr "Ուղարկել ... միջոցով"
 
 msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
-msgstr "Bluetoothで送信"
+msgstr "Ուղարկել Bluetooth-ի միջոցով"
 
 msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
-msgstr "Eメール送信"
+msgstr "Ուղարկել էլփոստով"
 
 msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
-msgstr "メッセージ送信"
+msgstr "Ուղարկել հաղորդագրության միջոցով"
 
 msgid "IDS_COM_OPT_SEND_VIA_MMS"
-msgstr "MMSで送信"
+msgstr "Ուղարկվեց MMS-ով"
 
 msgid "IDS_COM_OPT_SEND_VIA_SMS"
-msgstr "SMS​で​送信"
+msgstr "Ուղարկել SMS-ի միջոցով"
 
 msgid "IDS_COM_POP_FOLDER"
-msgstr "フォルダ"
+msgstr "Թղթապանակ"
 
 msgid "IDS_COM_POP_FRI"
-msgstr "金"
+msgstr "Ուրբ"
 
 msgid "IDS_COM_POP_MON"
-msgstr "月"
+msgstr "Երկ"
 
 msgid "IDS_COM_POP_MUTE"
-msgstr "サイレント"
+msgstr "Անձայն"
 
 msgid "IDS_COM_POP_SAT"
-msgstr "土"
+msgstr "Շբթ"
 
 msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
-msgstr "下書き​に​保存​"
+msgstr "Պահել Սևագրերում"
 
 msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
-msgstr "下書きに保存しますか？"
+msgstr "Պահպանե՞լ Սևագրերում"
 
 msgid "IDS_COM_POP_SEND_VIA"
-msgstr "送信"
+msgstr "Ուղարկել ... միջոցով"
 
 msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
-msgstr "マナーモード中ですが、再生しますか?"
+msgstr "Վերարտադրե՞լ լուռ ռեժիմում"
 
 msgid "IDS_COM_POP_SUN"
-msgstr "日"
+msgstr "Կիր"
 
 msgid "IDS_COM_POP_THU"
-msgstr "木"
+msgstr "Հնգ"
 
 msgid "IDS_COM_POP_TUE"
-msgstr "火"
+msgstr "Երք"
 
 msgid "IDS_COM_POP_WED"
-msgstr "水"
+msgstr "Չրք"
 
 msgid "IDS_COM_BODY_APPLICATIONS"
-msgstr "アプリケーション"
+msgstr "Ծրագրեր"
 
 msgid "IDS_COM_BODY_SELECT_LAYOUT"
-msgstr "レイアウトを選択"
+msgstr "Ընտրել դասավորություն"
 
 msgid "IDS_COM_SK_LAUNCH"
-msgstr "起動"
+msgstr "Գործարկել"
 
 msgid "IDS_COM_BODY_VIA_MMS"
-msgstr "MMS"
+msgstr "MMS-ի միջոցով"
 
 msgid "IDS_COM_OPT_HEADPHONES_ABB"
-msgstr "ヘッドホン"
+msgstr "Գլխ. հեռախոսներ"
 
 msgid "IDS_COM_BODY_PD_SELECTED"
-msgstr "%d件選択"
+msgstr "%d ընտրվել է"
 
 msgid "IDS_COM_BODY_REPEAT"
-msgstr "繰り返し"
+msgstr "Կրկնել"
 
 msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
-msgstr "未対応のファイルです。"
+msgstr "Ֆայլի չսատարվող տեսակ"
 
 msgid "IDS_COM_POP_INSERT_SIM_CARD"
-msgstr "SIMカードを挿入してください"
+msgstr "Տեղադրեք SIM քարտը"
 
 msgid "IDS_COM_POP_COPIED_P"
-msgstr "コピーしました。"
+msgstr "Պատճենված է"
 
 msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
-msgstr "クリップボードにコピーしました。"
+msgstr "Պատճենվել է գզրոցի մեջ"
 
 msgid "IDS_COM_POP_COPYING_ING"
-msgstr "コピー中..."
+msgstr "Պատճենում է..."
 
 msgid "IDS_COM_OPT_LIST"
-msgstr "リスト"
+msgstr "Ցանկ"
 
 msgid "IDS_COM_OPT_LIST_VIEW"
-msgstr "リスト表示"
+msgstr "Դիտման ռեժիմների ցանկ"
 
 msgid "IDS_COM_POP_NOTHING_SELECTED"
-msgstr "何も選択されていません。"
+msgstr "Ոչինչ ընտրված չէ"
 
 msgid "IDS_COM_POP_AVAILABLE_USES"
-msgstr "使用可能"
+msgstr "Հասանելի օգտվողներ"
 
 msgid "IDS_COM_BODY_NO_SERVICE"
-msgstr "サービスが利用できません。"
+msgstr "Ծառայություն չկա"
 
 msgid "IDS_COM_BODY_VOICE_COMMAND"
-msgstr "音声コマンド"
+msgstr "Ձայնային հրաման"
 
 msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
-msgstr "カードリーダモード中は使用できません"
+msgstr "Անհնար է օգտագործել Զանգվածային պահոցի ռեժիմում"
 
 msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
-msgstr "USBマスストレージを無効にしました。"
+msgstr "Զանգվածային պահոցի ռեժիմն ընձեռված է"
 
 msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
-msgstr "カードリーダモード有効"
+msgstr "Միացված է զանգվածային պահպանման ռեժիմը"
 
 msgid "IDS_COM_BODY_PD_DAYS_AGO"
-msgstr "%d日前"
+msgstr "%d օր առաջ"
 
 msgid "IDS_COM_BODY_CERTIFICATES"
-msgstr "証明書"
+msgstr "Վկայականներ"
 
 msgid "IDS_COM_POP_SERVER_ERROR"
-msgstr "サーバーエラー"
+msgstr "Սերվերի սխալ"
 
 msgid "IDS_COM_BODY_ALL_CHANNELS"
-msgstr "全てのチャンネル"
+msgstr "Բոլոր ալիքները"
 
 msgid "IDS_COM_SK_CONFIRM"
-msgstr "確認"
+msgstr "Հաստատել"
 
 msgid "IDS_COM_BODY_GENERAL"
-msgstr "一般"
+msgstr "Ընդհանուր"
 
 msgid "IDS_COM_BODY_HOME"
-msgstr "自宅"
+msgstr "Տուն"
 
 msgid "IDS_COM_BODY_IM_IN_A_MEETING"
-msgstr "申し訳ありません、会議中です。"
+msgstr "Ես հանդիպման եմ"
 
 msgid "IDS_COM_BODY_MOBILE"
-msgstr "モバイル"
+msgstr "Բջջային"
 
 msgid "IDS_COM_BODY_WORK"
-msgstr "勤務先"
+msgstr "Աշխատանք"
 
 msgid "IDS_COM_OPT1_WI_FI_DIRECT"
 msgstr "Wi-Fi Direct"
 
 msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
-msgstr "アビジャン"
+msgstr "Աբիջան"
 
 msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
-msgstr "アブダビ"
+msgstr "Աբու-Դաբի"
 
 msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
-msgstr "アラブ首長国連邦"
+msgstr "Միավորված Արաբական Էմիրություններ"
 
 msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
-msgstr "アクラ"
+msgstr "Ակկրա"
 
 msgid "IDS_WCL_BODY_GHANA"
-msgstr "ガーナ"
+msgstr "Գանա"
 
 msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
-msgstr "アジスアベバ"
+msgstr "Ադիս Աբեբա"
 
 msgid "IDS_WCL_BODY_ETHIOPIA"
-msgstr "エチオピア"
+msgstr "Եթովպիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
-msgstr "アデレード"
+msgstr "Ադելաիդա"
 
 msgid "IDS_WCL_BODY_AUSTRALIA"
-msgstr "オーストラリア"
+msgstr "Ավստրալիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
-msgstr "アラスカ"
+msgstr "Ալյասկա"
 
 msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
-msgstr "アメリカ（米国）"
+msgstr "ԱՄՆ"
 
 msgid "IDS_WCL_BODY_COTE_DIVOIRE"
-msgstr "コートジボワール"
+msgstr "Կոտ դ'Իվուար"
 
 msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
-msgstr "アルジェ"
+msgstr "Ալժիր"
 
 msgid "IDS_WCL_BODY_ALGERIA"
-msgstr "アルジェリア"
+msgstr "Ալժիր"
 
 msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
-msgstr "アルマトイ"
+msgstr "Ալմաթի"
 
 msgid "IDS_WCL_BODY_KAZAKHSTAN"
-msgstr "カザフスタン"
+msgstr "Ղազախստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_AMBON"
-msgstr "アンボン"
+msgstr "Ամբոն"
 
 msgid "IDS_WCL_BODY_INDONESIA"
-msgstr "インドネシア"
+msgstr "Ինդոնեզիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
-msgstr "アンマン"
+msgstr "Աման"
 
 msgid "IDS_WCL_BODY_JORDAN"
-msgstr "ヨルダン"
+msgstr "Հորդանան"
 
 msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
-msgstr "アムステルダム"
+msgstr "Ամստերդամ"
 
 msgid "IDS_WCL_BODY_NETHERLANDS"
-msgstr "オランダ"
+msgstr "Նիդեռլանդներ"
 
 msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
-msgstr "アナジリ"
+msgstr "Անադիր"
 
 msgid "IDS_WCL_BODY_RUSSIA"
-msgstr "ロシア"
+msgstr "Ռուսաստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
-msgstr "アンカレッジ"
+msgstr "Անկորիջ"
 
 msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
-msgstr "アンカラ"
+msgstr "Անքարա"
 
 msgid "IDS_WCL_BODY_TURKEY"
-msgstr "トルコ"
+msgstr "Թուրքիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
-msgstr "アンタナナリボ"
+msgstr "Անտանանարիվու"
 
 msgid "IDS_WCL_BODY_MADAGASCAR"
-msgstr "マダガスカル"
+msgstr "Մադագասկար"
 
 msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
-msgstr "アシガバート"
+msgstr "Աշխաբադ"
 
 msgid "IDS_WCL_BODY_TURKMENISTAN"
-msgstr "トルクメニスタン"
+msgstr "Թուրքմենստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
-msgstr "アスマラ"
+msgstr "Ասմարա"
 
 msgid "IDS_WCL_BODY_ERITREA"
-msgstr "エリトリア"
+msgstr "Էրիթրեա"
 
 msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
-msgstr "アスタナ"
+msgstr "Աստանա"
 
 msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
-msgstr "アスンシオン"
+msgstr "Ասունսյոն"
 
 msgid "IDS_WCL_BODY_PARAGUAY"
-msgstr "パラグアイ"
+msgstr "Պարագվայ"
 
 msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
-msgstr "アテネ"
+msgstr "Աթենք"
 
 msgid "IDS_WCL_BODY_GREECE"
-msgstr "ギリシャ"
+msgstr "Հունաստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
-msgstr "オークランド"
+msgstr "Օկլենդ"
 
 msgid "IDS_WCL_BODY_NEW_ZEALAND"
-msgstr "ニュージーランド"
+msgstr "Նոր Զելանդիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
-msgstr "オースティン"
+msgstr "Օսթին"
 
 msgid "IDS_WCL_BODY_CITYNAME_AZORES"
-msgstr "アゾレス諸島"
+msgstr "Ազորներ"
 
 msgid "IDS_WCL_BODY_PORTUGAL"
-msgstr "ポルトガル"
+msgstr "Պորտուգալիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
-msgstr "バグダード"
+msgstr "Բաղդադ"
 
 msgid "IDS_WCL_BODY_IRAQ"
-msgstr "イラク"
+msgstr "Իրաք"
 
 msgid "IDS_WCL_BODY_CITYNAME_BAKU"
-msgstr "バクー"
+msgstr "Բաքու"
 
 msgid "IDS_WCL_BODY_AZERBAIJAN"
-msgstr "アゼルバイジャン"
+msgstr "Ադրբեջան"
 
 msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
-msgstr "ボルチモア"
+msgstr "Բալթիմոր"
 
 msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
-msgstr "バマコ"
+msgstr "Բամակո"
 
 msgid "IDS_WCL_BODY_MALI"
-msgstr "マリ"
+msgstr "Մալի"
 
 msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
-msgstr "バンコク"
+msgstr "Բանգկոկ"
 
 msgid "IDS_WCL_BODY_THAILAND"
-msgstr "タイ"
+msgstr "Թաիլանդ"
 
 msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
-msgstr "バンギ"
+msgstr "Բանգի"
 
 msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
-msgstr "中央アフリカ共和国"
+msgstr "Կենտրոնաֆրիկյան Հանրապետություն"
 
 msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
-msgstr "バルセロナ"
+msgstr "Բարսելոն"
 
 msgid "IDS_WCL_BODY_SPAIN"
-msgstr "スペイン"
+msgstr "Իսպանիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_BARI"
-msgstr "バーリ"
+msgstr "Բարի"
 
 msgid "IDS_WCL_BODY_ITALY"
-msgstr "イタリア"
+msgstr "Իտալիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
-msgstr "バステール"
+msgstr "Բաս-Տեր"
 
 msgid "IDS_WCL_BODY_GUADELOUPE"
-msgstr "グアドループ"
+msgstr "Գվադելուպա"
 
 msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
-msgstr "北京"
+msgstr "Պեկին"
 
 msgid "IDS_WCL_BODY_CHINA"
-msgstr "中国"
+msgstr "Չինաստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
-msgstr "ベイルート"
+msgstr "Բեյրութ"
 
 msgid "IDS_WCL_BODY_LEBANON"
-msgstr "レバノン"
+msgstr "Լիբանան"
 
 msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
-msgstr "ベオグラード"
+msgstr "Բելգրադ"
 
 msgid "IDS_WCL_BODY_SERBIA"
-msgstr "セルビア"
+msgstr "Սերբիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
-msgstr "ベリーズシティ"
+msgstr "Բելիզ քաղաք"
 
 msgid "IDS_WCL_BODY_BELIZE"
-msgstr "ベリーズ"
+msgstr "Բելիզ"
 
 msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
-msgstr "ベルリン"
+msgstr "Բեռլին"
 
 msgid "IDS_WCL_BODY_GERMANY"
-msgstr "ドイツ"
+msgstr "Գերմանիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_BERN"
-msgstr "ベルン"
+msgstr "Բեռն"
 
 msgid "IDS_WCL_BODY_SWITZERLAND"
-msgstr "スイス"
+msgstr "Շվեյցարիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
-msgstr "ビシュケク"
+msgstr "Բիշքեկ"
 
 msgid "IDS_WCL_BODY_KYRGYZSTAN"
-msgstr "キルギスタン"
+msgstr "Ղրղզստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
-msgstr "ビサウ"
+msgstr "Բիսաու"
 
 msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
-msgstr "ギニアビサウ"
+msgstr "Գվինեա-Բիսաու"
 
 msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
-msgstr "ボゴタ"
+msgstr "Բոգոտա"
 
 msgid "IDS_WCL_BODY_COLOMBIA"
-msgstr "コロンビア"
+msgstr "Կոլումբիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
-msgstr "ボローニャ"
+msgstr "Բոլոնիա"
 
 msgid "IDS_WCL_BODY_BOSTON"
-msgstr "ボストン"
+msgstr "Բոստոն"
 
 msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
-msgstr "ブラジリア"
+msgstr "Բրազիլիա"
 
 msgid "IDS_WCL_BODY_BRAZIL"
-msgstr "ブラジル"
+msgstr "Բրազիլիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
-msgstr "ブラチスラバ"
+msgstr "Բրատիսլավա"
 
 msgid "IDS_WCL_BODY_SLOVAKIA"
-msgstr "スロバキア"
+msgstr "Սլովակիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
-msgstr "ブリッジタウン"
+msgstr "Բրիջթաուն"
 
 msgid "IDS_WCL_BODY_BARBADOS"
-msgstr "バルバドス"
+msgstr "Բարբադոս"
 
 msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
-msgstr "ブリスベン"
+msgstr "Բրիսբեն"
 
 msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
-msgstr "ブリュッセル"
+msgstr "Բրյուսել"
 
 msgid "IDS_WCL_BODY_BELGIUM"
-msgstr "ベルギー"
+msgstr "Բելգիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
-msgstr "ブカレスト"
+msgstr "Բուխարեստ"
 
 msgid "IDS_WCL_BODY_ROMANIA"
-msgstr "ルーマニア"
+msgstr "Ռումինիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
-msgstr "ブダペスト"
+msgstr "Բուդապեշտ"
 
 msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
-msgstr "ハンガリー"
+msgstr "Հունգարիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
-msgstr "ブエノスアイレス"
+msgstr "Բուենոս Այրես"
 
 msgid "IDS_WCL_BODY_ARGENTINA"
-msgstr "アルゼンチン"
+msgstr "Արգենտինա"
 
 msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
-msgstr "カイロ"
+msgstr "Կահիրե"
 
 msgid "IDS_WCL_BODY_EGYPT"
-msgstr "エジプト"
+msgstr "Եգիպտոս"
 
 msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
-msgstr "カルガリ"
+msgstr "Կալգարի"
 
 msgid "IDS_WCL_BODY_CANADA"
-msgstr "カナダ"
+msgstr "Կանադա"
 
 msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
-msgstr "カナリア諸島"
+msgstr "Կանարյան կղզիներ"
 
 msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
-msgstr "キャンベラ"
+msgstr "Կանբերա"
 
 msgid "IDS_WCL_BODY_CITYNAME_CANTON"
-msgstr "広東"
+msgstr "Կանտոն"
 
 msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
-msgstr "ケープタウン"
+msgstr "Քեյփթաուն"
 
 msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
-msgstr "南アフリカ共和国"
+msgstr "Հարավաֆրիկյան Հանրապետություն"
 
 msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
-msgstr "カラカス"
+msgstr "Կարակաս"
 
 msgid "IDS_WCL_BODY_VENEZUELA"
-msgstr "ベネズエラ"
+msgstr "Վենեսուելա"
 
 msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
-msgstr "カーディフ"
+msgstr "Կարդիֆ"
 
 msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
-msgstr "ウェールズ"
+msgstr "Ուելս"
 
 msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
-msgstr "カサブランカ"
+msgstr "Կասաբլանկա"
 
 msgid "IDS_WCL_BODY_MOROCCO"
-msgstr "モロッコ"
+msgstr "Մարոկկո"
 
 msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
-msgstr "カタンザーロ"
+msgstr "Կատանցարո"
 
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
-msgstr "アプリケーションがインストールされていません"
+msgstr "Գործադիրը տեղադրված չէ"
 
 msgid "IDS_COM_BODY_KB"
-msgstr "KB"
+msgstr "ԿԲ"
 
 msgid "IDS_COM_BODY_B"
-msgstr "B"
+msgstr "Բ"
 
 msgid "IDS_COM_BODY_MB"
-msgstr "MB"
+msgstr "ՄԲ"
 
 msgid "IDS_COM_BODY_GB"
-msgstr "GB"
+msgstr "ԳԲ"
 
 msgid "IDS_COM_BODY_LATITUDE"
-msgstr "緯度"
+msgstr "Լայնք"
 
 msgid "IDS_COM_BODY_LONGITUDE"
-msgstr "経度"
+msgstr "Երկայնք"
 
 msgid "IDS_COM_OPT_SPEAKER_ABB"
-msgstr "Speaker"
+msgstr "Բարձրախոս"
 
 msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
-msgstr "この操作を行うためのアプリケーションが見つかりません。"
+msgstr "Անհնար է ծրագիր գտնել՝ այս գործողությունը կատարելու համար"
 
 msgid "IDS_COM_BODY_OFF_M_STATUS"
-msgstr "OFF"
+msgstr "Անջտվծ"
 
 msgid "IDS_COM_BODY_ON_M_STATUS"
-msgstr "ON"
+msgstr "Միացված է"
 
 msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
-msgstr "%sは現在ロックされています。 ロックを解除しますか？"
+msgstr "%s ներկայումս կողպված է: Բացե՞լ:"
 
 msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
-msgstr "%sをもう1回使用できます。すぐに実行しますか？"
+msgstr "Կարող եք օգտագործել %s ևս 1 անգամ. սկսե՞լ հիմա:"
 
 msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
-msgstr "%sをあと2回使用できます。すぐに実行しますか？"
+msgstr "Կարող եք օգտագործել %s ևս 2 անգամ. սկսե՞լ հիմա:"
 
 msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
-msgstr " %sを%d日間ご利用できます。今すぐ開始しますか？"
+msgstr "Կարող եք օգտագործել %s %d օրով. Սկսե՞լ հիմա:"
 
 msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
-msgstr "%sの有効期限が間もなく切れます。追加のライセンスを取得しますか？"
+msgstr "%s-ի ժամկետն ավարտվում է. ստանա՞լ այլ արտոնագիր:"
 
 msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
-msgstr "%sをもう1回使用できます。追加のライセンスを取得しますか？"
+msgstr "Կարող եք օգտագործել %s ևս 1 անգամ. ստանա՞լ այլ արտոնագիր:"
 
 msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
-msgstr "%sはこれ以上使用できません。追加のライセンスを取得しますか？"
+msgstr "Այլևս չեք կարող եք օգտագործել %s. ստանա՞լ այլ արտոնագիր:"
 
 msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
-msgstr "オーディオデバイス"
+msgstr "Ձայնային սարք"
 
 msgid "IDS_COM_SK_INSTALL_A"
-msgstr "インストール"
+msgstr "Տեղրլ"
 
 msgid "IDS_COM_OPT_REGISTER"
-msgstr "登録"
+msgstr "Գրանցել"
 
 msgid "IDS_COM_POP_UNEXPECTED_ERROR"
-msgstr "予期しないエラー"
+msgstr "Անսպասելի սխալ"
 
 msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
-msgstr "プロキシ接続エラー"
+msgstr "Պրոքսիի միացումը ձախողվեց"
 
 msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
-msgstr "ネットワーク接続エラーです。"
+msgstr "Ցանցային կապակցման սխալ"
 
 msgid "IDS_COM_BODY_INVALID_SIM_CARD"
-msgstr "無効なSIMカードです。"
+msgstr "Անվավեր SIM քարտ"
 
 msgid "IDS_COM_BODY_OPERATION_FAILED"
-msgstr "操作に失敗しました。"
+msgstr "Գործողությունը ձախողվեց"
 
 msgid "IDS_COM_POP_VERSION"
-msgstr "バージョン"
+msgstr "Տարբերակ"
 
 msgid "IDS_COM_BODY_DEFAULT"
-msgstr "標準"
+msgstr "Լռելյայն"
 
 msgid "IDS_COM_BODY_CUT"
-msgstr "カット"
+msgstr "Կտրել"
 
 msgid "IDS_COM_BODY_PASTE"
-msgstr "貼り付け"
+msgstr "Տեղադրել"
 
 msgid "IDS_COM_BODY_CLIPBOARD"
-msgstr "クリップボード"
+msgstr "Գզրոց"
 
 msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
-msgstr "セキュリティポリシーによって、スクリーンキャプチャの使用が制限されています。"
+msgstr "Անվտանգության քաղաքականությունը սահմանափակում է էկրանի սևեռման օգտագործումը"
 
 msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
-msgstr "カイエンヌ"
+msgstr "Կայեննա"
 
 msgid "IDS_WCL_BODY_FRENCH_GUIANA"
-msgstr "フランス(仏)領ギアナ"
+msgstr "Ֆրանսիական Գվիանա"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
-msgstr "シャーロット"
+msgstr "Շառլոտ"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
-msgstr "シャーロットアマリー"
+msgstr "Շառլոտտա-Ամալի"
 
 msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
-msgstr "アメリカ(米)領バージン諸島"
+msgstr "Միացյալ Նահանգների Վիրգինյան կղզիներ"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
-msgstr "チェリャビンスク"
+msgstr "Չելյաբինսկ"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
-msgstr "チェンナイ"
+msgstr "Չեննայ"
 
 msgid "IDS_WCL_BODY_INDIA"
-msgstr "インド"
+msgstr "Հնդկաստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
-msgstr "シカゴ"
+msgstr "Չիկագո"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
-msgstr "キシナウ"
+msgstr "Քիշնև"
 
 msgid "IDS_WCL_BODY_MOLDOVA"
-msgstr "モルドバ"
+msgstr "Մոլդովա"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHITA"
-msgstr "チタ"
+msgstr "Չիտա"
 
 msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
-msgstr "クリーブランド"
+msgstr "Քլիվլենդ"
 
 msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
-msgstr "コロンボ"
+msgstr "Կոլոմբո"
 
 msgid "IDS_WCL_BODY_SRI_LANKA"
-msgstr "スリランカ"
+msgstr "Շրի Լանկա"
 
 msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
-msgstr "コロンバス"
+msgstr "Կոլումբուս"
 
 msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
-msgstr "コナクリ"
+msgstr "Կոնակրի"
 
 msgid "IDS_WCL_BODY_GUINEA"
-msgstr "ギニア"
+msgstr "Գվինեա"
 
 msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
-msgstr "コペンハーゲン"
+msgstr "Կոպենհագեն"
 
 msgid "IDS_WCL_BODY_DENMARK"
-msgstr "デンマーク"
+msgstr "Դանիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_CORK"
-msgstr "コーク"
+msgstr "Կորկ"
 
 msgid "IDS_WCL_BODY_IRELAND"
-msgstr "アイルランド"
+msgstr "Իռլանդիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
-msgstr "クロトーネ"
+msgstr "Կրոտոն"
 
 msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
-msgstr "ダカール"
+msgstr "Դակար"
 
 msgid "IDS_WCL_BODY_SENEGAL"
-msgstr "セネガル"
+msgstr "Սենեգալ"
 
 msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
-msgstr "ダラス"
+msgstr "Դալլաս"
 
 msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
-msgstr "ダマスカス"
+msgstr "Դամասկոս"
 
 msgid "IDS_WCL_BODY_SYRIA"
-msgstr "シリア"
+msgstr "Սիրիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
-msgstr "ダルエスサラーム"
+msgstr "Դար էս Սալամ"
 
 msgid "IDS_WCL_BODY_TANZANIA"
-msgstr "タンザニア"
+msgstr "Տանզանիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
-msgstr "ダーウィン"
+msgstr "Դարվին"
 
 msgid "IDS_WCL_BODY_CITYNAME_DELHI"
-msgstr "デリー"
+msgstr "Դելի"
 
 msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
-msgstr "デンパサール"
+msgstr "Դենպասար"
 
 msgid "IDS_WCL_BODY_CITYNAME_DENVER"
-msgstr "デンバー"
+msgstr "Դենվեր"
 
 msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
-msgstr "デトロイト"
+msgstr "Դետրոյթ"
 
 msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
-msgstr "ダッカ"
+msgstr "Դակա"
 
 msgid "IDS_WCL_BODY_BANGLADESH"
-msgstr "バングラデシュ"
+msgstr "Բանգլադեշ"
 
 msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
-msgstr "ディエゴガルシア島"
+msgstr "Դիեգո Գարսիա"
 
 msgid "IDS_WCL_BODY_UNITED_KINGDOM"
-msgstr "イギリス(英国)"
+msgstr "Միացյալ Թագավորություն"
 
 msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
-msgstr "ジブチ"
+msgstr "Ջիբութի"
 
 msgid "IDS_WCL_BODY_DJIBOUTI"
-msgstr "ジブチ"
+msgstr "Ջիբութի"
 
 msgid "IDS_WCL_BODY_CITYNAME_DOHA"
-msgstr "ドーハ"
+msgstr "Դոխա"
 
 msgid "IDS_WCL_BODY_QATAR"
-msgstr "カタール"
+msgstr "Կատար"
 
 msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
-msgstr "ドゥアラ"
+msgstr "Դուալա"
 
 msgid "IDS_WCL_BODY_CAMEROON"
-msgstr "カメルーン"
+msgstr "Կամերուն"
 
 msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
-msgstr "ドバイ市"
+msgstr "Դուբայ"
 
 msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
-msgstr "ダブリン"
+msgstr "Դուբլին"
 
 msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
-msgstr "ドゥシャンベ"
+msgstr "Դուշանբե"
 
 msgid "IDS_WCL_BODY_TAJIKISTAN"
-msgstr "タジキスタン"
+msgstr "Տաջիկստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
-msgstr "イースター島"
+msgstr "Զատկի կղզի"
 
 msgid "IDS_WCL_BODY_CHILE"
-msgstr "チリ"
+msgstr "Չիլի"
 
 msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
-msgstr "エジンバラ"
+msgstr "Էդինբուրգ"
 
 msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
-msgstr "スコットランド"
+msgstr "Շոտլանդիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
-msgstr "エルパソ"
+msgstr "Էլ-Պասո"
 
 msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
-msgstr "フィレンツェ"
+msgstr "Ֆլորենցիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
-msgstr "フォールドフランス"
+msgstr "Ֆորտ դե Ֆրանս"
 
 msgid "IDS_WCL_BODY_MARTINIQUE"
-msgstr "マルティニーク"
+msgstr "Մարտինիկա"
 
 msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
-msgstr "フリータウン"
+msgstr "Ֆրիթաուն"
 
 msgid "IDS_WCL_BODY_SIERRA_LEONE"
-msgstr "シエラレオネ"
+msgstr "Սիեռա Լեոնե"
 
 msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
-msgstr "ハボローネ"
+msgstr "Գաբորոնե"
 
 msgid "IDS_WCL_BODY_BOTSWANA"
-msgstr "ボツワナ"
+msgstr "Բոտսվանա"
 
 msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
-msgstr "ガラパゴス諸島"
+msgstr "Գալապագոսյան կղզիներ"
 
 msgid "IDS_WCL_BODY_ECUADOR"
-msgstr "エクアドル"
+msgstr "Էկվադոր"
 
 msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
-msgstr "ジュネーブ"
+msgstr "Ժնև"
 
 msgid "IDS_WCL_BODY_CITYNAME_GENOA"
-msgstr "ジェノバ"
+msgstr "Գենուա"
 
 msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
-msgstr "ジョージタウン"
+msgstr "Ջորջթաուն"
 
 msgid "IDS_WCL_BODY_GUYANA"
-msgstr "ガイアナ"
+msgstr "Գայանա"
 
 msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
-msgstr "グリトビケン"
+msgstr "Գրիտվիկեն"
 
 msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
-msgstr "サウスジョージア"
+msgstr "Հարավային Ջորջիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_GUAM"
-msgstr "グアム"
+msgstr "Գուամ"
 
 msgid "IDS_WCL_BODY_GUATEMALA_CITY"
-msgstr "グアテマラシティ"
+msgstr "Գվատեմալա քաղաք"
 
 msgid "IDS_WCL_BODY_GUATEMALA"
-msgstr "グアテマラ"
+msgstr "Գվատեմալա"
 
 msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
-msgstr "グスタビア"
+msgstr "Գուստավիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
-msgstr "サンバルテルミー島"
+msgstr "Սուրբ Բարդուղիմեոսի կղզի"
 
 msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
-msgstr "ハリファックス"
+msgstr "Հալիֆաքս"
 
 msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
-msgstr "ハンブルク"
+msgstr "Համբուրգ"
 
 msgid "IDS_WCL_BODY_CITYNAME_HANOI"
-msgstr "ハノイ"
+msgstr "Հանոյ"
 
 msgid "IDS_WCL_BODY_VIETNAM"
-msgstr "ベトナム"
+msgstr "Վիետնամ"
 
 msgid "IDS_WCL_BODY_CITYNAME_HARARE"
-msgstr "ハラレ"
+msgstr "Հարարե"
 
 msgid "IDS_WCL_BODY_ZIMBABWE"
-msgstr "ジンバブエ"
+msgstr "Զիմբաբվե"
 
 msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
-msgstr "ハバナ"
+msgstr "Հավանա"
 
 msgid "IDS_WCL_BODY_CUBA"
-msgstr "キューバ"
+msgstr "Կուբա"
 
 msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
-msgstr "ハワイ"
+msgstr "Հավայի"
 
 msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
-msgstr "ヘルシンキ"
+msgstr "Հելսինկի"
 
 msgid "IDS_WCL_BODY_FINLAND"
-msgstr "フィンランド"
+msgstr "Ֆինլանդիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_HOBART"
-msgstr "ホバート"
+msgstr "Հոբարտ"
 
 msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
-msgstr "香港"
+msgstr "Հոնկ-Կոնգ"
 
 msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
-msgstr "ホノルル"
+msgstr "Հոնոլուլու"
 
 msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
-msgstr "ヒューストン"
+msgstr "Հյուսթոն"
 
 msgid "IDS_WCL_BODY_CITYNAME_HOVD"
-msgstr "ホブド"
+msgstr "Հովդ"
 
 msgid "IDS_WCL_BODY_MONGOLIA"
-msgstr "モンゴル"
+msgstr "Մոնղոլիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
-msgstr "インディアナポリス"
+msgstr "Ինդիանապոլիս"
 
 msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
-msgstr "イルクーツク"
+msgstr "Իրկուտսկ"
 
 msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
-msgstr "イスラマバード"
+msgstr "Իսլամաբադ"
 
 msgid "IDS_WCL_BODY_PAKISTAN"
-msgstr "パキスタン"
+msgstr "Պակիստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
-msgstr "イスタンブール"
+msgstr "Ստամբուլ"
 
 msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
-msgstr "イジェフスク"
+msgstr "Իժևսկ"
 
 msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
-msgstr "ジャカルタ"
+msgstr "Ջակարտա"
 
 msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
-msgstr "ジッダ"
+msgstr "Ջեդա"
 
 msgid "IDS_WCL_BODY_SAUDI_ARABIA"
-msgstr "サウジアラビア"
+msgstr "Սաուդյան Արաբիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
-msgstr "エルサレム"
+msgstr "Երուսաղեմ"
 
 msgid "IDS_WCL_BODY_ISRAEL"
-msgstr "イスラエル"
+msgstr "Իսրայել"
 
 msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
-msgstr "ヨハネスブルグ"
+msgstr "Յոհանեսբուրգ"
 
 msgid "IDS_WCL_BODY_CITYNAME_KABUL"
-msgstr "カブール"
+msgstr "Կաբուլ"
 
 msgid "IDS_WCL_BODY_AFGHANISTAN"
-msgstr "アフガニスタン"
+msgstr "Աֆղանիստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
-msgstr "カリーニングラード"
+msgstr "Կալինինգրադ"
 
 msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
-msgstr "カムチャッカ"
+msgstr "Կամչատկա"
 
 msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
-msgstr "カンパラ"
+msgstr "Կամպալա"
 
 msgid "IDS_WCL_BODY_UGANDA"
-msgstr "ウガンダ"
+msgstr "Ուգանդա"
 
 msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
-msgstr "カラチ"
+msgstr "Կարաչի"
 
 msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
-msgstr "カトマンズ"
+msgstr "Կատմանդու"
 
 msgid "IDS_WCL_BODY_NEPAL"
-msgstr "ネパール"
+msgstr "Նեպալ"
 
 msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
-msgstr "ハバロフスク"
+msgstr "Խաբարովսկ"
 
 msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
-msgstr "ハリコフ"
+msgstr "Խարկով"
 
 msgid "IDS_WCL_BODY_UKRAINE"
-msgstr "ウクライナ"
+msgstr "Ուկրաինա"
 
 msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
-msgstr "ハルツーム"
+msgstr "Խարտում"
 
 msgid "IDS_WCL_BODY_SUDAN"
-msgstr "スーダン"
+msgstr "Սուդան"
 
 msgid "IDS_WCL_BODY_CITYNAME_KIEV"
-msgstr "キエフ"
+msgstr "Կիև"
 
 msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
-msgstr "キングストン"
+msgstr "Կինգստոն"
 
 msgid "IDS_WCL_BODY_JAMAICA"
-msgstr "ジャマイカ"
+msgstr "Ջամայկա"
 
 msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
-msgstr "キンシャサ"
+msgstr "Կինշասա"
 
 msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
-msgstr "コンゴ民主共和国"
+msgstr "Կոնգոյի Ժողովրդական Հանրապետություն"
 
 msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
-msgstr "コルカタ"
+msgstr "Կալկաթա"
 
 msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
-msgstr "クラスノヤルスク"
+msgstr "Կրասնոյարսկ"
 
 msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
-msgstr "クアラルンプール"
+msgstr "Կուալա Լումպուր"
 
 msgid "IDS_WCL_BODY_MALAYSIA"
-msgstr "マレーシア"
+msgstr "Մալայզիա"
 
 msgid "IDS_WCL_BODY_KUWAIT"
-msgstr "クウェート"
+msgstr "Քուվեյթ"
 
 msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
-msgstr "ロサンゼルス"
+msgstr "Լոս-Անջելես"
 
 msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
-msgstr "ラパス"
+msgstr "Լա-Պաս"
 
 msgid "IDS_WCL_BODY_BOLIVIA"
-msgstr "ボリビア"
+msgstr "Բոլիվիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
-msgstr "ラゴス"
+msgstr "Լագոս"
 
 msgid "IDS_WCL_BODY_NIGERIA"
-msgstr "ナイジェリア"
+msgstr "Նիգերիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
-msgstr "ラスベガス"
+msgstr "Լաս Վեգաս"
 
 msgid "IDS_WCL_BODY_CITYNAME_LIMA"
-msgstr "リマ"
+msgstr "Լիմա"
 
 msgid "IDS_WCL_BODY_PERU"
-msgstr "ペルー"
+msgstr "Պերու"
 
 msgid "IDS_WCL_BODY_CITYNAME_LISBON"
-msgstr "リスボン"
+msgstr "Լիսաբոն"
 
 msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
-msgstr "リュブリャナ"
+msgstr "Լյուբլյանա"
 
 msgid "IDS_WCL_BODY_CITYNAME_LONDON"
-msgstr "ロンドン"
+msgstr "Լոնդոն"
 
 msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
-msgstr "龍華"
+msgstr "Լոնգհուա"
 
 msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
-msgstr "ルイビル"
+msgstr "Լուիսվիլ"
 
 msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
-msgstr "ルアンダ"
+msgstr "Լուանդա"
 
 msgid "IDS_WCL_BODY_ANGOLA"
-msgstr "アンゴラ"
+msgstr "Անգոլա"
 
 msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
-msgstr "ルブンバシ"
+msgstr "Լուբումբաշի"
 
 msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
-msgstr "ルサカ"
+msgstr "Լուսակա"
 
 msgid "IDS_WCL_BODY_ZAMBIA"
-msgstr "ザンビア"
+msgstr "Զամբիա"
 
 msgid "IDS_WCL_BODY_LUXEMBOURG"
-msgstr "ルクセンブルク"
+msgstr "Լյուքսեմբուրգ"
 
 msgid "IDS_WCL_BODY_CITYNAME_LVIV"
-msgstr "リビウ"
+msgstr "Լվով"
 
 msgid "IDS_WCL_BODY_CITYNAME_MACAU"
-msgstr "マカオ"
+msgstr "Մակաու"
 
 msgid "IDS_WCL_BODY_CITYNAME_MADRID"
-msgstr "マドリード"
+msgstr "Մադրիդ"
 
 msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
-msgstr "マガダン"
+msgstr "Մագադան"
 
 msgid "IDS_WCL_BODY_CITYNAME_MALABO"
-msgstr "マラボ"
+msgstr "Մալաբո"
 
 msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
-msgstr "赤道ギニア"
+msgstr "Հասարակածային Գվինեա"
 
 msgid "IDS_WCL_BODY_CITYNAME_MALE"
-msgstr "マレ"
+msgstr "Մալե"
 
 msgid "IDS_WCL_BODY_MALDIVES"
-msgstr "モルディブ"
+msgstr "Մալդիվյան կղզիներ"
 
 msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
-msgstr "マナグア"
+msgstr "Մանագուա"
 
 msgid "IDS_WCL_BODY_NICARAGUA"
-msgstr "ニカラグア"
+msgstr "Նիկարագուա"
 
 msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
-msgstr "マナーマ"
+msgstr "Մանամա"
 
 msgid "IDS_WCL_BODY_BAHRAIN"
-msgstr "バーレーン"
+msgstr "Բահրեյն"
 
 msgid "IDS_WCL_BODY_CITYNAME_MANILA"
-msgstr "マニラ"
+msgstr "Մանիլա"
 
 msgid "IDS_WCL_BODY_PHILIPPINES"
-msgstr "フィリピン"
+msgstr "Ֆիլիպիններ"
 
 msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
-msgstr "マプト"
+msgstr "Մապուտու"
 
 msgid "IDS_WCL_BODY_MOZAMBIQUE"
-msgstr "モザンビーク"
+msgstr "Մոզամբիկ"
 
 msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
-msgstr "マリゴ"
+msgstr "Մարիգո"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
-msgstr "サンマルタン"
+msgstr "Սենտ-Մարտին"
 
 msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
-msgstr "マサトラン"
+msgstr "Մազատլան"
 
 msgid "IDS_WCL_BODY_MEXICO"
-msgstr "メキシコ"
+msgstr "Մեխիկո"
 
 msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
-msgstr "リヤド"
+msgstr "Ռիյադ"
 
 msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
-msgstr "メルボルン"
+msgstr "Մելբուրն"
 
 msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
-msgstr "メンフィス"
+msgstr "Մեմֆիս"
 
 msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
-msgstr "メッシーナ"
+msgstr "Մեսսինա"
 
 msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
-msgstr "メキシコシティ"
+msgstr "Մեխիկո"
 
 msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
-msgstr "マイアミ"
+msgstr "Մայամի"
 
 msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
-msgstr "中央大西洋"
+msgstr "Միջին Ատլանտյան"
 
 msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
-msgstr "ミッドウェー​環礁"
+msgstr "Միդուեյ օղակղզի"
 
 msgid "IDS_WCL_BODY_CITYNAME_MILAN"
-msgstr "ミラノ"
+msgstr "Միլան"
 
 msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
-msgstr "ミルウォーキー"
+msgstr "Միլուոքի"
 
 msgid "IDS_WCL_BODY_CITYNAME_MINSK"
-msgstr "ミンスク"
+msgstr "Մինսկ"
 
 msgid "IDS_WCL_BODY_BELARUS"
-msgstr "ベラルーシ"
+msgstr "Բելառուս"
 
 msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
-msgstr "モガディシュ"
+msgstr "Մոգադիշո"
 
 msgid "IDS_WCL_BODY_SOMALIA"
-msgstr "ソマリア"
+msgstr "Սոմալի"
 
 msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
-msgstr "モンロビア"
+msgstr "Մոնրովիա"
 
 msgid "IDS_WCL_BODY_LIBERIA"
-msgstr "リベリア"
+msgstr "Լիբերիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
-msgstr "モンテビデオ"
+msgstr "Մոնտեվիդեո"
 
 msgid "IDS_WCL_BODY_URUGUAY"
-msgstr "ウルグアイ"
+msgstr "Ուրուգվայ"
 
 msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
-msgstr "モントリオール"
+msgstr "Մոնրեալ"
 
 msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
-msgstr "モスクワ"
+msgstr "Մոսկվա"
 
 msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
-msgstr "ムンバイ"
+msgstr "Մումբայ"
 
 msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
-msgstr "ミュンヘン"
+msgstr "Մյունխեն"
 
 msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
-msgstr "マスカット"
+msgstr "Մուսկատ"
 
 msgid "IDS_WCL_BODY_OMAN"
-msgstr "オマーン"
+msgstr "Օման"
 
 msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
-msgstr "ナイロビ"
+msgstr "Նայրոբի"
 
 msgid "IDS_WCL_BODY_KENYA"
-msgstr "ケニア"
+msgstr "Քենիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_ROME"
-msgstr "ローマ"
+msgstr "Հռոմ"
 
 msgid "IDS_WCL_BODY_CITYNAME_NATERS"
-msgstr "ナテー"
+msgstr "Նատերս"
 
 msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
-msgstr "ヌジャメナ"
+msgstr "Նջամենա"
 
 msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
-msgstr "ナポリ"
+msgstr "Նեապոլ"
 
 msgid "IDS_WCL_BODY_CHAD"
-msgstr "チャド"
+msgstr "Չադ"
 
 msgid "IDS_WCL_BODY_MECCA"
-msgstr "メッカ"
+msgstr "Մեկկա"
 
 msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
-msgstr "ニューデリー"
+msgstr "Նյու-Դելի"
 
 msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
-msgstr "ニューヨーク"
+msgstr "Նյու-Յորք"
 
 msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
-msgstr "ニューファンドランド島"
+msgstr "Նյուֆաունդլենդ"
 
 msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
-msgstr "ニアメ"
+msgstr "Նիամեյ"
 
 msgid "IDS_WCL_BODY_NIGER"
-msgstr "ニジェール"
+msgstr "Նիգեր"
 
 msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
-msgstr "ヌアクショット"
+msgstr "Նուակշոտ"
 
 msgid "IDS_WCL_BODY_MAURITANIA"
-msgstr "モーリタニア"
+msgstr "ՄԱՎՐԻՏԱՆԻԱ"
 
 msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
-msgstr "ヌーメア"
+msgstr "Նումեա"
 
 msgid "IDS_WCL_BODY_NEW_CALEDONIA"
-msgstr "ニューカレドニア"
+msgstr "Նոր Կալեդոնիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
-msgstr "ノボクズネツク"
+msgstr "Նովոկուզնեցկ"
 
 msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
-msgstr "ノボシビルスク"
+msgstr "Նովոսիբիրսկ"
 
 msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
-msgstr "ヌクアロファ"
+msgstr "Նուկուալոֆա"
 
 msgid "IDS_WCL_BODY_TONGA"
-msgstr "トンガ"
+msgstr "Տոնգա"
 
 msgid "IDS_WCL_BODY_CITYNAME_NUUK"
-msgstr "ヌーク"
+msgstr "Նուկ"
 
 msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
-msgstr "グリーンランド"
+msgstr "Գրենլանդիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_OMSK"
-msgstr "オムスク"
+msgstr "Օմսկ"
 
 msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
-msgstr "大阪"
+msgstr "Օսակա"
 
 msgid "IDS_WCL_BODY_JAPAN"
-msgstr "日本"
+msgstr "Ճապոնիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
-msgstr "オタワ"
+msgstr "Օտավա"
 
 msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
-msgstr "ワガドゥグー"
+msgstr "Ուագադուգու"
 
 msgid "IDS_WCL_BODY_BURKINA_FASO"
-msgstr "ブルキナファソ"
+msgstr "Բուրկինա Ֆասո"
 
 msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
-msgstr "パゴパゴ"
+msgstr "Պագո Պագո"
 
 msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
-msgstr "サモア独立国"
+msgstr "Սամոայի անկախ պետություն"
 
 msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
-msgstr "パレルモ"
+msgstr "Պալերմո"
 
 msgid "IDS_WCL_BODY_PANAMA_CITY"
-msgstr "パナマ市"
+msgstr "Պանամա քաղաք"
 
 msgid "IDS_WCL_BODY_PANAMA"
-msgstr "パナマ"
+msgstr "Պանամա"
 
 msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
-msgstr "パラマリボ"
+msgstr "Պարամարիբո"
 
 msgid "IDS_WCL_BODY_SURINAME"
-msgstr "スリナム"
+msgstr "Սուրինամ"
 
 msgid "IDS_WCL_BODY_CITYNAME_PARIS"
-msgstr "パリ"
+msgstr "Փարիզ"
 
 msgid "IDS_WCL_BODY_FRANCE"
-msgstr "フランス"
+msgstr "Ֆրանսիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_PERM"
-msgstr "ペルミ"
+msgstr "Պերմ"
 
 msgid "IDS_WCL_BODY_CITYNAME_PERTH"
-msgstr "パース"
+msgstr "Պերտ"
 
 msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
-msgstr "ペトロパブロフスクカムチャツキー"
+msgstr "Պետրոպավլովսկ-Կամչատսկի"
 
 msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
-msgstr "フィラデルフィア"
+msgstr "Ֆիլադելֆիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
-msgstr "プノンペン"
+msgstr "Պնոմպեն"
 
 msgid "IDS_WCL_BODY_CAMBODIA"
-msgstr "カンボジア"
+msgstr "Կամբոջա"
 
 msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
-msgstr "フェニックス"
+msgstr "Ֆենիքս"
 
 msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
-msgstr "ポドゴリツァ"
+msgstr "Պոդգորիցա"
 
 msgid "IDS_WCL_BODY_MONTENEGRO"
-msgstr "モンテネグロ"
+msgstr "Մոնտենեգրո"
 
 msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
-msgstr "ポンタデルガダ"
+msgstr "Պոնտա Դելգադա"
 
 msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
-msgstr "ポートルイス"
+msgstr "Պորտ Լուի"
 
 msgid "IDS_WCL_BODY_MAURITIUS"
-msgstr "モーリシャス"
+msgstr "Մաուրիտիուս"
 
 msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
-msgstr "ポルトープランス"
+msgstr "Պորտ-օ-Պրենս"
 
 msgid "IDS_WCL_BODY_HAITI"
-msgstr "ハイチ"
+msgstr "Հայիթի"
 
 msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
-msgstr "ポートランド"
+msgstr "Փորթլենդ"
 
 msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
-msgstr "プラハ"
+msgstr "Պրահա"
 
 msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
-msgstr "チェコ"
+msgstr "Չեխիայի Հանրապետություն"
 
 msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
-msgstr "平壌"
+msgstr "Փխենյան"
 
 msgid "IDS_WCL_BODY_NORTH_KOREA"
-msgstr "北朝鮮"
+msgstr "Հյուսիսային Կորեա"
 
 msgid "IDS_WCL_BODY_CITYNAME_QUITO"
-msgstr "キト"
+msgstr "Կիտո"
 
 msgid "IDS_WCL_BODY_CITYNAME_RABAT"
-msgstr "ラバト"
+msgstr "Ռաբատ"
 
 msgid "IDS_WCL_BODY_CITYNAME_YANGON"
-msgstr "ヤンゴン"
+msgstr "Յանգոն"
 
 msgid "IDS_WCL_BODY_BURMA"
-msgstr "ミャンマー"
+msgstr "Բիրմա"
 
 msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
-msgstr "レシフェ"
+msgstr "Ռեսիֆի"
 
 msgid "IDS_WCL_BODY_CITYNAME_REGINA"
-msgstr "レジャイナ"
+msgstr "Ռիջայնա"
 
 msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
-msgstr "レイキャビーク"
+msgstr "Ռեյկյավիկ"
 
 msgid "IDS_WCL_BODY_ICELAND"
-msgstr "アイスランド"
+msgstr "Իսլանդիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_RIGA"
-msgstr "リガ"
+msgstr "Ռիգա"
 
 msgid "IDS_WCL_BODY_LATVIA"
-msgstr "ラトビア"
+msgstr "Լատվիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
-msgstr "リオデジャネイロ"
+msgstr "Ռիո դե Ժանեյրո"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
-msgstr "サンドニ"
+msgstr "Սեն-Դենի"
 
 msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
-msgstr "レユニオン島"
+msgstr "Ռեյունիոն կղզի"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
-msgstr "サマラ"
+msgstr "Սամարա"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
-msgstr "サンアントニオ"
+msgstr "Սան Անտոնիո"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
-msgstr "サンディエゴ"
+msgstr "Սան Դիեգո"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
-msgstr "サンフランシスコ"
+msgstr "Սան-Ֆրանցիսկո"
 
 msgid "IDS_WCL_BODY_SAN_JOSE"
-msgstr "サンノゼ"
+msgstr "Սան Խոսե"
 
 msgid "IDS_WCL_BODY_COSTA_RICA"
-msgstr "コスタリカ"
+msgstr "Կոստա Ռիկա"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
-msgstr "サンファン"
+msgstr "Սան Խուան"
 
 msgid "IDS_WCL_BODY_PUERTO_RICO"
-msgstr "プエルトリコ"
+msgstr "Պուերտո Ռիկո"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
-msgstr "サンマリノ市"
+msgstr "Սան Մարինո"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
-msgstr "サンサルバドル"
+msgstr "Սան Սալվադոր"
 
 msgid "IDS_WCL_BODY_EL_SALVADOR"
-msgstr "エルサルバドル"
+msgstr "Սալվադոր"
 
 msgid "IDS_WCL_BODY_CITYNAME_SANAA"
-msgstr "サヌア"
+msgstr "Սանա"
 
 msgid "IDS_WCL_BODY_YEMEN"
-msgstr "イエメン"
+msgstr "Յեմեն"
 
 msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
-msgstr "サンティエゴ"
+msgstr "Սանտիագո"
 
 msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
-msgstr "サントドミンゴ"
+msgstr "Սանտո Դոմինգո"
 
 msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
-msgstr "ドミニカ共和国"
+msgstr "Դոմինիկյան Հանրապետություն"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
-msgstr "サンパウロ"
+msgstr "Սան Պաուլու"
 
 msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
-msgstr "シアトル"
+msgstr "Սիետլ"
 
 msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
-msgstr "ソウル"
+msgstr "Սեուլ"
 
 msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
-msgstr "韓国"
+msgstr "Կորեայի Հանրապետություն"
 
 msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
-msgstr "上海"
+msgstr "Շանհայ"
 
 msgid "IDS_WCL_BODY_SHENZHEN"
-msgstr "深セン"
+msgstr "Շենժեն"
 
 msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
-msgstr "シンガポール"
+msgstr "Սինգապուր"
 
 msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
-msgstr "シンガポール"
+msgstr "Սինգապուրի Հանրապետություն"
 
 msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
-msgstr "スコピエ"
+msgstr "Սկոպյե"
 
 msgid "IDS_WCL_BODY_MACEDONIA"
-msgstr "マケドニア"
+msgstr "ՄԱԿԵԴՈՆԻԱ"
 
 msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
-msgstr "ソフィア"
+msgstr "Սոֆիա"
 
 msgid "IDS_WCL_BODY_BULGARIA"
-msgstr "ブルガリア"
+msgstr "Բուլղարիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
-msgstr "セントジョンズ"
+msgstr "Սբ.Ջոն"
 
 msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
-msgstr "アンティグアバーブーダ"
+msgstr "Անտիգուա և Բարբուդա"
 
 msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
-msgstr "ストックホルム"
+msgstr "Սթոքհոլմ"
 
 msgid "IDS_WCL_BODY_SWEDEN"
-msgstr "スウェーデン"
+msgstr "Շվեդիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_SUVA"
-msgstr "スバ"
+msgstr "Սուվա"
 
 msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
-msgstr "フィジー"
+msgstr "Ֆիջի"
 
 msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
-msgstr "フィジー​諸島​共和国"
+msgstr "Ֆիջի Կղզիների Հանրապետություն"
 
 msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
-msgstr "シドニー"
+msgstr "Սիդնեյ"
 
 msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
-msgstr "タヒチ"
+msgstr "Թայիթի"
 
 msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
-msgstr "フランス(仏)領ポリネシア"
+msgstr "Ֆրանսիական Պոլինեզիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
-msgstr "台北"
+msgstr "Տայպեյ"
 
 msgid "IDS_WCL_BODY_TAIWAN"
-msgstr "台湾"
+msgstr "Տայվան"
 
 msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
-msgstr "タリン"
+msgstr "Տալլինն"
 
 msgid "IDS_WCL_BODY_ESTONIA"
-msgstr "エストニア"
+msgstr "Էստոնիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
-msgstr "タラワ"
+msgstr "Տարավա"
 
 msgid "IDS_WCL_BODY_KIRIBATI"
-msgstr "キリバス"
+msgstr "Կիրիբատի"
 
 msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
-msgstr "タシュケント"
+msgstr "Տաշկենտ"
 
 msgid "IDS_WCL_BODY_UZBEKISTAN"
-msgstr "ウズベキスタン"
+msgstr "Ուզբեկստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
-msgstr "トビリシ"
+msgstr "Թբիլիսի"
 
 msgid "IDS_WCL_BODY_GEORGIA"
-msgstr "グルジア"
+msgstr "Վրաստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
-msgstr "テグシガルパ"
+msgstr "Տեգուսիգալպա"
 
 msgid "IDS_WCL_BODY_HONDURAS"
-msgstr "ホンジュラス"
+msgstr "Հոնդուրաս"
 
 msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
-msgstr "テヘラン"
+msgstr "Թեհրան"
 
 msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
-msgstr "イラン"
+msgstr "Իրան"
 
 msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
-msgstr "ホーチミン市"
+msgstr "Հո Շի Մին"
 
 msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
-msgstr "セトルメント"
+msgstr "Սետլմենտ"
 
 msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
-msgstr "イギリス(英)領​バージン​諸島"
+msgstr "Բրիտանական Վիրգինյան կղզիներ"
 
 msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
-msgstr "天津"
+msgstr "Տյանցզին"
 
 msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
-msgstr "ティフアナ"
+msgstr "Տիխուանա"
 
 msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
-msgstr "東京"
+msgstr "Տոկիո"
 
 msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
-msgstr "トロント"
+msgstr "Տորոնտո"
 
 msgid "IDS_WCL_BODY_CITYNAME_TREHET"
-msgstr "トレエ"
+msgstr "Տրեհե"
 
 msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
-msgstr "トリポリ"
+msgstr "Տրիպոլի"
 
 msgid "IDS_WCL_BODY_LIBYA"
-msgstr "リビア"
+msgstr "Լիբիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
-msgstr "チュニス"
+msgstr "Թունիս"
 
 msgid "IDS_WCL_BODY_TUNISIA"
-msgstr "チュニジア"
+msgstr "Թունիս"
 
 msgid "IDS_WCL_BODY_CITYNAME_TURIN"
-msgstr "トリノ"
+msgstr "Տուրին"
 
 msgid "IDS_WCL_BODY_CITYNAME_UFA"
-msgstr "ウファ"
+msgstr "Ուֆա"
 
 msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
-msgstr "バシキリア"
+msgstr "Բաշկիրիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
-msgstr "ウランバートル"
+msgstr "Ուլան-Բատոր"
 
 msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
-msgstr "ファドゥーツ"
+msgstr "Վադուց"
 
 msgid "IDS_WCL_BODY_LIECHTENSTEIN"
-msgstr "リヒテンシュタイン"
+msgstr "Լիխտենշտեյն"
 
 msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
-msgstr "バレッタ"
+msgstr "Վալետտա"
 
 msgid "IDS_WCL_BODY_MALTA"
-msgstr "マルタ"
+msgstr "Մալթա"
 
 msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
-msgstr "バンクーバー"
+msgstr "Վանկուվեր"
 
 msgid "IDS_WCL_BODY_CITYNAME_VERONA"
-msgstr "ベローナ"
+msgstr "Վերոնա"
 
 msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
-msgstr "ビクトリア"
+msgstr "Վիկտորիա"
 
 msgid "IDS_WCL_BODY_SEYCHELLES"
-msgstr "セーシェル"
+msgstr "Սեյշելյան կղզիներ"
 
 msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
-msgstr "ウィーン"
+msgstr "Վիեննա"
 
 msgid "IDS_WCL_BODY_AUSTRIA"
-msgstr "オーストリア"
+msgstr "Ավստրիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
-msgstr "ビリニュス"
+msgstr "Վիլնյուս"
 
 msgid "IDS_WCL_BODY_LITHUANIA"
-msgstr "リトアニア"
+msgstr "Լիտվա"
 
 msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
-msgstr "ウラジオストク"
+msgstr "Վլադիվոստոկ"
 
 msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
-msgstr "ボルゴグラード"
+msgstr "Վոլգոգրադ"
 
 msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
-msgstr "サンクトペテルブルク"
+msgstr "Սանկտ Պետերբուրգ"
 
 msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
-msgstr "ワルシャワ"
+msgstr "Վարշավա"
 
 msgid "IDS_WCL_BODY_POLAND"
-msgstr "ポーランド"
+msgstr "Լեհաստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
-msgstr "ワシントンDC"
+msgstr "Վաշինգտոն"
 
 msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
-msgstr "ウェリントン"
+msgstr "Վելլինգտոն"
 
 msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
-msgstr "ウィニペグ"
+msgstr "Վինիպեգ"
 
 msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
-msgstr "ヤクーツク"
+msgstr "Յակուտսկ"
 
 msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
-msgstr "ヤムスクロ"
+msgstr "Յամուսուկրո"
 
 msgid "IDS_WCL_BODY_YAOUNDE"
-msgstr "ヤウンデ"
+msgstr "Յաունդե"
 
 msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
-msgstr "エカテリンブルク"
+msgstr "Եկատերինբուրգ"
 
 msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
-msgstr "エレバン"
+msgstr "Երևան"
 
 msgid "IDS_WCL_BODY_ARMENIA"
-msgstr "アルメニア"
+msgstr "Հայաստան"
 
 msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
-msgstr "ユジノサハリンスク"
+msgstr "Յուժնո-Սախալինսկ"
 
 msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
-msgstr "ザグレブ"
+msgstr "Զագրեբ"
 
 msgid "IDS_WCL_BODY_CROATIA"
-msgstr "クロアチア"
+msgstr "Խորվաթիա"
 
 msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
-msgstr "チューリッヒ"
+msgstr "Ցյուրիխ"
 
 msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
-msgstr "%s​を​開始​できません"
+msgstr "Հնարավոր չէ գործարկել %s-ը"
 
 msgid "IDS_COM_SK_TRY"
-msgstr "試す"
+msgstr "Փորձեք"
 
 msgid "IDS_COM_POP_DEFAULT_APPLICATION"
-msgstr "標準アプリケーション"
+msgstr "Կանխադրված ծրագիր"
 
 msgid "IDS_COM_POP_ENABLED"
-msgstr "利用できます。"
+msgstr "Ակտիվացված է"
 
 msgid "IDS_COM_POP_DISABLED"
-msgstr "利用できません。"
+msgstr "Անջատված"
 
 msgid "IDS_COM_BODY_VIDEO_PLAYER"
-msgstr "動画"
+msgstr "Տեսանվագարկիչ"
 
 msgid "IDS_COM_BODY_JANUARY"
-msgstr "1月"
+msgstr "Հունվար"
 
 msgid "IDS_COM_BODY_FEBRUARY"
-msgstr "2月"
+msgstr "Փետրվար"
 
 msgid "IDS_COM_BODY_MARCH"
-msgstr "3月"
+msgstr "Մարտ"
 
 msgid "IDS_COM_BODY_APRIL"
-msgstr "4月"
+msgstr "ապրիլ"
 
 msgid "IDS_COM_BODY_JUNE"
-msgstr "6月"
+msgstr "Հունիս"
 
 msgid "IDS_COM_BODY_JULY"
-msgstr "7月"
+msgstr "Հուլիս"
 
 msgid "IDS_COM_BODY_AUGUST"
-msgstr "8月"
+msgstr "Oգոստոս"
 
 msgid "IDS_COM_BODY_SEPTEMBER"
-msgstr "9月"
+msgstr "Սեպտեմբեր"
 
 msgid "IDS_COM_BODY_OCTOBER"
-msgstr "10月"
+msgstr "Հոկտեմբեր"
 
 msgid "IDS_COM_BODY_NOVEMBER"
-msgstr "11月"
+msgstr "Նոյեմբեր"
 
 msgid "IDS_COM_BODY_DECEMBER"
-msgstr "12月"
+msgstr "դեկտեմբեր"
 
 msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
-msgstr "選択したデータは見つかりませんでした。"
+msgstr "Ընտրված տվյալները չեն գտնվել"
 
 msgid "IDS_IDLE_BODY_WEATHER"
-msgstr "天気予報"
+msgstr "Եղանակ"
 
 msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
-msgstr "最大文字数に達しました。"
+msgstr "Հասել եք նիշերի առավելագույն քանակին"
 
 msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
-msgstr "最大文字数（%d）に達しました。"
+msgstr "Հասել է նիշերի առավելագույն քանակին (%d)"
 
 msgid "IDS_COM_BODY_S_NOTE"
-msgstr "Sノート"
+msgstr "S Note"
 
 msgid "IDS_COM_BODY_S_PLANNER"
-msgstr "Sプランナー"
+msgstr "S Planner"
 
 msgid "IDS_COM_BODY_S_VOICE"
-msgstr "Sボイス"
+msgstr "S Voice"
 
 msgid "IDS_COM_BODY_S_CLOUD"
-msgstr "Sクラウド"
+msgstr "S Cloud"
 
 msgid "IDS_COM_BODY_CHATON"
 msgstr "ChatON"
 
 msgid "IDS_IDLE_OPT2_DISCARD"
-msgstr "破棄"
+msgstr "Դեն նետել"
 
 msgid "IDS_COM_BODY_DATE"
-msgstr "日付"
+msgstr "Ամսաթիվ"
 
 msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
-msgstr "不明なエラーが発生しました。"
+msgstr "Անհայտ սխալ տեղի ունեցավ"
 
 msgid "IDS_COM_BODY_TIME"
-msgstr "時間"
+msgstr "Ժամանակ"
 
 msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
-msgstr "時計"
+msgstr "Ժամացույց"
 
 msgid "IDS_COM_BODY_CALLER_IMAGE"
-msgstr "発信者画像"
+msgstr "Զանգահարողի պատկեր"
 
 msgid "IDS_COM_BODY_CLEAR_ALL"
-msgstr "全て消去"
+msgstr "Մաքրել բոլորը"
 
 msgid "IDS_COM_BODY_SYNC"
-msgstr "同期"
+msgstr "Համաժամացնել"
 
 msgid "IDS_COM_OPT_INSERT"
-msgstr "挿入"
+msgstr "Ավելացնել"
 
 msgid "IDS_COM_POP_PASTE_HERE"
-msgstr "ここに貼付"
+msgstr "Վերլուծել այստեղ"
 
 msgid "IDS_COM_SK_CLEAR"
-msgstr "消去"
+msgstr "Մաքրել"
 
 msgid "IDS_COM_SK_PRINT"
-msgstr "印刷"
+msgstr "Տպել"
 
 msgid "IDS_COM_SK3_ERASER"
-msgstr "消しゴム"
+msgstr "Ջնջիչ"
 
 msgid "IDS_COM_OPT2_EDIT_TAG"
-msgstr "タグを編集"
+msgstr "Խմբագրել հատկորոշիչ"
 
 msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
-msgstr "画面ロック時の壁紙"
+msgstr "Կողպված էկրանի պաստառ"
 
 msgid "IDS_COM_BODY_PREPARING_SD_CARD"
-msgstr "外部SDカードを準備中..."
+msgstr "Նախապատրաստվում է SD քարտ..."
 
 msgid "IDS_COM_SK_IGNORE"
-msgstr "無視"
+msgstr "Արհամրհել"
 
 msgid "IDS_COM_SK_ABORT"
-msgstr "中止"
+msgstr "Դադար"
 
 msgid "IDS_COM_BODY_SD_CARD_REMOVED"
-msgstr "外部SDカードが取り外されました。"
+msgstr "SD քարտը հեռացված է"
 
 msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
-msgstr "外部SDカードにアクセスできません。"
+msgstr "Անհնար է մուտք գործել SD քարտ"
 
 msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
-msgstr "外部SDカードを安全に取り外せます。"
+msgstr "Ապահով է հեռացնել SD քարտը"
 
 msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
-msgstr "外部SDカードが不意に取り外されました。"
+msgstr "SD քարտը անակնկալ հեռացվել է"
 
 msgid "IDS_COM_OPT_S_MEMO"
-msgstr "Sメモ"
+msgstr "S Memo"
 
 msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
-msgstr "#あかさたなはまやらわAZ"
+msgstr "#ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖ"

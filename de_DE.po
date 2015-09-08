@@ -1,9 +1,3 @@
-msgid "IDS_COM_POP_SOUND_OFF"
-msgstr "Ton aus"
-
-msgid "IDS_COM_POP_SOUND_ON"
-msgstr "Ton ein"
-
 msgid "IDS_COM_BODY_FRIDAY"
 msgstr "Freitag"
 
@@ -25,8 +19,302 @@ msgstr "Dienstag"
 msgid "IDS_COM_BODY_WEDNESDAY"
 msgstr "Mittwoch"
 
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Klingeltöne"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Benutzername"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Optionen"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Anzeigen"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Ausblenden"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Optionen"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Aktualisieren"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Aktual."
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Abbrechen"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Automatisch"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Bearbeiten"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Bearbeiten"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Konto löschen"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Senden"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Alben"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "E-Mail-Adresse"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Standortzugriff"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Manuell"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Video"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Löschen?"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Passwort"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Sperre"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "Ton aus"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Konten"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "Ton ein"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Eigene Bilder"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Sonstiges"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Suche"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Betreff"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Videos"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Hintergrundbild"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Zu Kontakten hinzufügen"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Helligkeit"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Neuer Kontakt"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Löschen"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Speichern"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Verbindung wird hergestellt..."
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Gelöscht"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "OK"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Anruf"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galerie"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Ohne"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Alle auswählen"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "Abbrechen"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Hinzufügen"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Zurück"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Anruf"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Speichern"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Alarm"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Alle"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Passwort"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Kalender"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Kontakte"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Kopieren"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-Mail"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "UKW-Radio"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "Weiterleiten"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Hilfe"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Bildeditor"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Protokolle"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Memo"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Nachricht"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Nachrichten"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Musik"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Eigene Dateien"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Aus"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Ein"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Telefon"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Einstellungen"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Videoanruf"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Sprachanruf"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Diktiergerät"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "WLAN"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Neue E-Mails"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Löschen"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Bearbeiten"
+
+msgid "IDS_COM_SK_NO"
+msgstr "Nein"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Umbenenn."
+
+msgid "IDS_COM_SK_SET"
+msgstr "Einstellen"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Stopp"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Ja"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "OK"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "Notruf"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "Weiterleitung"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Ablehnen"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Kies über WLAN"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "Weiter"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "Login"
+
 msgid "IDS_COM_BODY_NA"
 msgstr "Entfällt"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "Suchen"
 
 msgid "IDS_COM_BODY_BASIC"
 msgstr "Einfach"
@@ -70,9 +358,6 @@ msgstr "Privat"
 msgid "IDS_COM_BODY_RESUME"
 msgstr "Fortsetzen"
 
-msgid "IDS_COM_BODY_RINGTONES"
-msgstr "Klingeltöne"
-
 msgid "IDS_COM_BODY_SECONDS_LC"
 msgstr "Sekunden"
 
@@ -88,12 +373,6 @@ msgstr "System"
 msgid "IDS_COM_BODY_UNABLE_TO_ADD"
 msgstr "Hinzufügen nicht möglich"
 
-msgid "IDS_COM_BODY_USER_NAME"
-msgstr "Benutzername"
-
-msgid "IDS_COM_DISCARD"
-msgstr "Verwerfen"
-
 msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
 msgstr "Hintergrundbild ändern"
 
@@ -104,7 +383,7 @@ msgid "IDS_COM_OPT_ADD_CONTACT"
 msgstr "Kontakt hinzufügen"
 
 msgid "IDS_COM_OPT_ADD_TAG"
-msgstr "Tag hzfg."
+msgstr "Tag hinzufügen"
 
 msgid "IDS_COM_OPT_FOLDERS"
 msgstr "Ordner"
@@ -145,9 +424,6 @@ msgstr "Verschiebevorgang aktiv..."
 msgid "IDS_COM_POP_MOVING_FAILED"
 msgstr "Verschieben fehlgeschlagen"
 
-msgid "IDS_COM_POP_NAME"
-msgstr "Name"
-
 msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
 msgstr "Interner Fehler"
 
@@ -178,8 +454,8 @@ msgstr "Speichern..."
 msgid "IDS_COM_POP_SELECTED"
 msgstr "Ausgewählt"
 
-msgid "IDS_COM_POP_SMALL_MINUTES"
-msgstr "Minuten"
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "Farbe"
 
 msgid "IDS_COM_POP_TRY_AGAIN"
 msgstr "Erneut versuchen"
@@ -193,20 +469,8 @@ msgstr "Vibration"
 msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
 msgstr "Jetzt freigeben?"
 
-msgid "IDS_COM_SK3_MORE"
-msgstr "Optionen"
-
-msgid "IDS_COM_SK4_VIEW_BY"
-msgstr "Anzeigen"
-
-msgid "IDS_COM_SK_HIDE"
-msgstr "Ausblenden"
-
 msgid "IDS_COM_SK_LANGUAGE"
 msgstr "Sprache"
-
-msgid "IDS_COM_SK_MORE"
-msgstr "Optionen"
 
 msgid "IDS_COM_SK_MORE_LITE"
 msgstr "Optionen"
@@ -214,20 +478,20 @@ msgstr "Optionen"
 msgid "IDS_COM_SK_RECORD"
 msgstr "Aufnahme"
 
-msgid "IDS_COM_SK_REFRESH"
-msgstr "Aktualisieren"
-
 msgid "IDS_COM_SK_RESULT"
 msgstr "Ergebnis"
 
 msgid "IDS_COM_SK_SET_AS"
 msgstr "Einst. als"
 
-msgid "IDS_COM_SK_UPDATE"
-msgstr "Aktual."
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "Favorit"
 
-msgid "IDS_COM_SK_CANCEL"
-msgstr "Abbrechen"
+msgid "IDS_COM_BODY_TAG"
+msgstr "Tag-Info"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "Sortieren nach"
 
 msgid "IDS_COM_BODY_12_HOURS"
 msgstr "12 Stunden"
@@ -247,15 +511,6 @@ msgstr "Immer fragen"
 msgid "IDS_COM_BODY_AUTHOR"
 msgstr "Autor"
 
-msgid "IDS_COM_BODY_AUTOMATIC"
-msgstr "Automatisch"
-
-msgid "IDS_COM_BODY_BY_MMS"
-msgstr "Per MMS"
-
-msgid "IDS_COM_BODY_EDIT"
-msgstr "Bearbeiten"
-
 msgid "IDS_COM_BODY_FLICKR"
 msgstr "Flickr"
 
@@ -264,9 +519,6 @@ msgstr "Niemals"
 
 msgid "IDS_COM_BODY_NOTE"
 msgstr "Memo"
-
-msgid "IDS_COM_BODY_PICASA"
-msgstr "Picasa"
 
 msgid "IDS_COM_BODY_PREVIOUS_DAYS"
 msgstr "Vorherige Tage"
@@ -283,14 +535,8 @@ msgstr "Text hinzufügen"
 msgid "IDS_COM_BODY_VIA_EMAIL"
 msgstr "E-Mail"
 
-msgid "IDS_COM_BODY_YOU_TUBE"
-msgstr "YouTube"
-
 msgid "IDS_COM_BUTTON_SHARE"
 msgstr "Senden"
-
-msgid "IDS_COM_HEADER_EDIT"
-msgstr "Bearbeiten"
 
 msgid "IDS_COM_OPT_FILES"
 msgstr "Dateien"
@@ -300,9 +546,6 @@ msgstr "Importieren"
 
 msgid "IDS_COM_OPT_VIA_EMAIL"
 msgstr "E-Mail"
-
-msgid "IDS_COM_POP_DELETE_ACCOUNT"
-msgstr "Konto löschen"
 
 msgid "IDS_COM_POP_FILE"
 msgstr "Datei"
@@ -331,9 +574,6 @@ msgstr "Bestät."
 msgid "IDS_COM_BUTTON_RECENT"
 msgstr "Kürzlich"
 
-msgid "IDS_COM_SK4_SHARE"
-msgstr "Senden"
-
 msgid "IDS_COM_BODY_BOOKMARK"
 msgstr "Lesezeichen"
 
@@ -344,10 +584,10 @@ msgid "IDS_COM_BODY_LIST_BY"
 msgstr "Sortieren"
 
 msgid "IDS_COM_BODY_LOADING"
-msgstr "Lade..."
+msgstr "Lädt..."
 
 msgid "IDS_COM_BODY_PREVIOUS"
-msgstr "Vorherige"
+msgstr "Zurück"
 
 msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
 msgstr "Empfänger hinzufügen"
@@ -370,11 +610,14 @@ msgstr "Netzfehler"
 msgid "IDS_COM_POP_NO_ACCOUNTS"
 msgstr "Keine Konten"
 
+msgid "IDS_COM_SK_RESTART"
+msgstr "Neustart"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "Kopieren"
+
 msgid "IDS_COM_BODY_ALBUM"
 msgstr "Album"
-
-msgid "IDS_COM_BODY_ALBUMS"
-msgstr "Alben"
 
 msgid "IDS_COM_BODY_AUTO_REFRESH"
 msgstr "Automatische Aktualisierung"
@@ -387,9 +630,6 @@ msgstr "Heruntergeladen"
 
 msgid "IDS_COM_BODY_DOWNLOADS"
 msgstr "Downloads"
-
-msgid "IDS_COM_BODY_EMAIL_ADDRESS"
-msgstr "E-Mail-Adresse"
 
 msgid "IDS_COM_BODY_EMAIL_SIZE"
 msgstr "E-Mail-Größe"
@@ -405,12 +645,6 @@ msgstr "Google Maps"
 
 msgid "IDS_COM_BODY_ID"
 msgstr "ID"
-
-msgid "IDS_COM_BODY_LOCATION"
-msgstr "Standortzugriff"
-
-msgid "IDS_COM_BODY_MANUAL"
-msgstr "Manuell"
 
 msgid "IDS_COM_BODY_NO_CONTENTS"
 msgstr "Kein Inhalt"
@@ -431,7 +665,7 @@ msgid "IDS_COM_BODY_SIZE"
 msgstr "Größe"
 
 msgid "IDS_COM_BODY_START"
-msgstr "Start"
+msgstr "Starten"
 
 msgid "IDS_COM_BODY_SUN"
 msgstr "So"
@@ -444,9 +678,6 @@ msgstr "Zum Hinzufügen tippen"
 
 msgid "IDS_COM_BODY_TO"
 msgstr "An"
-
-msgid "IDS_COM_BODY_VIDEO"
-msgstr "Video"
 
 msgid "IDS_COM_BODY_VOICE"
 msgstr "Sprachanruf"
@@ -481,9 +712,6 @@ msgstr "Bereits vorhanden"
 msgid "IDS_COM_POP_CANCELLED"
 msgstr "Abgebrochen"
 
-msgid "IDS_COM_POP_DELETE_Q"
-msgstr "Löschen?"
-
 msgid "IDS_COM_POP_DELETING"
 msgstr "Löschen..."
 
@@ -493,9 +721,6 @@ msgstr "Herunterladen..."
 msgid "IDS_COM_POP_FORMAT"
 msgstr "Format"
 
-msgid "IDS_COM_POP_INTERNAL_ERROR"
-msgstr "Unbekannter Fehler"
-
 msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
 msgstr "Speicherkarte eingesetzt"
 
@@ -504,9 +729,6 @@ msgstr "Speicherkarte entfernt"
 
 msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
 msgstr "Speicher voll"
-
-msgid "IDS_COM_POP_PASSWORD"
-msgstr "Passwort"
 
 msgid "IDS_COM_POP_REMOVED"
 msgstr "Entfernt"
@@ -520,20 +742,11 @@ msgstr "Senden fehlgeschlagen"
 msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
 msgstr "Service nicht verfügbar"
 
-msgid "IDS_COM_POP_SIZE"
-msgstr "Größe"
-
-msgid "IDS_COM_POP_TIME"
-msgstr "Zeit"
-
 msgid "IDS_COM_POP_TYPE"
 msgstr "Typ"
 
 msgid "IDS_COM_POP_UNABLE_TO_DELETE"
 msgstr "Kann nicht gelöscht werden"
-
-msgid "IDS_COM_SK3_BLOCK"
-msgstr "Sperre"
 
 msgid "IDS_COM_SK3_COMPOSE"
 msgstr "Verfass."
@@ -548,7 +761,19 @@ msgid "IDS_COM_SK_REPLY"
 msgstr "Antworten"
 
 msgid "IDS_COM_SK_START"
-msgstr "Start"
+msgstr "Starten"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "Vorsch."
+
+msgid "IDS_COM_POP_SOS"
+msgstr "Notruf"
 
 msgid "IDS_COM_POP_DELETE_FAILED"
 msgstr "Löschen fehlgeschlagen"
@@ -567,9 +792,6 @@ msgstr "1 Minute"
 
 msgid "IDS_COM_BODY_1_WEEK"
 msgstr "1 Woche"
-
-msgid "IDS_COM_BODY_ACCOUNTS"
-msgstr "Konten"
 
 msgid "IDS_COM_BODY_BIRTHDAY"
 msgstr "Geburtstag"
@@ -592,17 +814,11 @@ msgstr "Schriftart"
 msgid "IDS_COM_BODY_GROUP"
 msgstr "Gruppe"
 
-msgid "IDS_COM_BODY_IMAGES"
-msgstr "Eigene Bilder"
-
 msgid "IDS_COM_BODY_INFO"
 msgstr "Info"
 
 msgid "IDS_COM_BODY_MELODY"
 msgstr "Melodie"
-
-msgid "IDS_COM_BODY_OTHERS"
-msgstr "Sonstiges"
 
 msgid "IDS_COM_BODY_PD_MINUTES"
 msgstr "%d Minuten"
@@ -613,44 +829,20 @@ msgstr "Umbenennen"
 msgid "IDS_COM_BODY_RINGTONE"
 msgstr "Klingelton"
 
-msgid "IDS_COM_BODY_SEARCH"
-msgstr "Suche"
-
 msgid "IDS_COM_BODY_SEND"
 msgstr "Senden"
 
 msgid "IDS_COM_BODY_SMS"
 msgstr "SMS"
 
-msgid "IDS_COM_BODY_SUBJECT"
-msgstr "Betreff"
-
 msgid "IDS_COM_BODY_TODAY"
 msgstr "Heute"
-
-msgid "IDS_COM_BODY_VIDEOS"
-msgstr "Videos"
-
-msgid "IDS_COM_BODY_WALLPAPER"
-msgstr "Hintergrundbild"
 
 msgid "IDS_COM_BODY_YESTERDAY"
 msgstr "Gestern"
 
 msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
 msgstr "Zu Favoriten hinzufügen"
-
-msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
-msgstr "Zu Kontakten hinzufügen"
-
-msgid "IDS_COM_OPT_BRIGHTNESS"
-msgstr "Helligkeit"
-
-msgid "IDS_COM_OPT_CREATE_CONTACT"
-msgstr "Kontakt erstellen"
-
-msgid "IDS_COM_OPT_DELETE"
-msgstr "Löschen"
 
 msgid "IDS_COM_OPT_EFFECTS"
 msgstr "Effekte"
@@ -663,9 +855,6 @@ msgstr "Tastenfeld"
 
 msgid "IDS_COM_OPT_LOGOUT"
 msgstr "Abmeldung"
-
-msgid "IDS_COM_OPT_SAVE"
-msgstr "Speichern"
 
 msgid "IDS_COM_POP_ACCEPT"
 msgstr "Annehmen"
@@ -682,23 +871,11 @@ msgstr "Löschen"
 msgid "IDS_COM_POP_CLOSE"
 msgstr "Schließen"
 
-msgid "IDS_COM_POP_CONNECTING"
-msgstr "Verbindung wird hergestellt..."
-
 msgid "IDS_COM_POP_CONNECTION_ERROR"
 msgstr "Verbindungsfehler"
 
 msgid "IDS_COM_POP_CONNECTION_FAILED"
 msgstr "Verbindung fehlgeschlagen"
-
-msgid "IDS_COM_POP_DATE"
-msgstr "Datum"
-
-msgid "IDS_COM_POP_DELETED"
-msgstr "Gelöscht"
-
-msgid "IDS_COM_POP_DONE"
-msgstr "OK"
 
 msgid "IDS_COM_POP_ENTER_NAME"
 msgstr "Name eingeben"
@@ -745,17 +922,8 @@ msgstr "Normal"
 msgid "IDS_IDLE_BUTTON_CANCEL"
 msgstr "Abbruch"
 
-msgid "IDS_COM_ADD"
-msgstr "Hinzufügen"
-
-msgid "IDS_COM_BODY_CALL"
-msgstr "Anruf"
-
 msgid "IDS_COM_BODY_CONTACT"
 msgstr "Kontakt"
-
-msgid "IDS_COM_BODY_GALLERY"
-msgstr "Galerie"
 
 msgid "IDS_COM_BODY_MAPS"
 msgstr "Maps"
@@ -763,29 +931,17 @@ msgstr "Maps"
 msgid "IDS_COM_BODY_MUSIC_STORE"
 msgstr "Music Store"
 
-msgid "IDS_COM_BODY_NONE"
-msgstr "Ohne"
-
 msgid "IDS_COM_BODY_NO_NAME"
 msgstr "Kein Name"
 
 msgid "IDS_COM_BODY_NO_SIM"
 msgstr "Keine SIM"
 
-msgid "IDS_COM_BODY_SELECT_ALL"
-msgstr "Alle auswählen"
-
 msgid "IDS_COM_POP_ADDRESS"
 msgstr "Adresse"
 
-msgid "IDS_COM_POP_CANCEL"
-msgstr "Abbrechen"
-
 msgid "IDS_COM_POP_FAILED"
 msgstr "Fehlgeschlagen"
-
-msgid "IDS_COM_POP_LOW_BATTERY_UNABLE_TO_LAUNCH_APPLICATION"
-msgstr "Schwacher Akku. Anwendung kann nicht gestartet werden"
 
 msgid "IDS_COM_POP_NONE"
 msgstr "Ohne"
@@ -796,53 +952,17 @@ msgstr "Abgeschlossen"
 msgid "IDS_COM_SK_ACCEPT"
 msgstr "Annehmen"
 
-msgid "IDS_COM_SK_ADD"
-msgstr "Hinzufügen"
-
-msgid "IDS_COM_SK_BACK"
-msgstr "Zurück"
-
-msgid "IDS_COM_SK_CALL"
-msgstr "Anruf"
-
 msgid "IDS_COM_SK_NEXT"
 msgstr "Weiter"
 
 msgid "IDS_COM_SK_QUIT"
 msgstr "Abbrechen"
 
-msgid "IDS_COM_SK_SAVE"
-msgstr "Speichern"
-
-msgid "IDS_IDLE_BODY_CARD_SCANNER"
-msgstr "Kartenscanner"
-
-msgid "IDS_IDLE_BODY_CLOCK"
-msgstr "Uhr"
-
-msgid "IDS_IDLE_BODY_E_BOOK"
-msgstr "E-book"
-
-msgid "IDS_IDLE_BODY_MOBILE_AP"
-msgstr "Mobiler Zugangspunkt"
-
-msgid "IDS_IDLE_BODY_WEATHER"
-msgstr "Wetter"
-
-msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU_ABB"
-msgstr "Samsung Apps"
-
 msgid "IDS_COM_BODY_ACTIVATED"
 msgstr "Aktiviert"
 
 msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
 msgstr "SIM-Karte"
-
-msgid "IDS_COM_BODY_ALARM"
-msgstr "Alarm"
-
-msgid "IDS_COM_BODY_ALL"
-msgstr "Alle"
 
 msgid "IDS_COM_BODY_ALLSHARE"
 msgstr "AllShare"
@@ -856,9 +976,6 @@ msgstr "Apr."
 msgid "IDS_COM_BODY_AUG"
 msgstr "Aug."
 
-msgid "IDS_COM_BODY_AUTH_PASSWORD"
-msgstr "Passwort"
-
 msgid "IDS_COM_BODY_AVAILABLE"
 msgstr "Verfügbar"
 
@@ -871,29 +988,14 @@ msgstr "Akku voll geladen.\nLadegerät entfernen"
 msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
 msgstr "Akku voll geladen. Ladegerät entfernen"
 
-msgid "IDS_COM_BODY_BLUETOOTH"
-msgstr "Bluetooth"
-
 msgid "IDS_COM_BODY_BROWSER"
 msgstr "Internet"
 
 msgid "IDS_COM_BODY_CALCULATOR"
 msgstr "Rechner"
 
-msgid "IDS_COM_BODY_CALENDAR"
-msgstr "Kalender"
-
-msgid "IDS_COM_BODY_CAMERA"
-msgstr "Kamera"
-
-msgid "IDS_COM_BODY_CONTACTS"
-msgstr "Kontakte"
-
 msgid "IDS_COM_BODY_CONVERTOR"
 msgstr "Umrechnung"
-
-msgid "IDS_COM_BODY_COPY"
-msgstr "Kopieren"
 
 msgid "IDS_COM_BODY_CREATE"
 msgstr "Erstellen"
@@ -913,20 +1015,8 @@ msgstr "Name"
 msgid "IDS_COM_BODY_DETAILS_TITLE"
 msgstr "Titel"
 
-msgid "IDS_COM_BODY_EMAIL"
-msgstr "E-Mail"
-
-msgid "IDS_COM_BODY_FACEBOOK"
-msgstr "Facebook"
-
 msgid "IDS_COM_BODY_FEB"
 msgstr "Feb."
-
-msgid "IDS_COM_BODY_FM_RADIO"
-msgstr "UKW-Radio"
-
-msgid "IDS_COM_BODY_FORWARD"
-msgstr "Weiterleiten"
 
 msgid "IDS_COM_BODY_FORWARD_A"
 msgstr "Weiterleiten"
@@ -934,17 +1024,8 @@ msgstr "Weiterleiten"
 msgid "IDS_COM_BODY_FRI"
 msgstr "Fr"
 
-msgid "IDS_COM_BODY_HELP"
-msgstr "Hilfe"
-
 msgid "IDS_COM_BODY_IM"
 msgstr "Chat"
-
-msgid "IDS_COM_BODY_IMAGE_EDITOR"
-msgstr "Bildeditor"
-
-msgid "IDS_COM_BODY_INTERNET"
-msgstr "Internet"
 
 msgid "IDS_COM_BODY_JAN"
 msgstr "Jan."
@@ -961,9 +1042,6 @@ msgstr "Schützen"
 msgid "IDS_COM_BODY_LOCK_A"
 msgstr "Sperre"
 
-msgid "IDS_COM_BODY_LOGS"
-msgstr "Protokolle"
-
 msgid "IDS_COM_BODY_LOW"
 msgstr "Niedrig"
 
@@ -976,17 +1054,8 @@ msgstr "Mär."
 msgid "IDS_COM_BODY_MAY"
 msgstr "Mai"
 
-msgid "IDS_COM_BODY_MEMO"
-msgstr "Memo"
-
 msgid "IDS_COM_BODY_MEMORY_CARD"
 msgstr "Speicherkarte"
-
-msgid "IDS_COM_BODY_MESSAGE"
-msgstr "Nachricht"
-
-msgid "IDS_COM_BODY_MESSAGES"
-msgstr "Nachrichten"
 
 msgid "IDS_COM_BODY_MESSAGING"
 msgstr "Nachrichten"
@@ -1006,17 +1075,11 @@ msgstr "Mo"
 msgid "IDS_COM_BODY_MOVE"
 msgstr "Verschieben"
 
-msgid "IDS_COM_BODY_MUSIC"
-msgstr "Musik"
-
 msgid "IDS_COM_BODY_MUSIC_PLAYER"
 msgstr "MP3-Player"
 
 msgid "IDS_COM_BODY_MY_ACCOUNT"
 msgstr "Eigenes Konto"
-
-msgid "IDS_COM_BODY_MY_FILES"
-msgstr "Eigene Dateien"
 
 msgid "IDS_COM_BODY_NAVIGATION"
 msgstr "Navigation"
@@ -1026,15 +1089,6 @@ msgstr "Nov."
 
 msgid "IDS_COM_BODY_OCT"
 msgstr "Okt."
-
-msgid "IDS_COM_BODY_OFF"
-msgstr "Aus"
-
-msgid "IDS_COM_BODY_ON"
-msgstr "Ein"
-
-msgid "IDS_COM_BODY_PHONE"
-msgstr "Telefon"
 
 msgid "IDS_COM_BODY_PIN_LOCK"
 msgstr "PIN-Sperre"
@@ -1050,9 +1104,6 @@ msgstr "Sa"
 
 msgid "IDS_COM_BODY_SEP"
 msgstr "Sep."
-
-msgid "IDS_COM_BODY_SETTINGS"
-msgstr "Einstellungen"
 
 msgid "IDS_COM_BODY_SILENT"
 msgstr "Stumm"
@@ -1096,20 +1147,8 @@ msgstr "Unbekannt"
 msgid "IDS_COM_BODY_USB"
 msgstr "USB"
 
-msgid "IDS_COM_BODY_VIDEO_CALL"
-msgstr "Videoanruf"
-
-msgid "IDS_COM_BODY_VOICE_CALL"
-msgstr "Sprachanruf"
-
-msgid "IDS_COM_BODY_VOICE_RECORDER"
-msgstr "Diktiergerät"
-
 msgid "IDS_COM_BODY_WED"
 msgstr "Mi"
-
-msgid "IDS_COM_BODY_WI_FI"
-msgstr "WLAN"
 
 msgid "IDS_COM_BODY_WORLD_CLOCK"
 msgstr "Weltuhr"
@@ -1162,9 +1201,6 @@ msgstr "Verpasste Ereignisse"
 msgid "IDS_COM_POP_NEW_EMAIL"
 msgstr "Neue E-Mail"
 
-msgid "IDS_COM_POP_NEW_EMAILS"
-msgstr "Neue E-Mails"
-
 msgid "IDS_COM_POP_NEW_MESSAGE"
 msgstr "Neue Nachricht"
 
@@ -1180,29 +1216,17 @@ msgstr "Freigeben"
 msgid "IDS_COM_POP_WARNING"
 msgstr "Warnung"
 
-msgid "IDS_COM_SK_DELETE"
-msgstr "Löschen"
-
 msgid "IDS_COM_SK_DIALLER"
 msgstr "Telefon"
 
 msgid "IDS_COM_SK_DONE"
 msgstr "OK"
 
-msgid "IDS_COM_SK_EDIT"
-msgstr "Bearbeiten"
-
 msgid "IDS_COM_SK_MENU"
 msgstr "Menü"
 
-msgid "IDS_COM_SK_NO"
-msgstr "Nein"
-
 msgid "IDS_COM_SK_OFF"
 msgstr "Aus"
-
-msgid "IDS_COM_SK_OK"
-msgstr "OK"
 
 msgid "IDS_COM_SK_OPEN"
 msgstr "Öffnen"
@@ -1222,9 +1246,6 @@ msgstr "Wiederg."
 msgid "IDS_COM_SK_REMOVE"
 msgstr "Entfernen"
 
-msgid "IDS_COM_SK_RENAME"
-msgstr "Umbenenn."
-
 msgid "IDS_COM_SK_SEARCH"
 msgstr "Suche"
 
@@ -1240,35 +1261,17 @@ msgstr "Senden"
 msgid "IDS_COM_SK_SEND_ABB"
 msgstr "Senden"
 
-msgid "IDS_COM_SK_SET"
-msgstr "Einstellen"
-
-msgid "IDS_COM_SK_STOP"
-msgstr "Stopp"
-
 msgid "IDS_COM_SK_VIDEO_CALL"
 msgstr "Videoanruf"
 
-msgid "IDS_COM_SK_YES"
-msgstr "Ja"
-
 msgid "IDS_IDLE_BODY_ACTIVESYNC"
 msgstr "ActiveSync"
-
-msgid "IDS_IDLE_BODY_ASPHALT5"
-msgstr "Asphalt5"
-
-msgid "IDS_IDLE_BODY_CREYON_PHYSICS"
-msgstr "Creyon physics"
 
 msgid "IDS_IDLE_BODY_RESOLUTION"
 msgstr "Auflösung"
 
 msgid "IDS_IDLE_BODY_RSS"
 msgstr "RSS"
-
-msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU"
-msgstr "Samsung Apps"
 
 msgid "IDS_COM_BODY_END"
 msgstr "Beenden"
@@ -1357,9 +1360,6 @@ msgstr "Di"
 msgid "IDS_COM_POP_WED"
 msgstr "Mi"
 
-msgid "IDS_COM_BODY_DONE"
-msgstr "OK"
-
 msgid "IDS_COM_BODY_APPLICATIONS"
 msgstr "Anwendungen"
 
@@ -1369,8 +1369,8 @@ msgstr "Layout auswählen"
 msgid "IDS_COM_SK_LAUNCH"
 msgstr "Starten"
 
-msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
-msgstr "Notruf"
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "Per MMS"
 
 msgid "IDS_COM_OPT_HEADPHONES_ABB"
 msgstr "Kopfhörer"
@@ -1408,9 +1408,6 @@ msgstr "Nichts ausgewählt"
 msgid "IDS_COM_POP_AVAILABLE_USES"
 msgstr "Verfügbare Nutzungen"
 
-msgid "IDS_COM_BODY_FORWARDING"
-msgstr "Weiterleitung"
-
 msgid "IDS_COM_BODY_NO_SERVICE"
 msgstr "Kein Netz"
 
@@ -1441,23 +1438,14 @@ msgstr "Alle Sender"
 msgid "IDS_COM_SK_CONFIRM"
 msgstr "Bestät."
 
-msgid "IDS_COM_SK_DECLINE"
-msgstr "Ablehnen"
-
 msgid "IDS_COM_BODY_GENERAL"
 msgstr "Allgemein"
-
-msgid "IDS_COM_BODY_GOOGLE"
-msgstr "Google"
 
 msgid "IDS_COM_BODY_HOME"
 msgstr "Privat"
 
 msgid "IDS_COM_BODY_IM_IN_A_MEETING"
 msgstr "Ich bin in einer Besprechung"
-
-msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
-msgstr "Kies über WLAN"
 
 msgid "IDS_COM_BODY_MOBILE"
 msgstr "Mobil"
@@ -2971,17 +2959,11 @@ msgstr "Kroatien"
 msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
 msgstr "Zürich"
 
-msgid "IDS_COM_BODY_NFC"
-msgstr "NFC"
-
 msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
 msgstr "%s kann nicht gestartet werden"
 
-msgid "IDS_COM_BODY_CONTINUE"
-msgstr "Weiter"
-
-msgid "IDS_COM_BUTTON_LOGIN"
-msgstr "Login"
+msgid "IDS_COM_SK_TRY"
+msgstr "Versuchen"
 
 msgid "IDS_COM_POP_DEFAULT_APPLICATION"
 msgstr "Standardanwendung"
@@ -2992,38 +2974,8 @@ msgstr "Aktiviert"
 msgid "IDS_COM_POP_DISABLED"
 msgstr "Deaktiviert"
 
-msgid "IDS_COM_BUTTON_SCAN"
-msgstr "Suchen"
-
-msgid "IDS_COM_OPT_COLOUR"
-msgstr "Farbe"
-
-msgid "IDS_COM_BODY_CERTIFICATE"
-msgstr "Zertifikat"
-
 msgid "IDS_COM_BODY_VIDEO_PLAYER"
 msgstr "Video-Player"
-
-msgid "IDS_COM_BODY_FAVOURITE"
-msgstr "Favorit"
-
-msgid "IDS_COM_SK_RESTART"
-msgstr "Neustart"
-
-msgid "IDS_COM_OPT_COPY"
-msgstr "Kopieren"
-
-msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
-msgstr "°C"
-
-msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
-msgstr "°F"
-
-msgid "IDS_COM_SK3_PREVIEW"
-msgstr "Vorsch."
-
-msgid "IDS_COM_POP_SOS"
-msgstr "Notruf"
 
 msgid "IDS_COM_BODY_JANUARY"
 msgstr "Januar"
@@ -3061,3 +3013,98 @@ msgstr "Dezember"
 msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
 msgstr "Ausgewählte Daten nicht gefunden."
 
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Wetter"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "Maximal zulässige Zeichenanzahl erreicht."
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "Maximale Anzahl an Zeichen (%d) erreicht."
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "S Voice"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S Cloud"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "Verwerfen"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "Datum"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "Unbekannter Fehler aufgetreten"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "Zeit"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "Uhr"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "Anruferbild"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "Alle löschen"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "Sync"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "Einfügen"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "Hier einfügen"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "Löschen"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "Drucken"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "Radierer"
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "Tag bearbeiten"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "Sperre-Hintergrund"
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "SD-Karte wird vorbereitet..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "Ignor."
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "Abbrechen"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "SD-Karte entfernt"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "Zugriff auf SD-Karte nicht möglich"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "SD-Karte kann sicher entfernt werden"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "SD-Karte wurde unerwartet entfernt"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#ABCDEFGHIJKLMNOPQRSTUVWXYZ"

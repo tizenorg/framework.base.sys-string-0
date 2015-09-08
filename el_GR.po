@@ -1,9 +1,3 @@
-msgid "IDS_COM_POP_SOUND_OFF"
-msgstr "Απενεργοποίηση ήχου"
-
-msgid "IDS_COM_POP_SOUND_ON"
-msgstr "Ενεργοποίηση ήχου"
-
 msgid "IDS_COM_BODY_FRIDAY"
 msgstr "Παρασκευή"
 
@@ -25,8 +19,302 @@ msgstr "Τρίτη"
 msgid "IDS_COM_BODY_WEDNESDAY"
 msgstr "Τετάρτη"
 
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Ήχοι κλήσης"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Όνομα χρήστη"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Περισσότ."
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Προβολή κατά"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Απόκρυψη"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Περισσότ."
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Ανανέωση"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Ενημέρωση"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Άκυρο"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Αυτόματα"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Επεξεργασία"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Επεξεργασία"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Διαγραφή λογαριασμού"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Κοινή χρήση"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Άλμπουμ"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "Διεύθυνση Email"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Θέση"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Χειροκίνητα"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Προσθήκη βίντεο"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Διαγραφή;"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Κωδικός πρόσβασης"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Αποκλεισμός"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "Απενεργοποίηση ήχου"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Λογαριασμοί"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "Ενεργοποίηση ήχου"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Εικόνες"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Άλλα"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Αναζήτηση"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Θέμα"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Βίντεο"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Φόντο"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Προσθήκη στις Επαφές"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Φωτεινότητα"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Δημ/ργία επαφής"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Διαγραφή"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Αποθήκευση"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Σύνδεση..."
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Διαγράφηκε"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Τέλος"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Κλήση"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Συλλογή"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Κανένα"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Επιλογή όλων"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "Ακύρωση"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Προσθήκη"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Πίσω"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Κλήση"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Αποθ/ση"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Ειδοποίηση"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Όλα"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Κωδικός πρόσβασης"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Ημερολόγιο"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Κάμερα"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Επαφές"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Αντιγραφή"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "Email"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "Ραδιόφ.  FM"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "Προώθηση"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Βοήθεια"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Επεξεργασία εικόνας"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Αρχ. κλήσεων"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Σημείωση"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Μήνυμα"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Μηνύματα"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Μουσική"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Τα Αρχεία Μου"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Ανενεργό"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Ενεργό"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Τηλέφωνο"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Ρυθμίσεις"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Κλήση βίντεο"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Φωνητική κλήση"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Εγγραφή Φωνής"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Νέα email"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Διαγραφή"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Επεξεργ."
+
+msgid "IDS_COM_SK_NO"
+msgstr "Όχι"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Μετονομασία"
+
+msgid "IDS_COM_SK_SET"
+msgstr "Ορισμός"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Διακοπή"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Ναι"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Τέλος"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "Κλήση έκτακτης ανάγκης"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "Προώθηση"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Απόρριψη"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Kies μέσω Wi-Fi"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "Συνέχεια;"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "Σύνδεση"
+
 msgid "IDS_COM_BODY_NA"
 msgstr "Μη διαθέσιμο"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "Σάρωση"
 
 msgid "IDS_COM_BODY_BASIC"
 msgstr "Βασικός"
@@ -70,9 +358,6 @@ msgstr "Προσωπικό"
 msgid "IDS_COM_BODY_RESUME"
 msgstr "Συνέχεια"
 
-msgid "IDS_COM_BODY_RINGTONES"
-msgstr "Ήχοι κλήσης"
-
 msgid "IDS_COM_BODY_SECONDS_LC"
 msgstr "δευτ."
 
@@ -87,12 +372,6 @@ msgstr "Σύστημα"
 
 msgid "IDS_COM_BODY_UNABLE_TO_ADD"
 msgstr "Δεν είναι δυνατή η προσθήκη"
-
-msgid "IDS_COM_BODY_USER_NAME"
-msgstr "Όνομα χρήστη"
-
-msgid "IDS_COM_DISCARD"
-msgstr "Απόρριψη"
 
 msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
 msgstr "Αλλαγή φόντου"
@@ -145,9 +424,6 @@ msgstr "Μετακίνηση..."
 msgid "IDS_COM_POP_MOVING_FAILED"
 msgstr "Αποτυχία μετακίνησης"
 
-msgid "IDS_COM_POP_NAME"
-msgstr "Όνομα"
-
 msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
 msgstr "Εσωτερικό σφάλμα"
 
@@ -178,8 +454,8 @@ msgstr "Aποθήκευση..."
 msgid "IDS_COM_POP_SELECTED"
 msgstr "Επιλεγμένο"
 
-msgid "IDS_COM_POP_SMALL_MINUTES"
-msgstr "λεπτά"
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "Χρώμα"
 
 msgid "IDS_COM_POP_TRY_AGAIN"
 msgstr "Δοκιμάστε ξανά"
@@ -193,20 +469,8 @@ msgstr "Δόνηση"
 msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
 msgstr "Θέλετε να το ξεκλειδώσετε τώρα;"
 
-msgid "IDS_COM_SK3_MORE"
-msgstr "Περισσότ."
-
-msgid "IDS_COM_SK4_VIEW_BY"
-msgstr "Προβολή κατά"
-
-msgid "IDS_COM_SK_HIDE"
-msgstr "Απόκρυψη"
-
 msgid "IDS_COM_SK_LANGUAGE"
 msgstr "Γλώσσα"
-
-msgid "IDS_COM_SK_MORE"
-msgstr "Περισσότ."
 
 msgid "IDS_COM_SK_MORE_LITE"
 msgstr "Συνέχεια"
@@ -214,20 +478,20 @@ msgstr "Συνέχεια"
 msgid "IDS_COM_SK_RECORD"
 msgstr "Εγγραφή"
 
-msgid "IDS_COM_SK_REFRESH"
-msgstr "Ανανέωση"
-
 msgid "IDS_COM_SK_RESULT"
 msgstr "Αποτέλεσμα"
 
 msgid "IDS_COM_SK_SET_AS"
 msgstr "Ορισμός ως"
 
-msgid "IDS_COM_SK_UPDATE"
-msgstr "Ενημέρωση"
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "Αγαπημένα"
 
-msgid "IDS_COM_SK_CANCEL"
-msgstr "Άκυρο"
+msgid "IDS_COM_BODY_TAG"
+msgstr "Ετικέτα"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "Ταξινόμηση κατά"
 
 msgid "IDS_COM_BODY_12_HOURS"
 msgstr "12 ώρες"
@@ -247,15 +511,6 @@ msgstr "Να γίνεται πάντα ερώτηση"
 msgid "IDS_COM_BODY_AUTHOR"
 msgstr "Συντάκτης"
 
-msgid "IDS_COM_BODY_AUTOMATIC"
-msgstr "Αυτόματα"
-
-msgid "IDS_COM_BODY_BY_MMS"
-msgstr "Μέσω MMS"
-
-msgid "IDS_COM_BODY_EDIT"
-msgstr "Επεξεργασία"
-
 msgid "IDS_COM_BODY_FLICKR"
 msgstr "Flickr"
 
@@ -264,9 +519,6 @@ msgstr "Ποτέ"
 
 msgid "IDS_COM_BODY_NOTE"
 msgstr "Σημείωση"
-
-msgid "IDS_COM_BODY_PICASA"
-msgstr "Picasa"
 
 msgid "IDS_COM_BODY_PREVIOUS_DAYS"
 msgstr "Προηγούμενες ημέρες"
@@ -283,14 +535,8 @@ msgstr "Πατήστε για προσθήκη κειμένου"
 msgid "IDS_COM_BODY_VIA_EMAIL"
 msgstr "Mέσω email"
 
-msgid "IDS_COM_BODY_YOU_TUBE"
-msgstr "YouTube"
-
 msgid "IDS_COM_BUTTON_SHARE"
 msgstr "Κοιν.χρ"
-
-msgid "IDS_COM_HEADER_EDIT"
-msgstr "Επεξεργασία"
 
 msgid "IDS_COM_OPT_FILES"
 msgstr "Αρχεία"
@@ -300,9 +546,6 @@ msgstr "Εισαγωγή"
 
 msgid "IDS_COM_OPT_VIA_EMAIL"
 msgstr "Mέσω email"
-
-msgid "IDS_COM_POP_DELETE_ACCOUNT"
-msgstr "Διαγραφή λογαριασμού"
 
 msgid "IDS_COM_POP_FILE"
 msgstr "Αρχείο"
@@ -330,9 +573,6 @@ msgstr "Επιβεβ."
 
 msgid "IDS_COM_BUTTON_RECENT"
 msgstr "Πρόσφατα"
-
-msgid "IDS_COM_SK4_SHARE"
-msgstr "Κοινή χρήση"
 
 msgid "IDS_COM_BODY_BOOKMARK"
 msgstr "Σελιδοδείκτης"
@@ -370,10 +610,13 @@ msgstr "Σφάλμα δικτύου"
 msgid "IDS_COM_POP_NO_ACCOUNTS"
 msgstr "Δεν υπάρχουν λογαριασμοί"
 
-msgid "IDS_COM_BODY_ALBUM"
-msgstr "Άλμπουμ"
+msgid "IDS_COM_SK_RESTART"
+msgstr "Επανεκκίνηση"
 
-msgid "IDS_COM_BODY_ALBUMS"
+msgid "IDS_COM_OPT_COPY"
+msgstr "Αντιγραφή"
+
+msgid "IDS_COM_BODY_ALBUM"
 msgstr "Άλμπουμ"
 
 msgid "IDS_COM_BODY_AUTO_REFRESH"
@@ -387,9 +630,6 @@ msgstr "Η λήψη ολοκληρώθηκε"
 
 msgid "IDS_COM_BODY_DOWNLOADS"
 msgstr "Λήψεις"
-
-msgid "IDS_COM_BODY_EMAIL_ADDRESS"
-msgstr "Διεύθυνση Email"
 
 msgid "IDS_COM_BODY_EMAIL_SIZE"
 msgstr "Μέγεθος email"
@@ -405,12 +645,6 @@ msgstr "Google Maps"
 
 msgid "IDS_COM_BODY_ID"
 msgstr "Αναγνωριστικό"
-
-msgid "IDS_COM_BODY_LOCATION"
-msgstr "Θέση"
-
-msgid "IDS_COM_BODY_MANUAL"
-msgstr "Χειροκίνητα"
 
 msgid "IDS_COM_BODY_NO_CONTENTS"
 msgstr "Κανένα περιεχόμενο"
@@ -445,9 +679,6 @@ msgstr "Πατήστε για προσθήκη"
 msgid "IDS_COM_BODY_TO"
 msgstr "Προς"
 
-msgid "IDS_COM_BODY_VIDEO"
-msgstr "Προσθήκη βίντεο"
-
 msgid "IDS_COM_BODY_VOICE"
 msgstr "Φωνή"
 
@@ -481,9 +712,6 @@ msgstr "Υπάρχει ήδη"
 msgid "IDS_COM_POP_CANCELLED"
 msgstr "Ακυρώθηκε"
 
-msgid "IDS_COM_POP_DELETE_Q"
-msgstr "Διαγραφή;"
-
 msgid "IDS_COM_POP_DELETING"
 msgstr "Διαγραφή..."
 
@@ -493,9 +721,6 @@ msgstr "Λήψη..."
 msgid "IDS_COM_POP_FORMAT"
 msgstr "Μορφή"
 
-msgid "IDS_COM_POP_INTERNAL_ERROR"
-msgstr "Άγνωστη αποτυχία"
-
 msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
 msgstr "Τοποθετήθηκε κάρτα μνήμης"
 
@@ -504,9 +729,6 @@ msgstr "Η κάρτα μνήμης αφαιρέθηκε"
 
 msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
 msgstr "Ανεπαρκής μνήμη"
-
-msgid "IDS_COM_POP_PASSWORD"
-msgstr "Κωδικός πρόσβασης"
 
 msgid "IDS_COM_POP_REMOVED"
 msgstr "Αφαιρέθηκε"
@@ -520,20 +742,11 @@ msgstr "Αποτυχία αποστολής"
 msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
 msgstr "Μη διαθέσιμη λειτουργία"
 
-msgid "IDS_COM_POP_SIZE"
-msgstr "Μέγεθος"
-
-msgid "IDS_COM_POP_TIME"
-msgstr "Ώρα"
-
 msgid "IDS_COM_POP_TYPE"
 msgstr "Τύπος"
 
 msgid "IDS_COM_POP_UNABLE_TO_DELETE"
 msgstr "Δεν είναι δυνατή η διαγραφή"
-
-msgid "IDS_COM_SK3_BLOCK"
-msgstr "Αποκλεισμός"
 
 msgid "IDS_COM_SK3_COMPOSE"
 msgstr "Σύνταξη"
@@ -549,6 +762,18 @@ msgstr "Απάντηση"
 
 msgid "IDS_COM_SK_START"
 msgstr "Έναρξη"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "Προεπ."
+
+msgid "IDS_COM_POP_SOS"
+msgstr "SOS"
 
 msgid "IDS_COM_POP_DELETE_FAILED"
 msgstr "Αποτυχία διαγραφής"
@@ -567,9 +792,6 @@ msgstr "1 λεπτό"
 
 msgid "IDS_COM_BODY_1_WEEK"
 msgstr "1 εβδομάδα"
-
-msgid "IDS_COM_BODY_ACCOUNTS"
-msgstr "Λογαριασμοί"
 
 msgid "IDS_COM_BODY_BIRTHDAY"
 msgstr "Γενέθλια"
@@ -592,17 +814,11 @@ msgstr "Γραμματοσειρά"
 msgid "IDS_COM_BODY_GROUP"
 msgstr "Ομάδα"
 
-msgid "IDS_COM_BODY_IMAGES"
-msgstr "Εικόνες"
-
 msgid "IDS_COM_BODY_INFO"
 msgstr "Πληροφορίες"
 
 msgid "IDS_COM_BODY_MELODY"
 msgstr "Μελωδία"
-
-msgid "IDS_COM_BODY_OTHERS"
-msgstr "Άλλα"
 
 msgid "IDS_COM_BODY_PD_MINUTES"
 msgstr "%d λεπτά"
@@ -613,44 +829,20 @@ msgstr "Μετονομασία"
 msgid "IDS_COM_BODY_RINGTONE"
 msgstr "Ήχος κλήσης"
 
-msgid "IDS_COM_BODY_SEARCH"
-msgstr "Αναζήτηση"
-
 msgid "IDS_COM_BODY_SEND"
 msgstr "Αποστ."
 
 msgid "IDS_COM_BODY_SMS"
 msgstr "SMS"
 
-msgid "IDS_COM_BODY_SUBJECT"
-msgstr "Θέμα"
-
 msgid "IDS_COM_BODY_TODAY"
 msgstr "Σήμερα"
-
-msgid "IDS_COM_BODY_VIDEOS"
-msgstr "Βίντεο"
-
-msgid "IDS_COM_BODY_WALLPAPER"
-msgstr "Φόντο"
 
 msgid "IDS_COM_BODY_YESTERDAY"
 msgstr "Xθές"
 
 msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
 msgstr "Προσθήκη στους σελιδ/τες"
-
-msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
-msgstr "Προσθήκη στις Επαφές"
-
-msgid "IDS_COM_OPT_BRIGHTNESS"
-msgstr "Φωτεινότητα"
-
-msgid "IDS_COM_OPT_CREATE_CONTACT"
-msgstr "Δημ/ργία επαφής"
-
-msgid "IDS_COM_OPT_DELETE"
-msgstr "Διαγραφή"
 
 msgid "IDS_COM_OPT_EFFECTS"
 msgstr "Εφέ"
@@ -663,9 +855,6 @@ msgstr "Πληκτ/γιο"
 
 msgid "IDS_COM_OPT_LOGOUT"
 msgstr "Αποσύνδεση"
-
-msgid "IDS_COM_OPT_SAVE"
-msgstr "Αποθήκευση"
 
 msgid "IDS_COM_POP_ACCEPT"
 msgstr "Αποδοχή"
@@ -682,23 +871,11 @@ msgstr "Διαγραφή"
 msgid "IDS_COM_POP_CLOSE"
 msgstr "Κλείσιμο"
 
-msgid "IDS_COM_POP_CONNECTING"
-msgstr "Σύνδεση..."
-
 msgid "IDS_COM_POP_CONNECTION_ERROR"
 msgstr "Σφάλμα σύνδεσης"
 
 msgid "IDS_COM_POP_CONNECTION_FAILED"
 msgstr "Αποτυχία σύνδεσης. Επανάληψη;"
-
-msgid "IDS_COM_POP_DATE"
-msgstr "Ημερομηνία"
-
-msgid "IDS_COM_POP_DELETED"
-msgstr "Διαγράφηκε"
-
-msgid "IDS_COM_POP_DONE"
-msgstr "Τέλος"
 
 msgid "IDS_COM_POP_ENTER_NAME"
 msgstr "Εισαγωγή ονόματος"
@@ -745,17 +922,8 @@ msgstr "Κανονική"
 msgid "IDS_IDLE_BUTTON_CANCEL"
 msgstr "Ακύρωση"
 
-msgid "IDS_COM_ADD"
-msgstr "Προσθήκη"
-
-msgid "IDS_COM_BODY_CALL"
-msgstr "Κλήση"
-
 msgid "IDS_COM_BODY_CONTACT"
 msgstr "Επαφή"
-
-msgid "IDS_COM_BODY_GALLERY"
-msgstr "Συλλογή"
 
 msgid "IDS_COM_BODY_MAPS"
 msgstr "Χάρτες"
@@ -763,29 +931,17 @@ msgstr "Χάρτες"
 msgid "IDS_COM_BODY_MUSIC_STORE"
 msgstr "Κατάστημα μουσικής"
 
-msgid "IDS_COM_BODY_NONE"
-msgstr "Κανένα"
-
 msgid "IDS_COM_BODY_NO_NAME"
 msgstr "Κανένα όνομα"
 
 msgid "IDS_COM_BODY_NO_SIM"
 msgstr "Δεν βρέθηκε SIM"
 
-msgid "IDS_COM_BODY_SELECT_ALL"
-msgstr "Επιλογή όλων"
-
 msgid "IDS_COM_POP_ADDRESS"
 msgstr "Διεύθυνση"
 
-msgid "IDS_COM_POP_CANCEL"
-msgstr "Ακύρωση"
-
 msgid "IDS_COM_POP_FAILED"
 msgstr "Αποτυχία"
-
-msgid "IDS_COM_POP_LOW_BATTERY_UNABLE_TO_LAUNCH_APPLICATION"
-msgstr "Χαμηλή στάθμη μπαταρίας. Δεν είναι δυνατή η εκκίνηση της εφαρμογής"
 
 msgid "IDS_COM_POP_NONE"
 msgstr "Κανένα"
@@ -796,53 +952,17 @@ msgstr "Ολοκληρώθηκε"
 msgid "IDS_COM_SK_ACCEPT"
 msgstr "Αποδοχή"
 
-msgid "IDS_COM_SK_ADD"
-msgstr "Προσθήκη"
-
-msgid "IDS_COM_SK_BACK"
-msgstr "Πίσω"
-
-msgid "IDS_COM_SK_CALL"
-msgstr "Κλήση"
-
 msgid "IDS_COM_SK_NEXT"
 msgstr "Επόμενο"
 
 msgid "IDS_COM_SK_QUIT"
 msgstr "Διακοπή"
 
-msgid "IDS_COM_SK_SAVE"
-msgstr "Αποθ/ση"
-
-msgid "IDS_IDLE_BODY_CARD_SCANNER"
-msgstr "Σαρωτής κάρτας"
-
-msgid "IDS_IDLE_BODY_CLOCK"
-msgstr "Ρολόι"
-
-msgid "IDS_IDLE_BODY_E_BOOK"
-msgstr "Ηλεκτρονικό βιβλίο"
-
-msgid "IDS_IDLE_BODY_MOBILE_AP"
-msgstr "Σημείο πρόσβασης για κινητά"
-
-msgid "IDS_IDLE_BODY_WEATHER"
-msgstr "Καιρός"
-
-msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU_ABB"
-msgstr "Samsung Apps"
-
 msgid "IDS_COM_BODY_ACTIVATED"
 msgstr "Ενεργοποιημένο"
 
 msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
 msgstr "SIM"
-
-msgid "IDS_COM_BODY_ALARM"
-msgstr "Ειδοποίηση"
-
-msgid "IDS_COM_BODY_ALL"
-msgstr "Όλα"
 
 msgid "IDS_COM_BODY_ALLSHARE"
 msgstr "AllShare"
@@ -856,9 +976,6 @@ msgstr "Απρ"
 msgid "IDS_COM_BODY_AUG"
 msgstr "Αυγ"
 
-msgid "IDS_COM_BODY_AUTH_PASSWORD"
-msgstr "Κωδικός πρόσβασης"
-
 msgid "IDS_COM_BODY_AVAILABLE"
 msgstr "Διαθέσιμο"
 
@@ -871,29 +988,14 @@ msgstr "Μπαταρία πλήρως φορτισμένη.\nΑποσύνδεσ�
 msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
 msgstr "Μπαταρία φορτισμένη. Αφαίρ. φορτιστή"
 
-msgid "IDS_COM_BODY_BLUETOOTH"
-msgstr "Bluetooth"
-
 msgid "IDS_COM_BODY_BROWSER"
 msgstr "Πλοηγός"
 
 msgid "IDS_COM_BODY_CALCULATOR"
 msgstr "Αριθμ/χανή"
 
-msgid "IDS_COM_BODY_CALENDAR"
-msgstr "Ημερ/γιο"
-
-msgid "IDS_COM_BODY_CAMERA"
-msgstr "Κάμερα"
-
-msgid "IDS_COM_BODY_CONTACTS"
-msgstr "Επαφές"
-
 msgid "IDS_COM_BODY_CONVERTOR"
 msgstr "Μετατροπέας"
-
-msgid "IDS_COM_BODY_COPY"
-msgstr "Αντιγραφή"
 
 msgid "IDS_COM_BODY_CREATE"
 msgstr "Δημ/ργία"
@@ -913,20 +1015,8 @@ msgstr "Όνομα"
 msgid "IDS_COM_BODY_DETAILS_TITLE"
 msgstr "Τίτλος"
 
-msgid "IDS_COM_BODY_EMAIL"
-msgstr "Email"
-
-msgid "IDS_COM_BODY_FACEBOOK"
-msgstr "Facebook"
-
 msgid "IDS_COM_BODY_FEB"
 msgstr "Φεβρ"
-
-msgid "IDS_COM_BODY_FM_RADIO"
-msgstr "Ραδιόφ.  FM"
-
-msgid "IDS_COM_BODY_FORWARD"
-msgstr "Προώθηση"
 
 msgid "IDS_COM_BODY_FORWARD_A"
 msgstr "Προώθηση"
@@ -934,17 +1024,8 @@ msgstr "Προώθηση"
 msgid "IDS_COM_BODY_FRI"
 msgstr "Παρ."
 
-msgid "IDS_COM_BODY_HELP"
-msgstr "Βοήθεια"
-
 msgid "IDS_COM_BODY_IM"
 msgstr "IM"
-
-msgid "IDS_COM_BODY_IMAGE_EDITOR"
-msgstr "Επεξεργασία εικόνας"
-
-msgid "IDS_COM_BODY_INTERNET"
-msgstr "Internet"
 
 msgid "IDS_COM_BODY_JAN"
 msgstr "Ιαν"
@@ -961,9 +1042,6 @@ msgstr "Κλείδωμα"
 msgid "IDS_COM_BODY_LOCK_A"
 msgstr "Κλείδωμα"
 
-msgid "IDS_COM_BODY_LOGS"
-msgstr "Αρχ. κλήσεων"
-
 msgid "IDS_COM_BODY_LOW"
 msgstr "Χαμηλή"
 
@@ -976,17 +1054,8 @@ msgstr "Μάρτ"
 msgid "IDS_COM_BODY_MAY"
 msgstr "Μάης"
 
-msgid "IDS_COM_BODY_MEMO"
-msgstr "Σημείωση"
-
 msgid "IDS_COM_BODY_MEMORY_CARD"
 msgstr "Κάρτα μνήμης"
-
-msgid "IDS_COM_BODY_MESSAGE"
-msgstr "Μήνυμα"
-
-msgid "IDS_COM_BODY_MESSAGES"
-msgstr "Μηνύματα"
 
 msgid "IDS_COM_BODY_MESSAGING"
 msgstr "Μηνύματα"
@@ -1006,17 +1075,11 @@ msgstr "Δευ."
 msgid "IDS_COM_BODY_MOVE"
 msgstr "Μετακίνηση"
 
-msgid "IDS_COM_BODY_MUSIC"
-msgstr "Μουσική"
-
 msgid "IDS_COM_BODY_MUSIC_PLAYER"
 msgstr "Μουσική"
 
 msgid "IDS_COM_BODY_MY_ACCOUNT"
 msgstr "Ο λογαριασμός μου"
-
-msgid "IDS_COM_BODY_MY_FILES"
-msgstr "Τα Αρχεία Μου"
 
 msgid "IDS_COM_BODY_NAVIGATION"
 msgstr "Περιήγηση"
@@ -1026,15 +1089,6 @@ msgstr "Noέμ"
 
 msgid "IDS_COM_BODY_OCT"
 msgstr "Οκτ"
-
-msgid "IDS_COM_BODY_OFF"
-msgstr "Ανενεργό"
-
-msgid "IDS_COM_BODY_ON"
-msgstr "Ενεργό"
-
-msgid "IDS_COM_BODY_PHONE"
-msgstr "Τηλέφωνο"
 
 msgid "IDS_COM_BODY_PIN_LOCK"
 msgstr "Κλείδωμα PIN"
@@ -1050,9 +1104,6 @@ msgstr "Σάβ."
 
 msgid "IDS_COM_BODY_SEP"
 msgstr "Σεπτ"
-
-msgid "IDS_COM_BODY_SETTINGS"
-msgstr "Ρυθμίσεις"
 
 msgid "IDS_COM_BODY_SILENT"
 msgstr "Αθόρυβο"
@@ -1096,20 +1147,8 @@ msgstr "Άγνωστο"
 msgid "IDS_COM_BODY_USB"
 msgstr "USB"
 
-msgid "IDS_COM_BODY_VIDEO_CALL"
-msgstr "Κλήση βίντεο"
-
-msgid "IDS_COM_BODY_VOICE_CALL"
-msgstr "Φωνητική κλήση"
-
-msgid "IDS_COM_BODY_VOICE_RECORDER"
-msgstr "Εγγραφή Φωνής"
-
 msgid "IDS_COM_BODY_WED"
 msgstr "Τετ."
-
-msgid "IDS_COM_BODY_WI_FI"
-msgstr "Wi-Fi"
 
 msgid "IDS_COM_BODY_WORLD_CLOCK"
 msgstr "Παγκόσμιο Ρολόι"
@@ -1162,9 +1201,6 @@ msgstr "Παράλειψη συμβάντων"
 msgid "IDS_COM_POP_NEW_EMAIL"
 msgstr "Νέο email"
 
-msgid "IDS_COM_POP_NEW_EMAILS"
-msgstr "Νέα email"
-
 msgid "IDS_COM_POP_NEW_MESSAGE"
 msgstr "Νέο μήνυμα"
 
@@ -1172,7 +1208,7 @@ msgid "IDS_COM_POP_NEW_MESSAGES"
 msgstr "Νέα μηνύματα"
 
 msgid "IDS_COM_POP_PM"
-msgstr "μμ"
+msgstr "ΜΜ"
 
 msgid "IDS_COM_POP_UNLOCK"
 msgstr "Ξεκλείδωμα"
@@ -1180,29 +1216,17 @@ msgstr "Ξεκλείδωμα"
 msgid "IDS_COM_POP_WARNING"
 msgstr "Προειδοποίηση"
 
-msgid "IDS_COM_SK_DELETE"
-msgstr "Διαγραφή"
-
 msgid "IDS_COM_SK_DIALLER"
 msgstr "Κλήση"
 
 msgid "IDS_COM_SK_DONE"
 msgstr "Ok"
 
-msgid "IDS_COM_SK_EDIT"
-msgstr "Επεξεργ."
-
 msgid "IDS_COM_SK_MENU"
 msgstr "Μενού"
 
-msgid "IDS_COM_SK_NO"
-msgstr "Όχι"
-
 msgid "IDS_COM_SK_OFF"
 msgstr "Ανενεργό"
-
-msgid "IDS_COM_SK_OK"
-msgstr "OK"
 
 msgid "IDS_COM_SK_OPEN"
 msgstr "Άνοιγμα"
@@ -1222,9 +1246,6 @@ msgstr "Αναπ."
 msgid "IDS_COM_SK_REMOVE"
 msgstr "Κατάργηση"
 
-msgid "IDS_COM_SK_RENAME"
-msgstr "Μετονομασία"
-
 msgid "IDS_COM_SK_SEARCH"
 msgstr "Αναζήτηση"
 
@@ -1240,35 +1261,17 @@ msgstr "Αποστολή"
 msgid "IDS_COM_SK_SEND_ABB"
 msgstr "Αποστ"
 
-msgid "IDS_COM_SK_SET"
-msgstr "Ορισμός"
-
-msgid "IDS_COM_SK_STOP"
-msgstr "Διακοπή"
-
 msgid "IDS_COM_SK_VIDEO_CALL"
 msgstr "Κλήση βίντεο"
 
-msgid "IDS_COM_SK_YES"
-msgstr "Ναι"
-
 msgid "IDS_IDLE_BODY_ACTIVESYNC"
 msgstr "ActiveSync"
-
-msgid "IDS_IDLE_BODY_ASPHALT5"
-msgstr "Asphalt5"
-
-msgid "IDS_IDLE_BODY_CREYON_PHYSICS"
-msgstr "Creyon physics"
 
 msgid "IDS_IDLE_BODY_RESOLUTION"
 msgstr "Ανάλυση"
 
 msgid "IDS_IDLE_BODY_RSS"
 msgstr "RSS"
-
-msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU"
-msgstr "Samsung Apps"
 
 msgid "IDS_COM_BODY_END"
 msgstr "Λήξη"
@@ -1357,9 +1360,6 @@ msgstr "Τρ."
 msgid "IDS_COM_POP_WED"
 msgstr "Τετ."
 
-msgid "IDS_COM_BODY_DONE"
-msgstr "Τέλος"
-
 msgid "IDS_COM_BODY_APPLICATIONS"
 msgstr "Εφαρμογές"
 
@@ -1369,14 +1369,14 @@ msgstr "Επιλογή διάταξης"
 msgid "IDS_COM_SK_LAUNCH"
 msgstr "Εκκίνηση"
 
-msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
-msgstr "Κλήση έκτακτης ανάγκης"
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "Μέσω MMS"
 
 msgid "IDS_COM_OPT_HEADPHONES_ABB"
 msgstr "Ακουστικά"
 
 msgid "IDS_COM_BODY_PD_SELECTED"
-msgstr "Επιλέχθηκαν %d"
+msgstr "%d επιλέχθηκαν"
 
 msgid "IDS_COM_BODY_REPEAT"
 msgstr "Επανάληψη"
@@ -1408,9 +1408,6 @@ msgstr "Δεν έχει γίνει καμία επιλογή"
 msgid "IDS_COM_POP_AVAILABLE_USES"
 msgstr "Διαθέσιμες χρήσεις"
 
-msgid "IDS_COM_BODY_FORWARDING"
-msgstr "Προώθηση"
-
 msgid "IDS_COM_BODY_NO_SERVICE"
 msgstr "Μη διαθέσιμη υπηρεσία"
 
@@ -1441,23 +1438,14 @@ msgstr "Όλα τα κανάλια"
 msgid "IDS_COM_SK_CONFIRM"
 msgstr "Επιβεβαίωση"
 
-msgid "IDS_COM_SK_DECLINE"
-msgstr "Απόρριψη"
-
 msgid "IDS_COM_BODY_GENERAL"
 msgstr "Γενικά"
-
-msgid "IDS_COM_BODY_GOOGLE"
-msgstr "Google"
 
 msgid "IDS_COM_BODY_HOME"
 msgstr "Σπίτι"
 
 msgid "IDS_COM_BODY_IM_IN_A_MEETING"
 msgstr "ΕΙΜΑΙ ΣΕ ΣΥΝΑΝΤΗΣΗ"
-
-msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
-msgstr "Kies μέσω Wi-Fi"
 
 msgid "IDS_COM_BODY_MOBILE"
 msgstr "Κινητό"
@@ -2971,17 +2959,11 @@ msgstr "Κροατία"
 msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
 msgstr "Ζυρίχη"
 
-msgid "IDS_COM_BODY_NFC"
-msgstr "NFC"
-
 msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
 msgstr "Αδύνατη η εκκίνηση του %s"
 
-msgid "IDS_COM_BODY_CONTINUE"
-msgstr "Συνέχεια;"
-
-msgid "IDS_COM_BUTTON_LOGIN"
-msgstr "Σύνδεση"
+msgid "IDS_COM_SK_TRY"
+msgstr "Δοκιμή"
 
 msgid "IDS_COM_POP_DEFAULT_APPLICATION"
 msgstr "Προεπιλεγμένη εφαρμογή"
@@ -2992,38 +2974,8 @@ msgstr "Ενεργοποιημένο"
 msgid "IDS_COM_POP_DISABLED"
 msgstr "Απενεργοποιημένη"
 
-msgid "IDS_COM_BUTTON_SCAN"
-msgstr "Σάρωση"
-
-msgid "IDS_COM_OPT_COLOUR"
-msgstr "Χρώμα"
-
-msgid "IDS_COM_BODY_CERTIFICATE"
-msgstr "Πιστοποιητικό"
-
 msgid "IDS_COM_BODY_VIDEO_PLAYER"
 msgstr "Αναπαραγωγή Βίντεο"
-
-msgid "IDS_COM_BODY_FAVOURITE"
-msgstr "Αγαπημένα"
-
-msgid "IDS_COM_SK_RESTART"
-msgstr "Επανεκκίνηση"
-
-msgid "IDS_COM_OPT_COPY"
-msgstr "Αντιγραφή"
-
-msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
-msgstr "°C"
-
-msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
-msgstr "°F"
-
-msgid "IDS_COM_SK3_PREVIEW"
-msgstr "Προεπ."
-
-msgid "IDS_COM_POP_SOS"
-msgstr "SOS"
 
 msgid "IDS_COM_BODY_JANUARY"
 msgstr "Ιανουάριος"
@@ -3061,3 +3013,98 @@ msgstr "Δεκέμβριος"
 msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
 msgstr "Τα επιλεγμένα δεδομένα δεν βρέθηκαν"
 
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Καιρός"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "Ο μέγιστος αριθμός χαρακτήρων συμπληρώθηκε"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "Συμπληρώθηκε ο μέγιστος αριθμός χαρακτήρων (%d)"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "S Voice"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S Cloud"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "Απόρριψη"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "Ημερομηνία"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "Παρουσιάστηκε άγνωστο σφάλμα"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "Ώρα"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "Ρολόι"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "Εικόνα καλούντος"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "Εκκαθάριση όλων"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "Συγχρονισμός"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "Εισαγωγή"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "Επικόλληση εδώ"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "Διαγραφή"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "Εκτύπωση"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "Εργαλ. διαγραφ."
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "Επεξεργασία ετικέτας"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "Φόντο οθόνης κλειδώμ."
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "Προετοιμασία κάρτας SD..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "Παράληψη"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "Ματαίωση"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "Αφαιρέθηκε η κάρτα SD"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "Δεν είναι δυνατή η πρόσβαση στην κάρτα SD"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "Ασφαλής κατάργηση της κάρτας SD"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "Η κάρτα SD αφαιρέθηκε απρόσμενα"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#ABCDEFGHIJKLMNOPQRSTUVWXYZΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"

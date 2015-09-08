@@ -1,32 +1,320 @@
+msgid "IDS_COM_BODY_FRIDAY"
+msgstr "vrijdag"
+
+msgid "IDS_COM_BODY_MONDAY"
+msgstr "maandag"
+
+msgid "IDS_COM_BODY_SATURDAY"
+msgstr "zaterdag"
+
+msgid "IDS_COM_BODY_SUNDAY"
+msgstr "zondag"
+
+msgid "IDS_COM_BODY_THURSDAY"
+msgstr "donderdag"
+
+msgid "IDS_COM_BODY_TUESDAY"
+msgstr "dinsdag"
+
+msgid "IDS_COM_BODY_WEDNESDAY"
+msgstr "woensdag"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Beltonen"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Gebruikersnaam"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Meer"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Weergave"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Verberg."
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Meer"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Vernieuw"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Bijwerken"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Annuleren"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Automatisch"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Bewerken"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Bewerken"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Account wissen"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Delen"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Albums"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "E-mailadres"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Locatie"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Handmatig"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Video"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Verwijderen?"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Wachtwoord"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Blokkeren"
+
 msgid "IDS_COM_POP_SOUND_OFF"
 msgstr "Geluid uit"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Accounts"
 
 msgid "IDS_COM_POP_SOUND_ON"
 msgstr "Geluid aan"
 
-msgid "IDS_COM_BODY_FRIDAY"
-msgstr "Vrijdag"
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Afbeeldingen"
 
-msgid "IDS_COM_BODY_MONDAY"
-msgstr "Maandag"
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Overige"
 
-msgid "IDS_COM_BODY_SATURDAY"
-msgstr "Zaterdag"
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Zoeken"
 
-msgid "IDS_COM_BODY_SUNDAY"
-msgstr "Zondag"
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Onderwerp"
 
-msgid "IDS_COM_BODY_THURSDAY"
-msgstr "Donderdag"
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Video's"
 
-msgid "IDS_COM_BODY_TUESDAY"
-msgstr "Dinsdag"
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Achtergrond"
 
-msgid "IDS_COM_BODY_WEDNESDAY"
-msgstr "Woensdag"
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Voeg toe aan contacten"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Helderheid"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Contact maken"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Wissen"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Opslaan"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Verbinden..."
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Verwijderd"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Gereed"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Oproep"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galerij"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Geen"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Alles selecteren"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "Annuleren"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Toevoegen"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Terug"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Bellen"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Opslaan"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Alarm"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Alles"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Wachtwoord"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Agenda"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Camera"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Contacten"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Kopiëren"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM-radio"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "Doorsturen"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Help"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Afbeelding bewerken"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Logbestanden"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Notitie"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Bericht"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Berichten"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Muziek"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Mijn bestanden"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Uit"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Aan"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Telefoon"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Instellingen"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Video-oproep"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Spraakoproep"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Spraakrecorder"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Nieuwe e-mails"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Wissen"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Bewerken"
+
+msgid "IDS_COM_SK_NO"
+msgstr "Nee"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Hernoemen"
+
+msgid "IDS_COM_SK_SET"
+msgstr "Instellen"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Stoppen"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Ja"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Gereed"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "Noodoproep"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "Doorsturen"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Afwijzen"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Kies via Wi-Fi"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "Doorgaan"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "Inloggen"
 
 msgid "IDS_COM_BODY_NA"
 msgstr "N.v.t."
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "Scannen"
 
 msgid "IDS_COM_BODY_BASIC"
 msgstr "Basis"
@@ -70,9 +358,6 @@ msgstr "Privé"
 msgid "IDS_COM_BODY_RESUME"
 msgstr "Hervatten"
 
-msgid "IDS_COM_BODY_RINGTONES"
-msgstr "Beltonen"
-
 msgid "IDS_COM_BODY_SECONDS_LC"
 msgstr "seconden"
 
@@ -87,12 +372,6 @@ msgstr "Systeem"
 
 msgid "IDS_COM_BODY_UNABLE_TO_ADD"
 msgstr "Kan niet toevoegen"
-
-msgid "IDS_COM_BODY_USER_NAME"
-msgstr "Gebruikersnaam"
-
-msgid "IDS_COM_DISCARD"
-msgstr "Verwijderen"
 
 msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
 msgstr "Andere achtergrond"
@@ -145,9 +424,6 @@ msgstr "Verplaatsen..."
 msgid "IDS_COM_POP_MOVING_FAILED"
 msgstr "Verplaatsen is mislukt"
 
-msgid "IDS_COM_POP_NAME"
-msgstr "Naam"
-
 msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
 msgstr "Interne fout"
 
@@ -178,8 +454,8 @@ msgstr "Opslaan..."
 msgid "IDS_COM_POP_SELECTED"
 msgstr "Geselecteerd"
 
-msgid "IDS_COM_POP_SMALL_MINUTES"
-msgstr "minuten"
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "Kleur"
 
 msgid "IDS_COM_POP_TRY_AGAIN"
 msgstr "Opnieuw proberen"
@@ -193,20 +469,8 @@ msgstr "Trillen"
 msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
 msgstr "Wilt u het apparaat nu ontgrendelen?"
 
-msgid "IDS_COM_SK3_MORE"
-msgstr "Meer"
-
-msgid "IDS_COM_SK4_VIEW_BY"
-msgstr "Weergave"
-
-msgid "IDS_COM_SK_HIDE"
-msgstr "Verberg."
-
 msgid "IDS_COM_SK_LANGUAGE"
 msgstr "Taal"
-
-msgid "IDS_COM_SK_MORE"
-msgstr "Meer"
 
 msgid "IDS_COM_SK_MORE_LITE"
 msgstr "Meer"
@@ -214,20 +478,20 @@ msgstr "Meer"
 msgid "IDS_COM_SK_RECORD"
 msgstr "Opnemen"
 
-msgid "IDS_COM_SK_REFRESH"
-msgstr "Vernieuw"
-
 msgid "IDS_COM_SK_RESULT"
 msgstr "Resultaat"
 
 msgid "IDS_COM_SK_SET_AS"
 msgstr "Inst. als"
 
-msgid "IDS_COM_SK_UPDATE"
-msgstr "Bijwerken"
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "Favoriet"
 
-msgid "IDS_COM_SK_CANCEL"
-msgstr "Annuleren"
+msgid "IDS_COM_BODY_TAG"
+msgstr "Tag"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "Sorteren op"
 
 msgid "IDS_COM_BODY_12_HOURS"
 msgstr "12 uur"
@@ -247,15 +511,6 @@ msgstr "Altijd vragen"
 msgid "IDS_COM_BODY_AUTHOR"
 msgstr "Auteur"
 
-msgid "IDS_COM_BODY_AUTOMATIC"
-msgstr "Automatisch"
-
-msgid "IDS_COM_BODY_BY_MMS"
-msgstr "Via MMS"
-
-msgid "IDS_COM_BODY_EDIT"
-msgstr "Bewerken"
-
 msgid "IDS_COM_BODY_FLICKR"
 msgstr "Flickr"
 
@@ -264,9 +519,6 @@ msgstr "Nooit"
 
 msgid "IDS_COM_BODY_NOTE"
 msgstr "Notitie"
-
-msgid "IDS_COM_BODY_PICASA"
-msgstr "Picasa"
 
 msgid "IDS_COM_BODY_PREVIOUS_DAYS"
 msgstr "Vorige dagen"
@@ -283,14 +535,8 @@ msgstr "Tik om tekst toe te voegen"
 msgid "IDS_COM_BODY_VIA_EMAIL"
 msgstr "Via e-mail"
 
-msgid "IDS_COM_BODY_YOU_TUBE"
-msgstr "YouTube"
-
 msgid "IDS_COM_BUTTON_SHARE"
 msgstr "Delen"
-
-msgid "IDS_COM_HEADER_EDIT"
-msgstr "Bewerken"
 
 msgid "IDS_COM_OPT_FILES"
 msgstr "Bestanden"
@@ -300,9 +546,6 @@ msgstr "Importeren"
 
 msgid "IDS_COM_OPT_VIA_EMAIL"
 msgstr "Via e-mail"
-
-msgid "IDS_COM_POP_DELETE_ACCOUNT"
-msgstr "Account wissen"
 
 msgid "IDS_COM_POP_FILE"
 msgstr "Bestand"
@@ -330,9 +573,6 @@ msgstr "OK"
 
 msgid "IDS_COM_BUTTON_RECENT"
 msgstr "Recent"
-
-msgid "IDS_COM_SK4_SHARE"
-msgstr "Delen"
 
 msgid "IDS_COM_BODY_BOOKMARK"
 msgstr "Favorieten"
@@ -370,11 +610,14 @@ msgstr "Netwerkfout"
 msgid "IDS_COM_POP_NO_ACCOUNTS"
 msgstr "Geen accounts"
 
+msgid "IDS_COM_SK_RESTART"
+msgstr "Herstarten"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "Kopiëren"
+
 msgid "IDS_COM_BODY_ALBUM"
 msgstr "Album"
-
-msgid "IDS_COM_BODY_ALBUMS"
-msgstr "Albums"
 
 msgid "IDS_COM_BODY_AUTO_REFRESH"
 msgstr "Automatisch vernieuwen"
@@ -387,9 +630,6 @@ msgstr "Gedownload"
 
 msgid "IDS_COM_BODY_DOWNLOADS"
 msgstr "Downloads"
-
-msgid "IDS_COM_BODY_EMAIL_ADDRESS"
-msgstr "E-mailadres"
 
 msgid "IDS_COM_BODY_EMAIL_SIZE"
 msgstr "E-mailgrootte"
@@ -405,12 +645,6 @@ msgstr "Google Maps"
 
 msgid "IDS_COM_BODY_ID"
 msgstr "ID"
-
-msgid "IDS_COM_BODY_LOCATION"
-msgstr "Locatie"
-
-msgid "IDS_COM_BODY_MANUAL"
-msgstr "Handmatig"
 
 msgid "IDS_COM_BODY_NO_CONTENTS"
 msgstr "Geen inhoud"
@@ -445,9 +679,6 @@ msgstr "Tik om toe te voegen"
 msgid "IDS_COM_BODY_TO"
 msgstr "Aan"
 
-msgid "IDS_COM_BODY_VIDEO"
-msgstr "Video"
-
 msgid "IDS_COM_BODY_VOICE"
 msgstr "Spraak"
 
@@ -481,9 +712,6 @@ msgstr "Bestaat al"
 msgid "IDS_COM_POP_CANCELLED"
 msgstr "Geannuleerd"
 
-msgid "IDS_COM_POP_DELETE_Q"
-msgstr "Verwijderen?"
-
 msgid "IDS_COM_POP_DELETING"
 msgstr "Verwijderen..."
 
@@ -493,9 +721,6 @@ msgstr "Downloaden..."
 msgid "IDS_COM_POP_FORMAT"
 msgstr "Formaat"
 
-msgid "IDS_COM_POP_INTERNAL_ERROR"
-msgstr "Onbekende fout"
-
 msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
 msgstr "Geheugenkaart geplaatst"
 
@@ -504,9 +729,6 @@ msgstr "Geheugenkaart verwijderd"
 
 msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
 msgstr "Onvoldoende geheugen"
-
-msgid "IDS_COM_POP_PASSWORD"
-msgstr "Wachtwoord"
 
 msgid "IDS_COM_POP_REMOVED"
 msgstr "Verwijderd"
@@ -520,20 +742,11 @@ msgstr "Verzenden mislukt"
 msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
 msgstr "Service niet beschikbaar"
 
-msgid "IDS_COM_POP_SIZE"
-msgstr "Grootte"
-
-msgid "IDS_COM_POP_TIME"
-msgstr "Tijd"
-
 msgid "IDS_COM_POP_TYPE"
 msgstr "Type"
 
 msgid "IDS_COM_POP_UNABLE_TO_DELETE"
 msgstr "Kan niet verwijderen"
-
-msgid "IDS_COM_SK3_BLOCK"
-msgstr "Blokkeren"
 
 msgid "IDS_COM_SK3_COMPOSE"
 msgstr "Opstellen"
@@ -549,6 +762,18 @@ msgstr "Antwoord"
 
 msgid "IDS_COM_SK_START"
 msgstr "Start"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "Voorbeeld"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "SOS"
 
 msgid "IDS_COM_POP_DELETE_FAILED"
 msgstr "Verwijderen mislukt"
@@ -567,9 +792,6 @@ msgstr "1 minuut"
 
 msgid "IDS_COM_BODY_1_WEEK"
 msgstr "1 week"
-
-msgid "IDS_COM_BODY_ACCOUNTS"
-msgstr "Accounts"
 
 msgid "IDS_COM_BODY_BIRTHDAY"
 msgstr "Verjaardag"
@@ -592,17 +814,11 @@ msgstr "Lettertype"
 msgid "IDS_COM_BODY_GROUP"
 msgstr "Groep"
 
-msgid "IDS_COM_BODY_IMAGES"
-msgstr "Afbeeldingen"
-
 msgid "IDS_COM_BODY_INFO"
 msgstr "Info"
 
 msgid "IDS_COM_BODY_MELODY"
 msgstr "Melodie"
-
-msgid "IDS_COM_BODY_OTHERS"
-msgstr "Overige"
 
 msgid "IDS_COM_BODY_PD_MINUTES"
 msgstr "%d minuten"
@@ -613,44 +829,20 @@ msgstr "Naam wijzigen"
 msgid "IDS_COM_BODY_RINGTONE"
 msgstr "Beltoon"
 
-msgid "IDS_COM_BODY_SEARCH"
-msgstr "Zoeken"
-
 msgid "IDS_COM_BODY_SEND"
 msgstr "Verzenden"
 
 msgid "IDS_COM_BODY_SMS"
 msgstr "SMS"
 
-msgid "IDS_COM_BODY_SUBJECT"
-msgstr "Onderwerp"
-
 msgid "IDS_COM_BODY_TODAY"
 msgstr "Vandaag"
-
-msgid "IDS_COM_BODY_VIDEOS"
-msgstr "Video's"
-
-msgid "IDS_COM_BODY_WALLPAPER"
-msgstr "Achtergrond"
 
 msgid "IDS_COM_BODY_YESTERDAY"
 msgstr "Gisteren"
 
 msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
 msgstr "Toevoegen aan Favorieten"
-
-msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
-msgstr "Voeg toe aan contacten"
-
-msgid "IDS_COM_OPT_BRIGHTNESS"
-msgstr "Helderheid"
-
-msgid "IDS_COM_OPT_CREATE_CONTACT"
-msgstr "Contact maken"
-
-msgid "IDS_COM_OPT_DELETE"
-msgstr "Wissen"
 
 msgid "IDS_COM_OPT_EFFECTS"
 msgstr "Effecten"
@@ -663,9 +855,6 @@ msgstr "Toetsenbord"
 
 msgid "IDS_COM_OPT_LOGOUT"
 msgstr "Uitloggen"
-
-msgid "IDS_COM_OPT_SAVE"
-msgstr "Opslaan"
 
 msgid "IDS_COM_POP_ACCEPT"
 msgstr "OK"
@@ -682,23 +871,11 @@ msgstr "Wissen"
 msgid "IDS_COM_POP_CLOSE"
 msgstr "Sluiten"
 
-msgid "IDS_COM_POP_CONNECTING"
-msgstr "Verbinden..."
-
 msgid "IDS_COM_POP_CONNECTION_ERROR"
 msgstr "Verbindingsfout"
 
 msgid "IDS_COM_POP_CONNECTION_FAILED"
 msgstr "Verbinding mislukt"
-
-msgid "IDS_COM_POP_DATE"
-msgstr "Datum"
-
-msgid "IDS_COM_POP_DELETED"
-msgstr "Verwijderd"
-
-msgid "IDS_COM_POP_DONE"
-msgstr "Gereed"
 
 msgid "IDS_COM_POP_ENTER_NAME"
 msgstr "Naam invoeren"
@@ -745,17 +922,8 @@ msgstr "Normaal"
 msgid "IDS_IDLE_BUTTON_CANCEL"
 msgstr "Annuleer"
 
-msgid "IDS_COM_ADD"
-msgstr "Toevoegen"
-
-msgid "IDS_COM_BODY_CALL"
-msgstr "Oproep"
-
 msgid "IDS_COM_BODY_CONTACT"
 msgstr "Contact"
-
-msgid "IDS_COM_BODY_GALLERY"
-msgstr "Galerij"
 
 msgid "IDS_COM_BODY_MAPS"
 msgstr "Maps"
@@ -763,29 +931,17 @@ msgstr "Maps"
 msgid "IDS_COM_BODY_MUSIC_STORE"
 msgstr "Music Store"
 
-msgid "IDS_COM_BODY_NONE"
-msgstr "Geen"
-
 msgid "IDS_COM_BODY_NO_NAME"
 msgstr "Geen naam"
 
 msgid "IDS_COM_BODY_NO_SIM"
 msgstr "Geen SIM"
 
-msgid "IDS_COM_BODY_SELECT_ALL"
-msgstr "Alles selecteren"
-
 msgid "IDS_COM_POP_ADDRESS"
 msgstr "Adres"
 
-msgid "IDS_COM_POP_CANCEL"
-msgstr "Annuleren"
-
 msgid "IDS_COM_POP_FAILED"
 msgstr "Mislukt"
-
-msgid "IDS_COM_POP_LOW_BATTERY_UNABLE_TO_LAUNCH_APPLICATION"
-msgstr "Batterij bijna leeg. Kan applicatie niet starten"
 
 msgid "IDS_COM_POP_NONE"
 msgstr "Geen"
@@ -796,53 +952,17 @@ msgstr "Voltooid"
 msgid "IDS_COM_SK_ACCEPT"
 msgstr "OK"
 
-msgid "IDS_COM_SK_ADD"
-msgstr "Toevoegen"
-
-msgid "IDS_COM_SK_BACK"
-msgstr "Terug"
-
-msgid "IDS_COM_SK_CALL"
-msgstr "Bellen"
-
 msgid "IDS_COM_SK_NEXT"
 msgstr "Volgende"
 
 msgid "IDS_COM_SK_QUIT"
 msgstr "Sluiten"
 
-msgid "IDS_COM_SK_SAVE"
-msgstr "Opslaan"
-
-msgid "IDS_IDLE_BODY_CARD_SCANNER"
-msgstr "Kaartscanner"
-
-msgid "IDS_IDLE_BODY_CLOCK"
-msgstr "Klok"
-
-msgid "IDS_IDLE_BODY_E_BOOK"
-msgstr "E-book"
-
-msgid "IDS_IDLE_BODY_MOBILE_AP"
-msgstr "Mobiel toegangspunt"
-
-msgid "IDS_IDLE_BODY_WEATHER"
-msgstr "Weer"
-
-msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU_ABB"
-msgstr "Samsung Apps"
-
 msgid "IDS_COM_BODY_ACTIVATED"
 msgstr "Ingeschakeld"
 
 msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
 msgstr "SIM"
-
-msgid "IDS_COM_BODY_ALARM"
-msgstr "Alarm"
-
-msgid "IDS_COM_BODY_ALL"
-msgstr "Alles"
 
 msgid "IDS_COM_BODY_ALLSHARE"
 msgstr "AllShare"
@@ -856,9 +976,6 @@ msgstr "apr"
 msgid "IDS_COM_BODY_AUG"
 msgstr "aug"
 
-msgid "IDS_COM_BODY_AUTH_PASSWORD"
-msgstr "Wachtwoord"
-
 msgid "IDS_COM_BODY_AVAILABLE"
 msgstr "Beschikbaar"
 
@@ -871,29 +988,14 @@ msgstr "Batterij helemaal opgeladen.\nVerwijder de oplader."
 msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
 msgstr "Batterij helemaal opgeladen. Verwijder de oplader."
 
-msgid "IDS_COM_BODY_BLUETOOTH"
-msgstr "Bluetooth"
-
 msgid "IDS_COM_BODY_BROWSER"
 msgstr "Browser"
 
 msgid "IDS_COM_BODY_CALCULATOR"
 msgstr "Calculator"
 
-msgid "IDS_COM_BODY_CALENDAR"
-msgstr "Agenda"
-
-msgid "IDS_COM_BODY_CAMERA"
-msgstr "Camera"
-
-msgid "IDS_COM_BODY_CONTACTS"
-msgstr "Contacten"
-
 msgid "IDS_COM_BODY_CONVERTOR"
 msgstr "Omrekenen"
-
-msgid "IDS_COM_BODY_COPY"
-msgstr "Kopiëren"
 
 msgid "IDS_COM_BODY_CREATE"
 msgstr "Nieuw"
@@ -913,20 +1015,8 @@ msgstr "Naam"
 msgid "IDS_COM_BODY_DETAILS_TITLE"
 msgstr "Titel"
 
-msgid "IDS_COM_BODY_EMAIL"
-msgstr "E-mail"
-
-msgid "IDS_COM_BODY_FACEBOOK"
-msgstr "Facebook"
-
 msgid "IDS_COM_BODY_FEB"
 msgstr "feb"
-
-msgid "IDS_COM_BODY_FM_RADIO"
-msgstr "FM-radio"
-
-msgid "IDS_COM_BODY_FORWARD"
-msgstr "Doorsturen"
 
 msgid "IDS_COM_BODY_FORWARD_A"
 msgstr "Doorsturen"
@@ -934,17 +1024,8 @@ msgstr "Doorsturen"
 msgid "IDS_COM_BODY_FRI"
 msgstr "VR"
 
-msgid "IDS_COM_BODY_HELP"
-msgstr "Help"
-
 msgid "IDS_COM_BODY_IM"
 msgstr "IM"
-
-msgid "IDS_COM_BODY_IMAGE_EDITOR"
-msgstr "Afbeelding bewerken"
-
-msgid "IDS_COM_BODY_INTERNET"
-msgstr "Internet"
 
 msgid "IDS_COM_BODY_JAN"
 msgstr "jan"
@@ -961,9 +1042,6 @@ msgstr "Vergrendelen"
 msgid "IDS_COM_BODY_LOCK_A"
 msgstr "Vergrendelen"
 
-msgid "IDS_COM_BODY_LOGS"
-msgstr "Logbestanden"
-
 msgid "IDS_COM_BODY_LOW"
 msgstr "Laag"
 
@@ -976,17 +1054,8 @@ msgstr "mrt"
 msgid "IDS_COM_BODY_MAY"
 msgstr "Mei"
 
-msgid "IDS_COM_BODY_MEMO"
-msgstr "Notitie"
-
 msgid "IDS_COM_BODY_MEMORY_CARD"
 msgstr "Geheugenkaart"
-
-msgid "IDS_COM_BODY_MESSAGE"
-msgstr "Bericht"
-
-msgid "IDS_COM_BODY_MESSAGES"
-msgstr "Berichten"
 
 msgid "IDS_COM_BODY_MESSAGING"
 msgstr "Berichten"
@@ -1006,17 +1075,11 @@ msgstr "MA"
 msgid "IDS_COM_BODY_MOVE"
 msgstr "Verplaatsen"
 
-msgid "IDS_COM_BODY_MUSIC"
-msgstr "Muziek"
-
 msgid "IDS_COM_BODY_MUSIC_PLAYER"
-msgstr "Muziekspeler"
+msgstr "MP3-speler"
 
 msgid "IDS_COM_BODY_MY_ACCOUNT"
 msgstr "Mijn account"
-
-msgid "IDS_COM_BODY_MY_FILES"
-msgstr "Mijn bestanden"
 
 msgid "IDS_COM_BODY_NAVIGATION"
 msgstr "Navigatie"
@@ -1026,15 +1089,6 @@ msgstr "nov"
 
 msgid "IDS_COM_BODY_OCT"
 msgstr "okt"
-
-msgid "IDS_COM_BODY_OFF"
-msgstr "Uit"
-
-msgid "IDS_COM_BODY_ON"
-msgstr "Aan"
-
-msgid "IDS_COM_BODY_PHONE"
-msgstr "Telefoon"
 
 msgid "IDS_COM_BODY_PIN_LOCK"
 msgstr "PIN-blokkering"
@@ -1050,9 +1104,6 @@ msgstr "ZA"
 
 msgid "IDS_COM_BODY_SEP"
 msgstr "sep"
-
-msgid "IDS_COM_BODY_SETTINGS"
-msgstr "Instellingen"
 
 msgid "IDS_COM_BODY_SILENT"
 msgstr "Stil"
@@ -1096,20 +1147,8 @@ msgstr "Onbekend"
 msgid "IDS_COM_BODY_USB"
 msgstr "USB"
 
-msgid "IDS_COM_BODY_VIDEO_CALL"
-msgstr "Video-oproep"
-
-msgid "IDS_COM_BODY_VOICE_CALL"
-msgstr "Spraakoproep"
-
-msgid "IDS_COM_BODY_VOICE_RECORDER"
-msgstr "Spraakrecorder"
-
 msgid "IDS_COM_BODY_WED"
 msgstr "WO"
-
-msgid "IDS_COM_BODY_WI_FI"
-msgstr "Wi-Fi"
 
 msgid "IDS_COM_BODY_WORLD_CLOCK"
 msgstr "Wereldklok"
@@ -1162,9 +1201,6 @@ msgstr "Gemiste gebeurtenissen"
 msgid "IDS_COM_POP_NEW_EMAIL"
 msgstr "Nieuwe e-mail"
 
-msgid "IDS_COM_POP_NEW_EMAILS"
-msgstr "Nieuwe e-mails"
-
 msgid "IDS_COM_POP_NEW_MESSAGE"
 msgstr "Nieuw bericht"
 
@@ -1175,13 +1211,10 @@ msgid "IDS_COM_POP_PM"
 msgstr "PM"
 
 msgid "IDS_COM_POP_UNLOCK"
-msgstr "Ontgrendelen"
+msgstr "Ontgrendel"
 
 msgid "IDS_COM_POP_WARNING"
 msgstr "Waarschuwing"
-
-msgid "IDS_COM_SK_DELETE"
-msgstr "Wissen"
 
 msgid "IDS_COM_SK_DIALLER"
 msgstr "Bellen"
@@ -1189,20 +1222,11 @@ msgstr "Bellen"
 msgid "IDS_COM_SK_DONE"
 msgstr "Gereed"
 
-msgid "IDS_COM_SK_EDIT"
-msgstr "Bewerken"
-
 msgid "IDS_COM_SK_MENU"
 msgstr "Menu"
 
-msgid "IDS_COM_SK_NO"
-msgstr "Nee"
-
 msgid "IDS_COM_SK_OFF"
 msgstr "Uit"
-
-msgid "IDS_COM_SK_OK"
-msgstr "OK"
 
 msgid "IDS_COM_SK_OPEN"
 msgstr "Openen"
@@ -1222,9 +1246,6 @@ msgstr "Afspelen"
 msgid "IDS_COM_SK_REMOVE"
 msgstr "Verwijderen"
 
-msgid "IDS_COM_SK_RENAME"
-msgstr "Hernoemen"
-
 msgid "IDS_COM_SK_SEARCH"
 msgstr "Zoeken"
 
@@ -1240,35 +1261,17 @@ msgstr "Verzend"
 msgid "IDS_COM_SK_SEND_ABB"
 msgstr "Verzend"
 
-msgid "IDS_COM_SK_SET"
-msgstr "Instellen"
-
-msgid "IDS_COM_SK_STOP"
-msgstr "Stoppen"
-
 msgid "IDS_COM_SK_VIDEO_CALL"
 msgstr "Video-oproep"
 
-msgid "IDS_COM_SK_YES"
-msgstr "Ja"
-
 msgid "IDS_IDLE_BODY_ACTIVESYNC"
 msgstr "ActiveSync"
-
-msgid "IDS_IDLE_BODY_ASPHALT5"
-msgstr "Asphalt5"
-
-msgid "IDS_IDLE_BODY_CREYON_PHYSICS"
-msgstr "Creyon physics"
 
 msgid "IDS_IDLE_BODY_RESOLUTION"
 msgstr "Resolutie"
 
 msgid "IDS_IDLE_BODY_RSS"
 msgstr "RSS"
-
-msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU"
-msgstr "Samsung Apps"
 
 msgid "IDS_COM_BODY_END"
 msgstr "Stop"
@@ -1357,9 +1360,6 @@ msgstr "DI"
 msgid "IDS_COM_POP_WED"
 msgstr "WO"
 
-msgid "IDS_COM_BODY_DONE"
-msgstr "Gereed"
-
 msgid "IDS_COM_BODY_APPLICATIONS"
 msgstr "Apps"
 
@@ -1369,8 +1369,8 @@ msgstr "Indeling selecteren"
 msgid "IDS_COM_SK_LAUNCH"
 msgstr "Start"
 
-msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
-msgstr "Noodoproep"
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "Via MMS"
 
 msgid "IDS_COM_OPT_HEADPHONES_ABB"
 msgstr "Koptelefoons"
@@ -1408,9 +1408,6 @@ msgstr "Niets geselecteerd"
 msgid "IDS_COM_POP_AVAILABLE_USES"
 msgstr "Aantal keer dat het gebruikt mag worden"
 
-msgid "IDS_COM_BODY_FORWARDING"
-msgstr "Doorsturen"
-
 msgid "IDS_COM_BODY_NO_SERVICE"
 msgstr "Geen netwerk"
 
@@ -1441,23 +1438,14 @@ msgstr "Alle kanalen"
 msgid "IDS_COM_SK_CONFIRM"
 msgstr "OK"
 
-msgid "IDS_COM_SK_DECLINE"
-msgstr "Afwijzen"
-
 msgid "IDS_COM_BODY_GENERAL"
 msgstr "Algemeen"
-
-msgid "IDS_COM_BODY_GOOGLE"
-msgstr "Google"
 
 msgid "IDS_COM_BODY_HOME"
 msgstr "Privé"
 
 msgid "IDS_COM_BODY_IM_IN_A_MEETING"
 msgstr "Ik ben in een vergadering"
-
-msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
-msgstr "Kies via Wi-Fi"
 
 msgid "IDS_COM_BODY_MOBILE"
 msgstr "Mobiel"
@@ -1883,7 +1871,7 @@ msgid "IDS_COM_POP_VERSION"
 msgstr "Versie"
 
 msgid "IDS_COM_BODY_DEFAULT"
-msgstr "Sjabloon"
+msgstr "Standaard"
 
 msgid "IDS_COM_BODY_CUT"
 msgstr "Knippen"
@@ -2971,17 +2959,11 @@ msgstr "Kroatië"
 msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
 msgstr "Zürich"
 
-msgid "IDS_COM_BODY_NFC"
-msgstr "NFC"
-
 msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
 msgstr "Kan %s niet starten"
 
-msgid "IDS_COM_BODY_CONTINUE"
-msgstr "Doorgaan"
-
-msgid "IDS_COM_BUTTON_LOGIN"
-msgstr "Inloggen"
+msgid "IDS_COM_SK_TRY"
+msgstr "Proberen"
 
 msgid "IDS_COM_POP_DEFAULT_APPLICATION"
 msgstr "Standaardapplicatie"
@@ -2992,38 +2974,8 @@ msgstr "Aan"
 msgid "IDS_COM_POP_DISABLED"
 msgstr "Uit"
 
-msgid "IDS_COM_BUTTON_SCAN"
-msgstr "Scannen"
-
-msgid "IDS_COM_OPT_COLOUR"
-msgstr "Kleur"
-
-msgid "IDS_COM_BODY_CERTIFICATE"
-msgstr "Certificaat"
-
 msgid "IDS_COM_BODY_VIDEO_PLAYER"
 msgstr "Videospeler"
-
-msgid "IDS_COM_BODY_FAVOURITE"
-msgstr "Favoriet"
-
-msgid "IDS_COM_SK_RESTART"
-msgstr "Herstarten"
-
-msgid "IDS_COM_OPT_COPY"
-msgstr "Kopiëren"
-
-msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
-msgstr "°C"
-
-msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
-msgstr "°F"
-
-msgid "IDS_COM_SK3_PREVIEW"
-msgstr "Voorbeeld"
-
-msgid "IDS_COM_POP_SOS"
-msgstr "SOS"
 
 msgid "IDS_COM_BODY_JANUARY"
 msgstr "Januari"
@@ -3061,3 +3013,98 @@ msgstr "December"
 msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
 msgstr "Geselecteerde gegevens niet gevonden"
 
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Weer"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "Maximumaantal tekens bereikt"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "Maximumaantal tekens (%d) bereikt"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "S Voice"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S Cloud"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "Annuleer"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "Datum"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "Onbekende netwerkfout opgetreden"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "Tijd"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "Klok"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "Afbeelding beller"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "Alles wissen"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "Synchroniseer"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "Invoegen"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "Hier kopiëren"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "Wissen"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "Afdrukken"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "Gum"
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "Tag bewerken"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "Achtergrond vergrendelscherm"
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "SD-kaart voorbereiden..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "Negeren"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "Afbrek."
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "SD-kaart verwijderd"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "Kan SD-kaart niet openen"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "SD-kaart kan veilig worden verwijderd"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "SD-kaart onverwachts verwijderd"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#ABCDEFGHIJKLMNOPQRSTUVWXYZ"

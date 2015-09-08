@@ -1,9 +1,3 @@
-msgid "IDS_COM_POP_SOUND_OFF"
-msgstr "Ses kapalı"
-
-msgid "IDS_COM_POP_SOUND_ON"
-msgstr "Ses açık"
-
 msgid "IDS_COM_BODY_FRIDAY"
 msgstr "Cuma"
 
@@ -25,8 +19,302 @@ msgstr "Salı"
 msgid "IDS_COM_BODY_WEDNESDAY"
 msgstr "Çarşamba"
 
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Zil sesleri"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Kullanıcı adı"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Diğer"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Görüntüle"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Gizle"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Diğer"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Yenile"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Güncelle"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "İptal"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Otomatik"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Düzenle"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Düzenle"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Hesap sil"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Paylaş"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Albümler"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "E-posta adresi"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Konum"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Manuel"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Video"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Sil?"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Şifre"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Engelle"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "Ses kapalı"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Hesaplar"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "Ses açık"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Resimler"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Diğerleri"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Buluyor"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Konu"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Videolar"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Duvar kağıdı"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Rehbere ekle"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Parlaklık"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Yeni kişi ekle"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Sil"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Kaydet"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Bağlanılıyor..."
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Silindi"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Tamamlandı"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Arama"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galeri"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Hiçbiri"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Hepsini seç"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "İptal"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Ekle"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Geri"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Arama"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Kaydet"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Alarm"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Hepsi"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Şifre"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Takvim"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Rehber"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Kopyala"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-posta"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM Radyo"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "İlet"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Yardım"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Görüntü düzenleyici"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "İnternet"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Arama kaydı"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Not"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Mesaj"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Mesajlar"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Müzik"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Dosyalarım"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Kapalı"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Açık"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Telefon"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Ayarlar"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Video arama"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Sesli arama"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Ses Kaydedici"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Yeni e-posta"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Sil"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Düzenle"
+
+msgid "IDS_COM_SK_NO"
+msgstr "Hayır"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Tamam"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Yen. ad."
+
+msgid "IDS_COM_SK_SET"
+msgstr "Ayarla"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Durdur"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Evet"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Tamamlandı"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "Acil arama"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "İletme"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Reddet"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Wi-Fi ile Kies"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "Devam"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "Oturum aç"
+
 msgid "IDS_COM_BODY_NA"
 msgstr "Geçerli değil"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "Tara"
 
 msgid "IDS_COM_BODY_BASIC"
 msgstr "Temel"
@@ -70,9 +358,6 @@ msgstr "Özel"
 msgid "IDS_COM_BODY_RESUME"
 msgstr "Devam"
 
-msgid "IDS_COM_BODY_RINGTONES"
-msgstr "Zil sesleri"
-
 msgid "IDS_COM_BODY_SECONDS_LC"
 msgstr "saniye"
 
@@ -87,12 +372,6 @@ msgstr "Sistem"
 
 msgid "IDS_COM_BODY_UNABLE_TO_ADD"
 msgstr "Eklenemiyor"
-
-msgid "IDS_COM_BODY_USER_NAME"
-msgstr "Kullanıcı adı"
-
-msgid "IDS_COM_DISCARD"
-msgstr "At"
 
 msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
 msgstr "Duvar kağıdını değiştir"
@@ -145,9 +424,6 @@ msgstr "Taşıyor..."
 msgid "IDS_COM_POP_MOVING_FAILED"
 msgstr "Taşıma başarısız"
 
-msgid "IDS_COM_POP_NAME"
-msgstr "İsim"
-
 msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
 msgstr "Dahili hata"
 
@@ -178,8 +454,8 @@ msgstr "Kaydediliyor…"
 msgid "IDS_COM_POP_SELECTED"
 msgstr "Seçili"
 
-msgid "IDS_COM_POP_SMALL_MINUTES"
-msgstr "Dakika"
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "Renkli"
 
 msgid "IDS_COM_POP_TRY_AGAIN"
 msgstr "Tekrar dene"
@@ -193,20 +469,8 @@ msgstr "Titreşim"
 msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
 msgstr "Kilidi kaldırmak istiyor musunuz?"
 
-msgid "IDS_COM_SK3_MORE"
-msgstr "Diğer"
-
-msgid "IDS_COM_SK4_VIEW_BY"
-msgstr "Görüntüle"
-
-msgid "IDS_COM_SK_HIDE"
-msgstr "Gizle"
-
 msgid "IDS_COM_SK_LANGUAGE"
 msgstr "Dil"
-
-msgid "IDS_COM_SK_MORE"
-msgstr "Diğer"
 
 msgid "IDS_COM_SK_MORE_LITE"
 msgstr "Daha Fzl"
@@ -214,20 +478,20 @@ msgstr "Daha Fzl"
 msgid "IDS_COM_SK_RECORD"
 msgstr "Kayıt"
 
-msgid "IDS_COM_SK_REFRESH"
-msgstr "Yenile"
-
 msgid "IDS_COM_SK_RESULT"
 msgstr "Sonuç"
 
 msgid "IDS_COM_SK_SET_AS"
 msgstr "Farklı ayarla"
 
-msgid "IDS_COM_SK_UPDATE"
-msgstr "Güncelle"
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "Sık kullanılanlar"
 
-msgid "IDS_COM_SK_CANCEL"
-msgstr "İptal"
+msgid "IDS_COM_BODY_TAG"
+msgstr "Etiket"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "Sırala"
 
 msgid "IDS_COM_BODY_12_HOURS"
 msgstr "12 saat"
@@ -247,15 +511,6 @@ msgstr "Her zaman sor"
 msgid "IDS_COM_BODY_AUTHOR"
 msgstr "Yazar"
 
-msgid "IDS_COM_BODY_AUTOMATIC"
-msgstr "Otomatik"
-
-msgid "IDS_COM_BODY_BY_MMS"
-msgstr "MMS ile"
-
-msgid "IDS_COM_BODY_EDIT"
-msgstr "Düzenle"
-
 msgid "IDS_COM_BODY_FLICKR"
 msgstr "Flickr"
 
@@ -264,9 +519,6 @@ msgstr "Hiçbir zaman"
 
 msgid "IDS_COM_BODY_NOTE"
 msgstr "Not"
-
-msgid "IDS_COM_BODY_PICASA"
-msgstr "Picasa"
 
 msgid "IDS_COM_BODY_PREVIOUS_DAYS"
 msgstr "Önceki günler"
@@ -283,14 +535,8 @@ msgstr "Metin eklemek için dokunun"
 msgid "IDS_COM_BODY_VIA_EMAIL"
 msgstr "E-posta ile"
 
-msgid "IDS_COM_BODY_YOU_TUBE"
-msgstr "YouTube"
-
 msgid "IDS_COM_BUTTON_SHARE"
 msgstr "Paylaş"
-
-msgid "IDS_COM_HEADER_EDIT"
-msgstr "Düzenle"
 
 msgid "IDS_COM_OPT_FILES"
 msgstr "Dosya"
@@ -300,9 +546,6 @@ msgstr "Dışardan al"
 
 msgid "IDS_COM_OPT_VIA_EMAIL"
 msgstr "E-posta ile"
-
-msgid "IDS_COM_POP_DELETE_ACCOUNT"
-msgstr "Hesap sil"
 
 msgid "IDS_COM_POP_FILE"
 msgstr "Dosya"
@@ -330,9 +573,6 @@ msgstr "Onayla"
 
 msgid "IDS_COM_BUTTON_RECENT"
 msgstr "Yakın"
-
-msgid "IDS_COM_SK4_SHARE"
-msgstr "Paylaş"
 
 msgid "IDS_COM_BODY_BOOKMARK"
 msgstr "Yer İmi"
@@ -370,11 +610,14 @@ msgstr "Şebeke hatası"
 msgid "IDS_COM_POP_NO_ACCOUNTS"
 msgstr "Hesap yok"
 
+msgid "IDS_COM_SK_RESTART"
+msgstr "Ynd bşlt"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "Kopyala"
+
 msgid "IDS_COM_BODY_ALBUM"
 msgstr "Albüm"
-
-msgid "IDS_COM_BODY_ALBUMS"
-msgstr "Albümler"
 
 msgid "IDS_COM_BODY_AUTO_REFRESH"
 msgstr "Otomatik yenileme"
@@ -387,9 +630,6 @@ msgstr "İndirildi"
 
 msgid "IDS_COM_BODY_DOWNLOADS"
 msgstr "İndirilenler"
-
-msgid "IDS_COM_BODY_EMAIL_ADDRESS"
-msgstr "E-posta adresi"
 
 msgid "IDS_COM_BODY_EMAIL_SIZE"
 msgstr "E-posta boyutu"
@@ -405,12 +645,6 @@ msgstr "Google Maps"
 
 msgid "IDS_COM_BODY_ID"
 msgstr "Kimlik"
-
-msgid "IDS_COM_BODY_LOCATION"
-msgstr "Konum"
-
-msgid "IDS_COM_BODY_MANUAL"
-msgstr "Manuel"
 
 msgid "IDS_COM_BODY_NO_CONTENTS"
 msgstr "İçerik yok"
@@ -445,9 +679,6 @@ msgstr "Eklemek için dokunun"
 msgid "IDS_COM_BODY_TO"
 msgstr "Alıcı"
 
-msgid "IDS_COM_BODY_VIDEO"
-msgstr "Video"
-
 msgid "IDS_COM_BODY_VOICE"
 msgstr "Ses"
 
@@ -481,9 +712,6 @@ msgstr "Zaten var"
 msgid "IDS_COM_POP_CANCELLED"
 msgstr "İptal edildi"
 
-msgid "IDS_COM_POP_DELETE_Q"
-msgstr "Sil?"
-
 msgid "IDS_COM_POP_DELETING"
 msgstr "Siliniyor..."
 
@@ -493,9 +721,6 @@ msgstr "İndiriliyor..."
 msgid "IDS_COM_POP_FORMAT"
 msgstr "Biçim"
 
-msgid "IDS_COM_POP_INTERNAL_ERROR"
-msgstr "Bilinmeyen hata"
-
 msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
 msgstr "Bellek kartı takıldı"
 
@@ -504,9 +729,6 @@ msgstr "Hafıza kartı çıkarıldı"
 
 msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
 msgstr "Yeterli hafıza yok"
-
-msgid "IDS_COM_POP_PASSWORD"
-msgstr "Şifre"
 
 msgid "IDS_COM_POP_REMOVED"
 msgstr "Kaldırıldı"
@@ -520,20 +742,11 @@ msgstr "Gönderme başarısız"
 msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
 msgstr "Servis Kullanılamıyor"
 
-msgid "IDS_COM_POP_SIZE"
-msgstr "Boyut"
-
-msgid "IDS_COM_POP_TIME"
-msgstr "Saat"
-
 msgid "IDS_COM_POP_TYPE"
 msgstr "Tür"
 
 msgid "IDS_COM_POP_UNABLE_TO_DELETE"
 msgstr "Silinemiyor"
-
-msgid "IDS_COM_SK3_BLOCK"
-msgstr "Engelle"
 
 msgid "IDS_COM_SK3_COMPOSE"
 msgstr "Yaz"
@@ -549,6 +762,18 @@ msgstr "Cevapla"
 
 msgid "IDS_COM_SK_START"
 msgstr "Başlat"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "Önizleme"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "Acil"
 
 msgid "IDS_COM_POP_DELETE_FAILED"
 msgstr "Silinemedi"
@@ -567,9 +792,6 @@ msgstr "1 dakika"
 
 msgid "IDS_COM_BODY_1_WEEK"
 msgstr "1 hafta"
-
-msgid "IDS_COM_BODY_ACCOUNTS"
-msgstr "Hesaplar"
 
 msgid "IDS_COM_BODY_BIRTHDAY"
 msgstr "Doğum günü"
@@ -592,17 +814,11 @@ msgstr "Yazı tipi"
 msgid "IDS_COM_BODY_GROUP"
 msgstr "Grup"
 
-msgid "IDS_COM_BODY_IMAGES"
-msgstr "Resimler"
-
 msgid "IDS_COM_BODY_INFO"
 msgstr "Bilgi"
 
 msgid "IDS_COM_BODY_MELODY"
 msgstr "Melodi"
-
-msgid "IDS_COM_BODY_OTHERS"
-msgstr "Diğerleri"
 
 msgid "IDS_COM_BODY_PD_MINUTES"
 msgstr "%d dakika"
@@ -613,44 +829,20 @@ msgstr "Yeniden adlandır"
 msgid "IDS_COM_BODY_RINGTONE"
 msgstr "Zil sesi"
 
-msgid "IDS_COM_BODY_SEARCH"
-msgstr "Akıllı Arama"
-
 msgid "IDS_COM_BODY_SEND"
 msgstr "Gönder"
 
 msgid "IDS_COM_BODY_SMS"
 msgstr "SMS"
 
-msgid "IDS_COM_BODY_SUBJECT"
-msgstr "Konu"
-
 msgid "IDS_COM_BODY_TODAY"
 msgstr "Bugün"
-
-msgid "IDS_COM_BODY_VIDEOS"
-msgstr "Videolar"
-
-msgid "IDS_COM_BODY_WALLPAPER"
-msgstr "Duvar kağıdı"
 
 msgid "IDS_COM_BODY_YESTERDAY"
 msgstr "Dün"
 
 msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
 msgstr "Yer imlerine ekle"
-
-msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
-msgstr "Rehbere ekle"
-
-msgid "IDS_COM_OPT_BRIGHTNESS"
-msgstr "Parlaklık"
-
-msgid "IDS_COM_OPT_CREATE_CONTACT"
-msgstr "Yeni kişi ekle"
-
-msgid "IDS_COM_OPT_DELETE"
-msgstr "Sil"
 
 msgid "IDS_COM_OPT_EFFECTS"
 msgstr "Efektler"
@@ -663,9 +855,6 @@ msgstr "Tuşlar"
 
 msgid "IDS_COM_OPT_LOGOUT"
 msgstr "Oturumu kapat"
-
-msgid "IDS_COM_OPT_SAVE"
-msgstr "Kaydet"
 
 msgid "IDS_COM_POP_ACCEPT"
 msgstr "Kabul et"
@@ -682,23 +871,11 @@ msgstr "Temizle"
 msgid "IDS_COM_POP_CLOSE"
 msgstr "Kapat"
 
-msgid "IDS_COM_POP_CONNECTING"
-msgstr "Bağlanılıyor..."
-
 msgid "IDS_COM_POP_CONNECTION_ERROR"
 msgstr "Bağlantı hatası"
 
 msgid "IDS_COM_POP_CONNECTION_FAILED"
 msgstr "Bağlantı başarısız"
-
-msgid "IDS_COM_POP_DATE"
-msgstr "Tarih"
-
-msgid "IDS_COM_POP_DELETED"
-msgstr "Silindi"
-
-msgid "IDS_COM_POP_DONE"
-msgstr "Tamamlandı"
 
 msgid "IDS_COM_POP_ENTER_NAME"
 msgstr "İsim girin"
@@ -745,17 +922,8 @@ msgstr "Normal"
 msgid "IDS_IDLE_BUTTON_CANCEL"
 msgstr "İptal"
 
-msgid "IDS_COM_ADD"
-msgstr "Ekle"
-
-msgid "IDS_COM_BODY_CALL"
-msgstr "Arama"
-
 msgid "IDS_COM_BODY_CONTACT"
 msgstr "Kişi"
-
-msgid "IDS_COM_BODY_GALLERY"
-msgstr "Galeri"
 
 msgid "IDS_COM_BODY_MAPS"
 msgstr "Haritalar"
@@ -763,29 +931,17 @@ msgstr "Haritalar"
 msgid "IDS_COM_BODY_MUSIC_STORE"
 msgstr "Müzik mağazası"
 
-msgid "IDS_COM_BODY_NONE"
-msgstr "Hiçbiri"
-
 msgid "IDS_COM_BODY_NO_NAME"
 msgstr "İsim yok"
 
 msgid "IDS_COM_BODY_NO_SIM"
 msgstr "SIM yok"
 
-msgid "IDS_COM_BODY_SELECT_ALL"
-msgstr "Hepsini seç"
-
 msgid "IDS_COM_POP_ADDRESS"
 msgstr "Adres"
 
-msgid "IDS_COM_POP_CANCEL"
-msgstr "İptal"
-
 msgid "IDS_COM_POP_FAILED"
 msgstr "Başarısız"
-
-msgid "IDS_COM_POP_LOW_BATTERY_UNABLE_TO_LAUNCH_APPLICATION"
-msgstr "Düşük pil. Uygulama başlatılamıyor"
 
 msgid "IDS_COM_POP_NONE"
 msgstr "Hiçbiri"
@@ -796,53 +952,17 @@ msgstr "Başarılı"
 msgid "IDS_COM_SK_ACCEPT"
 msgstr "Kabul et"
 
-msgid "IDS_COM_SK_ADD"
-msgstr "Ekle"
-
-msgid "IDS_COM_SK_BACK"
-msgstr "Geri"
-
-msgid "IDS_COM_SK_CALL"
-msgstr "Arama"
-
 msgid "IDS_COM_SK_NEXT"
 msgstr "İleri"
 
 msgid "IDS_COM_SK_QUIT"
 msgstr "Çık"
 
-msgid "IDS_COM_SK_SAVE"
-msgstr "Kaydet"
-
-msgid "IDS_IDLE_BODY_CARD_SCANNER"
-msgstr "Kart Tarayıcı"
-
-msgid "IDS_IDLE_BODY_CLOCK"
-msgstr "Saat"
-
-msgid "IDS_IDLE_BODY_E_BOOK"
-msgstr "E-kitap"
-
-msgid "IDS_IDLE_BODY_MOBILE_AP"
-msgstr "Mobil AP"
-
-msgid "IDS_IDLE_BODY_WEATHER"
-msgstr "Hava"
-
-msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU_ABB"
-msgstr "Samsung Apps"
-
 msgid "IDS_COM_BODY_ACTIVATED"
 msgstr "Etkinleştirildi"
 
 msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
 msgstr "SIM"
-
-msgid "IDS_COM_BODY_ALARM"
-msgstr "Alarm"
-
-msgid "IDS_COM_BODY_ALL"
-msgstr "Hepsi"
 
 msgid "IDS_COM_BODY_ALLSHARE"
 msgstr "AllShare"
@@ -856,9 +976,6 @@ msgstr "Nis."
 msgid "IDS_COM_BODY_AUG"
 msgstr "Ağu."
 
-msgid "IDS_COM_BODY_AUTH_PASSWORD"
-msgstr "Şifre"
-
 msgid "IDS_COM_BODY_AVAILABLE"
 msgstr "Uygun"
 
@@ -871,29 +988,14 @@ msgstr "Pil tamamen şarj oldu.\nŞarj cihazını çıkartın"
 msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
 msgstr "Pil tümüyle şarj oldu.\nŞarj cihazını çıkartın"
 
-msgid "IDS_COM_BODY_BLUETOOTH"
-msgstr "Bluetooth"
-
 msgid "IDS_COM_BODY_BROWSER"
 msgstr "İnternet"
 
 msgid "IDS_COM_BODY_CALCULATOR"
 msgstr "Hesap makinesi"
 
-msgid "IDS_COM_BODY_CALENDAR"
-msgstr "Takvim"
-
-msgid "IDS_COM_BODY_CAMERA"
-msgstr "Kamera"
-
-msgid "IDS_COM_BODY_CONTACTS"
-msgstr "Rehber"
-
 msgid "IDS_COM_BODY_CONVERTOR"
 msgstr "Dönüştürücü"
-
-msgid "IDS_COM_BODY_COPY"
-msgstr "Kopyala"
 
 msgid "IDS_COM_BODY_CREATE"
 msgstr "Oluştur"
@@ -913,20 +1015,8 @@ msgstr "İsim"
 msgid "IDS_COM_BODY_DETAILS_TITLE"
 msgstr "Başlık"
 
-msgid "IDS_COM_BODY_EMAIL"
-msgstr "E-posta"
-
-msgid "IDS_COM_BODY_FACEBOOK"
-msgstr "Facebook"
-
 msgid "IDS_COM_BODY_FEB"
 msgstr "Şub."
-
-msgid "IDS_COM_BODY_FM_RADIO"
-msgstr "FM Radyo"
-
-msgid "IDS_COM_BODY_FORWARD"
-msgstr "İlet"
 
 msgid "IDS_COM_BODY_FORWARD_A"
 msgstr "İlet"
@@ -934,17 +1024,8 @@ msgstr "İlet"
 msgid "IDS_COM_BODY_FRI"
 msgstr "Cum"
 
-msgid "IDS_COM_BODY_HELP"
-msgstr "Yardım"
-
 msgid "IDS_COM_BODY_IM"
 msgstr "IM"
-
-msgid "IDS_COM_BODY_IMAGE_EDITOR"
-msgstr "Görüntü düzenleyici"
-
-msgid "IDS_COM_BODY_INTERNET"
-msgstr "İnternet"
 
 msgid "IDS_COM_BODY_JAN"
 msgstr "Oca."
@@ -961,9 +1042,6 @@ msgstr "Kilitle"
 msgid "IDS_COM_BODY_LOCK_A"
 msgstr "Kilitle"
 
-msgid "IDS_COM_BODY_LOGS"
-msgstr "Arama kaydı"
-
 msgid "IDS_COM_BODY_LOW"
 msgstr "Düşük"
 
@@ -976,17 +1054,8 @@ msgstr "Mar."
 msgid "IDS_COM_BODY_MAY"
 msgstr "Mayıs"
 
-msgid "IDS_COM_BODY_MEMO"
-msgstr "Not"
-
 msgid "IDS_COM_BODY_MEMORY_CARD"
 msgstr "Hafıza kartı"
-
-msgid "IDS_COM_BODY_MESSAGE"
-msgstr "Mesaj"
-
-msgid "IDS_COM_BODY_MESSAGES"
-msgstr "Mesajlar"
 
 msgid "IDS_COM_BODY_MESSAGING"
 msgstr "Mesajlaşma"
@@ -1006,17 +1075,11 @@ msgstr "Pts"
 msgid "IDS_COM_BODY_MOVE"
 msgstr "Taşı"
 
-msgid "IDS_COM_BODY_MUSIC"
-msgstr "Müzik"
-
 msgid "IDS_COM_BODY_MUSIC_PLAYER"
 msgstr "Müzik Çalar"
 
 msgid "IDS_COM_BODY_MY_ACCOUNT"
 msgstr "Hesabım"
-
-msgid "IDS_COM_BODY_MY_FILES"
-msgstr "Dosyalarım"
 
 msgid "IDS_COM_BODY_NAVIGATION"
 msgstr "Navigasyon"
@@ -1026,15 +1089,6 @@ msgstr "Kas."
 
 msgid "IDS_COM_BODY_OCT"
 msgstr "Eki."
-
-msgid "IDS_COM_BODY_OFF"
-msgstr "Kapalı"
-
-msgid "IDS_COM_BODY_ON"
-msgstr "Açık"
-
-msgid "IDS_COM_BODY_PHONE"
-msgstr "Telefon"
 
 msgid "IDS_COM_BODY_PIN_LOCK"
 msgstr "PIN kilidi"
@@ -1050,9 +1104,6 @@ msgstr "Cts"
 
 msgid "IDS_COM_BODY_SEP"
 msgstr "Eyl."
-
-msgid "IDS_COM_BODY_SETTINGS"
-msgstr "Ayarlar"
 
 msgid "IDS_COM_BODY_SILENT"
 msgstr "Sessiz"
@@ -1096,20 +1147,8 @@ msgstr "Bilinmeyen"
 msgid "IDS_COM_BODY_USB"
 msgstr "USB"
 
-msgid "IDS_COM_BODY_VIDEO_CALL"
-msgstr "Video arama"
-
-msgid "IDS_COM_BODY_VOICE_CALL"
-msgstr "Sesli arama"
-
-msgid "IDS_COM_BODY_VOICE_RECORDER"
-msgstr "Ses Kaydedici"
-
 msgid "IDS_COM_BODY_WED"
 msgstr "Çar"
-
-msgid "IDS_COM_BODY_WI_FI"
-msgstr "Wi-Fi"
 
 msgid "IDS_COM_BODY_WORLD_CLOCK"
 msgstr "Dünya Saati"
@@ -1162,9 +1201,6 @@ msgstr "Unutulan etkinlik"
 msgid "IDS_COM_POP_NEW_EMAIL"
 msgstr "yeni E-posta"
 
-msgid "IDS_COM_POP_NEW_EMAILS"
-msgstr "Yeni e-posta"
-
 msgid "IDS_COM_POP_NEW_MESSAGE"
 msgstr "Yeni mesaj"
 
@@ -1180,29 +1216,17 @@ msgstr "Kilit aç"
 msgid "IDS_COM_POP_WARNING"
 msgstr "Uyarı"
 
-msgid "IDS_COM_SK_DELETE"
-msgstr "Sil"
-
 msgid "IDS_COM_SK_DIALLER"
 msgstr "Arayıcı"
 
 msgid "IDS_COM_SK_DONE"
 msgstr "Kaydet"
 
-msgid "IDS_COM_SK_EDIT"
-msgstr "Düzenle"
-
 msgid "IDS_COM_SK_MENU"
 msgstr "Menü"
 
-msgid "IDS_COM_SK_NO"
-msgstr "Hayır"
-
 msgid "IDS_COM_SK_OFF"
 msgstr "Kapalı"
-
-msgid "IDS_COM_SK_OK"
-msgstr "Tamam"
 
 msgid "IDS_COM_SK_OPEN"
 msgstr "Aç"
@@ -1222,11 +1246,8 @@ msgstr "Çal"
 msgid "IDS_COM_SK_REMOVE"
 msgstr "Kaldır"
 
-msgid "IDS_COM_SK_RENAME"
-msgstr "Yen. ad."
-
 msgid "IDS_COM_SK_SEARCH"
-msgstr "Bul"
+msgstr "Buluyor"
 
 msgid "IDS_COM_SK_SELECT"
 msgstr "Seç"
@@ -1240,35 +1261,17 @@ msgstr "Gönder"
 msgid "IDS_COM_SK_SEND_ABB"
 msgstr "Gönder"
 
-msgid "IDS_COM_SK_SET"
-msgstr "Ayarla"
-
-msgid "IDS_COM_SK_STOP"
-msgstr "Durdur"
-
 msgid "IDS_COM_SK_VIDEO_CALL"
 msgstr "Video arama"
 
-msgid "IDS_COM_SK_YES"
-msgstr "Evet"
-
 msgid "IDS_IDLE_BODY_ACTIVESYNC"
 msgstr "ActiveSync"
-
-msgid "IDS_IDLE_BODY_ASPHALT5"
-msgstr "Asphalt5"
-
-msgid "IDS_IDLE_BODY_CREYON_PHYSICS"
-msgstr "Creyon physics"
 
 msgid "IDS_IDLE_BODY_RESOLUTION"
 msgstr "Çözünürlük"
 
 msgid "IDS_IDLE_BODY_RSS"
 msgstr "RSS"
-
-msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU"
-msgstr "Samsung Apps"
 
 msgid "IDS_COM_BODY_END"
 msgstr "Bitir"
@@ -1357,9 +1360,6 @@ msgstr "Sal"
 msgid "IDS_COM_POP_WED"
 msgstr "Çar"
 
-msgid "IDS_COM_BODY_DONE"
-msgstr "Tamamlandı"
-
 msgid "IDS_COM_BODY_APPLICATIONS"
 msgstr "Uygulamalar"
 
@@ -1369,8 +1369,8 @@ msgstr "Yerleşim seç"
 msgid "IDS_COM_SK_LAUNCH"
 msgstr "Başlat"
 
-msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
-msgstr "Acil arama"
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "MMS ile"
 
 msgid "IDS_COM_OPT_HEADPHONES_ABB"
 msgstr "Kulaklıklar"
@@ -1408,9 +1408,6 @@ msgstr "Bir şey seçilmedi"
 msgid "IDS_COM_POP_AVAILABLE_USES"
 msgstr "Mevcut kullanımlar"
 
-msgid "IDS_COM_BODY_FORWARDING"
-msgstr "İletme"
-
 msgid "IDS_COM_BODY_NO_SERVICE"
 msgstr "Servis yok"
 
@@ -1441,23 +1438,14 @@ msgstr "Tüm kanallar"
 msgid "IDS_COM_SK_CONFIRM"
 msgstr "Onayla"
 
-msgid "IDS_COM_SK_DECLINE"
-msgstr "Reddet"
-
 msgid "IDS_COM_BODY_GENERAL"
 msgstr "Genel"
-
-msgid "IDS_COM_BODY_GOOGLE"
-msgstr "Google"
 
 msgid "IDS_COM_BODY_HOME"
 msgstr "Ev"
 
 msgid "IDS_COM_BODY_IM_IN_A_MEETING"
 msgstr "Toplantıdayım"
-
-msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
-msgstr "Wi-Fi ile Kies"
 
 msgid "IDS_COM_BODY_MOBILE"
 msgstr "Cep Telefonu"
@@ -2971,17 +2959,11 @@ msgstr "Hırvatistan"
 msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
 msgstr "Zürih"
 
-msgid "IDS_COM_BODY_NFC"
-msgstr "NFC"
-
 msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
 msgstr "%s öğesi başlatılamıyor"
 
-msgid "IDS_COM_BODY_CONTINUE"
-msgstr "Devam"
-
-msgid "IDS_COM_BUTTON_LOGIN"
-msgstr "Oturum aç"
+msgid "IDS_COM_SK_TRY"
+msgstr "Dene"
 
 msgid "IDS_COM_POP_DEFAULT_APPLICATION"
 msgstr "Varsayılan uygulama"
@@ -2992,38 +2974,8 @@ msgstr "Etkin"
 msgid "IDS_COM_POP_DISABLED"
 msgstr "Devre dışı"
 
-msgid "IDS_COM_BUTTON_SCAN"
-msgstr "Tara"
-
-msgid "IDS_COM_OPT_COLOUR"
-msgstr "Renkli"
-
-msgid "IDS_COM_BODY_CERTIFICATE"
-msgstr "Sertifika"
-
 msgid "IDS_COM_BODY_VIDEO_PLAYER"
 msgstr "Video Oynatıcı"
-
-msgid "IDS_COM_BODY_FAVOURITE"
-msgstr "Sık kullanılanlar"
-
-msgid "IDS_COM_SK_RESTART"
-msgstr "Ynd bşlt"
-
-msgid "IDS_COM_OPT_COPY"
-msgstr "Kopyala"
-
-msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
-msgstr "°C"
-
-msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
-msgstr "°F"
-
-msgid "IDS_COM_SK3_PREVIEW"
-msgstr "Önizleme"
-
-msgid "IDS_COM_POP_SOS"
-msgstr "Acil"
 
 msgid "IDS_COM_BODY_JANUARY"
 msgstr "Ocak"
@@ -3061,3 +3013,98 @@ msgstr "Aralık"
 msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
 msgstr "Seçili veriler bulunamadı"
 
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Hava"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "Maksimum karakter sayısına ulaşıldı"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "Maksimum karakter sayısına (%d) ulaşıldı"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planlayıcı"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "S Ses"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S Bulutu"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "Vazgeç"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "Tarih"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "Bilinmeyen hata oluştu"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "Süre"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "Saat"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "Arayanın resmi"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "Tümünü temizle"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "Senkronizasyon"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "Ekle"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "Buraya yapıştır"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "Temizle"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "Yazdır"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "Silgi"
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "Etiketi düzenle"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "Kltli ekran dvrkağıdı"
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "SD kart hazırlanıyor..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "Yoksay"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "İptal et"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "SD kart çıkartıldı"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "SD kartına erişilemiyor"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "SD kart çıkartılabilir"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "SD kart beklenmedik şekilde çıkartıldı"
+
+msgid "IDS_COM_OPT_S_MEMO"
+msgstr "S Memo"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ"
